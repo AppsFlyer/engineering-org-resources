@@ -1,4 +1,6 @@
-# engineering-org-resources
+# AppsFlyer Engineering Resources
+
+<img src="/img/AF-Eng-banner.png" width="100%">
 
 **The AppsFlyer engineering team participates in many events, contributes articles, and tries to participate meaningfully in communities around the globe.  This is a roundup of some useful resources that we're happy to share with you.** 
 
