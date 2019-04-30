@@ -4,9 +4,9 @@
 
 ### Find our talk abstracts on:
 * [Big Data](/talk-abstracts.md#big-data-talks)
-* [Programming](/talk-abstracts.md#programming)
-* [Culture](/talk-abstracts.md#culture)
-* [Cloud & Platform Engineering](/talk-abstracts.md#cloud)
+* [Programming](/talk-abstracts.md#programming-talks)
+* [Culture](/talk-abstracts.md#culture-talks)
+* [Cloud & Platform Engineering](/talk-abstracts.md#cloud-%26-platform-talks)
 
 ### Find our speaker bios [here](#).
 
