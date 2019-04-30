@@ -73,48 +73,29 @@ Type: Post-mortem
 
 </details>
 
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary>Down the Big Data Infrastructure Rabbit Hole</summary>
 
-#### Short Description
+#### Talk Description
 
-#### Long Description
+The AppsFlyer data-infrastructure group was established to tackle the growing technical debt around the daily batch data processing - ingesting nearly 90TB a day. One of the initial tasks was focusing on fixing inexplicable corruptions which led us down a rabbit hole full of anomalies with our Spark committer, Hadoop JARs alongside interaction with our AWS S3 buckets (storing petabytes of data). This talk is our war story filled with twists and turns, a first time talk given outside of the walls of AppsFlyer walls aimed at shedding some light on what is truly involved with building a robust, real time, big data operation at scale.
 
-
-Speakers: [Adi Belan](#)
+Speakers: [Zohar Stiro](#)
 Type: Full-length Presentation
 </details>
 <p>
   
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary>A GDPR Retrospective: Implementation by a Large-Scale Data Organization in Reality</summary>
 
 #### Short Description
+GDPR was likely one of the biggest challenges in data management that occurred in 2018.  This talk will be a one year retrospective about how it was executed in reality at a large-scale data organization.
 
 #### Long Description
+The date May 25, 2018 was a fateful day for many companies that process & store client data - particularly across the EU. On this day GDPR went into effect - and no one really knew quite what its effects would be. This talk will take you through our company's journey to compliance - the indexers we used to append & delete client data, and a retrospective of how this affected our data processing operations. This will walk you through the design through implementation, as well as expectation vs. real demand. Eventually what we imagined would be requested by hundreds of clients at best ended up being requested by tens of thousands - and continues growing, and learning how to manage this new compliance demand alongside our day to day data engineering tasks & processes was no easy feat.
 
-
-Speakers: [Adi Belan](#)
+Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)
 Type: Full-length Presentation
 </details>
 <p>
-  
-  
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
-
-#### Short Description
-
-#### Long Description
-
-
-Speakers: [Adi Belan](#)
-Type: Full-length Presentation
-</details>
-<p>
-  
-  
-
-  
-  
-  
   
   
 <details><summary>Dynamic HBase Coprocessors Using Clojure</summary>
@@ -141,13 +122,33 @@ Speakers: [Morri Feldman](#)
 
 <p>
   
+<!--
+<details><summary>...</summary> -->
+
+<!-- #### Short Description -->
+
+<!-- #### Long Description -->
+
+
+<!-- Speakers: [#](#)
+Type: Full-length Presentation
+</details>
+<p>  -->
+  
 ### [Programming Talks](#programming)
 
 #### Clojure
-<details><summary>1</summary>
-...
-</details>
 
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
 <p>
 
 #### Golang
@@ -170,7 +171,66 @@ Speaker: [Eran Harel](#)
 
 <p>
 
+<details><summary>Migrating a Mission Critical Service to Go</summary>
 
+#### Short Description
+This talk will dive into how we rewrote one of our production services in Go, leveraging Golang’s natives proxy implementation and routines alongside its async capabilities for improved scale & throughput of web services, enabling exponentially improved performance.
+
+#### Long Description
+AppsFlyer, a leading mobile attribution & marketing analytics platform, processes nearly 70+ billion HTTP requests a day (approximately 50 million requests a minute), and is built using a microservices architecture. The entry point to the system that wraps all of the frontend services is a mission-critical (non-micro) service called the API Gateway. This essentially serves as a single point for routing traffic from customers to our backend services, simplifying authentication and authorization exponentially for our clients, but with the tradeoff of also potentially being a single point of failure.
+
+Originally, this service was written in Clojure. As traffic grew - it became apparent that the code for the API gateway was too complex, and needed constant refactoring to enable the throughput required. Once the service became too unstable, we realized the we needed to rewrite the project completely - either in Clojure (just better), or explore other language options as well. This project decided to forego cognitive biases - and explore new language to rewrite the service to. After benchmarking, Go was selected and then went through a rigorous design phase, then rewrite, migration of production services, and benchmarking for improved performance. This talk will walk you through how to qualify a new language to introduce for mission critical production services, best practices for rewriting and migrating production services.
+
+**Talk Outline:**
+* Brief intro to describe technology stack & scenario 
+* Previous architecture and need for rewrite 
+* Benchmarking Clojure vs. other languages 
+* Design, Implementation, Architecture 
+* Migration + Benchmarking performance improvements 
+* Q&A
+
+
+Speakers: [Asy Ronen](#), [Yuri Kalinin](#)
+Type: Full-length Presentation
+</details>
+<p>
+
+
+<details><summary>Building a Service Metrics & Monitoring Stack for Go</summary>
+
+#### Short Description
+As a JVM-less language, this talk will dive into how we built a monitoring and metrics library for Go to be interoperable with additional in-house JVM libraries such as Clojure, Scala, and Javascript.
+
+#### Long Description
+AppsFlyer is largely a Clojure shop, that is a language that requires JVM to run a prerequisite. We recently decided to rewrite one of our mission-critical services in Go, to achieve better performance. While leveraging Go improved throughput, it is not a JVM based language, and in order to achieve out of the box services such as memory usage metrics, garbage collectors and more, for Go this needs to be written from scratch. This talk will dive into how we built a monitoring and metrics library for Go to be interoperable with JVM libraries such as Clojure, Scala, and Javascript to enable cross-language efficiency - and well as work with other parts of the stack including Redis & Kafka.
+
+The talk will begin with outlining the difference between the two metrics stacks, out of the box support for each language and mapping the gaps for migration to Go. We will then dive into the challenges with interoperability between different languages in a production environment, as well as the challenges with writing language-specific libraries from scratch for production services - and will finish with a short demo of the AppsFlyer Go Metrics library, based on Grafana + Go (that will be open sourced once it is production-grade).
+
+If time allows, we will also tell a short tale from the trenches about a bug that was discovered after rolling out the service to production of routines that would open (and not close), that caused a spike in requests, that would never have been discovered had we not written the new services along with the metrics libraries to properly monitor them, which eventually would have led to a massive production failure.
+
+**Talk Outline:**
+* Intro to technology stack - JVM vs. Go Metrics Stack
+* Interoperability challenges between languages and environments
+* Writing a Go-specific metrics stack to be interoperable with other JVM-based languages
+* Short Demo (AppsFlyer Grafana Go Library - AF Go Metrics) 
+
+
+Speakers: [Asy Ronen](#), [Yuri Kalinin](#)
+Type: Full-length Presentation
+</details>
+<p>
+
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
 
 <details><summary>A Journey from Python to Go</summary>
 
@@ -220,15 +280,93 @@ Speakers: [Shimi Bar](#), [Liron Cohen](#)
 <p>
   
 
+<details><summary>Micro-frontends: Is it a Silver Bullet?</summary>
+
+#### Short Description
+Micro-frontends - is it just a hyped out buzzword or do they live up to their promise? This talk will cover how we architected our micro-frontends solution, the challenges we encountered, how we overcame them - and answer the ultimate question, are micro-frontends worth the hype?
+
+#### Long Description
+Micro-Frontends are gaining a lot of traction these days as the “silver bullet” solution to the former monolith project architecture, essentially the frontend variation on microservices. If you’re not familiar with micro-frontends, and how to implement them in your environment, you might find yourself asking “am i missing out on something important?” or “what does this even mean?”
+
+In this talk, I will walk you through our journey where we found ourselves accumulating independent monolithic frontend stacks - and had to find a better way to manage and maintain these stacks in a hyper-growth environment. We will present how we migrated to this loosely-coupled architecture of independent projects and eventually were able to grow to 25+ micro-frontend projects that helped us optimize our development and achieve our goals more rapidly, the challenges we encountered that made our lives miserable - and how we overcame them, and finally will try to answer the ultimate question “are micro-frontends really a silver bullet?
+
+Speakers: [Liron Cohen](#), [Shimi Bar](#)
+Type: Full-length Presentation
+</details>
+<p>
 
 
 ### [Culture Talks](#culture)
 
-<details><summary>1</summary>
-...
-</details>
 
+<details><summary>How we Hard Reset our Hiring & Onboarding Processes & Became High Performing Engineering Organization</summary>
+
+#### Short Description
+One of the long-standing anomalies in the tech industry is the focus on engineering products, but less so on engineering organizational culture.  Building great products, and hiring excellent engineers is a by-product of culture that needs to be constantly improved and evaluated.
+
+#### Long Description
+Have you ever found yourself struggling to build an engineering organization that is quality-driven with consistently great results?  When we analyzed why we didn't feel our organization was performing at the level we had anticipated, we reverse engineered this to fundamental issues with our culture.  Once we started working on this it had a ripple effect to our hiring process & then our onboarding process as well.  This talk will dive into how we refactored our hiring & onboarding to set up new hires for success from day one. This ultimately delivered a well-oiled high performing engineering organization through a practically applicable methodology that is easily replicable. This not only enabled us to improve the quality of our hires, but also retain excellent talent in the long-term.
+
+Speakers: [Gilad Katz](#)
+Type: Full-length Presentation
+</details>
 <p>
+
+
+<details><summary>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</summary>
+
+#### Short Description
+A common modus operandi in many companies is "if it ain't broke - don't fix it" - this talk will demonstrate how to change this mindset to create higher performing engineering organizations.
+
+#### Long Description
+Imagine the technical debt of a startup in exponential growth for six consecutive years (growing from five engineers to 160 over this period, and from 10M daily events to over 70B). During this time, and up to the last 2 years the team focused on product expansion with a “if it ain't broke don’t fix it” attitude, resulting in inherent bugs, system instability & more than 80% of our team focused on maintenance. This will be a tale of how we went all-in on reducing technical debt by allocating more than 70% of the team for 1.5 years to reduce debt. I will share how we rewrote our core engine - at a time of extreme growth, while virtually putting on hold the rollout of any new features - a brave move in a competitive market. After two years into the process we managed to reduce the maintenance effort, number & severity of production issues - with the upside of increasing our velocity significantly. This was all made possible by instilling a culture of craftsmanship that was part of the re-engineering process, that has only been strengthen through this process.
+
+
+Speakers: [Gilad Katz](#)
+Type: Full-length Presentation
+</details>
+<p>
+
+
+<details><summary>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</summary>
+
+#### Talk Description
+We've all suffered from imposter syndrome from time to time.  But it turns out imposter syndrome has some really clear patterns, and there are actually a few simple tips and tricks to start appreciating ourselves more.  This talk will provide some tools to help you keep calm and focus on your small successes  that eventually translate to big successes - similar to Kaizen.  And that all this starts with allowing ourselves to be human first and foremost.
+
+Speakers: [Sharone Zitzman](#)
+Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+</details>
+<p>
+
+
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
+
+<details><summary>Journey to Real Time Analytics in Extreme Growth</summary>
+<p>
+
+
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
+
 
 ### [Cloud & Platform Engineering Talks](#cloud)
 
@@ -257,7 +395,4 @@ Type: Full-length Presentation
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
 </details>
-<p>
-
-<details><summary>Journey to Real Time Analytics in Extreme Growth</summary>
 <p>
