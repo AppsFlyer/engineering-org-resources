@@ -7,7 +7,7 @@ We are happy to be invited to speak in any forum - conference, meetup, community
 ### [Big Data Talks](#big-data)
 <hr/>
 
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary><strong>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</strong></summary>
 
 #### Short Description
 Building solutions around large data sets with near real time response time is no easy feat. This requires the practical application of computer science theory to do so with minimal latency and while remaining fresh and precise.
@@ -24,7 +24,7 @@ Type: Full-length Presentation
 <hr/>
 </details>
 
-<details><summary>Journey to Real-Time Analytics in Extreme Growth</summary>
+<details><summary><strong>Journey to Real-Time Analytics in Extreme Growth</strong></summary>
 
 #### Short Description
 
@@ -42,7 +42,7 @@ Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Res
 
 </details>
 
-<details><summary>Managing Your Kafka in an Explosive Growth Environment</summary>
+<details><summary><strong>Managing Your Kafka in an Explosive Growth Environment</strong></summary>
 
 #### Short Description
 Kafka, many times is just a piece of the stack that lives in production that often times no one wants to touch - because it just works. At AppsFlyer, Kafka sits at the core of our infrastructure that processes billions of events daily.
@@ -58,7 +58,7 @@ Type: Full-length Presentation
 
 </details>
 
-<details><summary>Tick Tock on the Clock - Hope the Data Don't Stop</summary>
+<details><summary><strong>Tick Tock on the Clock - Hope the Data Don't Stop</strong></summary>
 
 #### Short Description
 Sometimes a small error can lead to catastrophic results. This will be a postmortem talk that will detail how we nearly lost massive amounts of data, and the work undertaken under fire to bring us back from the cliff's edge.
@@ -77,7 +77,7 @@ Type: Post-mortem
 
 </details>
 
-<details><summary>Down the Big Data Infrastructure Rabbit Hole</summary>
+<details><summary><strong>Down the Big Data Infrastructure Rabbit Hole</strong></summary>
 
 #### Talk Description
 
@@ -89,7 +89,7 @@ Type: Full-length Presentation
 
 </details>
   
-<details><summary>A GDPR Retrospective: Implementation by a Large-Scale Data Organization in Reality</summary>
+<details><summary><strong>A GDPR Retrospective: Implementation by a Large-Scale Data Organization in Reality</strong></summary>
 
 #### Short Description
 GDPR was likely one of the biggest challenges in data management that occurred in 2018.  This talk will be a one year retrospective about how it was executed in reality at a large-scale data organization.
@@ -104,7 +104,7 @@ The date May 25, 2018 was a fateful day for many companies that process & store 
 </details>
  
   
-<details><summary>Dynamic HBase Coprocessors Using Clojure</summary>
+<details><summary><strong>Dynamic HBase Coprocessors Using Clojure</strong></summary>
 
 #### Abstract
 HBase Coprocessors allow moving nearly arbitrary code execution from the client to the HBase Region Server. For some applications, coprocessors provide a number of major advantages. For instance, moving code from the client can often increase performance by limiting data transfer over the network, especially for aggregation type processing. Also by reducing client data processing, the hardware requirements of the client can lowered. However, programming coprocessors is challenging in several ways. The development cycle for coprocessor development is slow. To try out changes to a coprocessor on a cluster, the coprocessor must be compiled and then the HBase cluster must be restarted to reload the coprocessor. In addition, trying to load a coprocesor with certain defects can crash the HBase cluster.
@@ -117,7 +117,7 @@ Speakers: [Morri Feldman](#)
 </details>
 
 
-<details><summary>Salting Spark for Scale</summary>
+<details><summary><strong>Salting Spark for Scale</strong></summary>
 
 #### Abstract
 One of the major issues that Spark batch jobs have to contend with at AppsFlyer is that our data is inherently skewed.  For instance a couple of apps account for the vast majority of our traffic.  Data skew wreaks havoc on naively written data jobs by making them perform and scale very poorly as the amount of data they need to process increases.  Recently one of our central data aggregations -- the process that prepares data for the overview dashboard -- stopped working and we had essentially reached the limit where we could no longer devote more Ram to the process to help it.  Using a technique called "Salting" to overcome the data skew that was killing this job we were able to get the job working again and make the entire process much more scalable.  I'll go over Salting in depth to explain how it works and how we are starting to use it here at AppsFlyer.
@@ -125,8 +125,6 @@ One of the major issues that Spark batch jobs have to contend with at AppsFlyer 
 Speakers: [Morri Feldman](#)
 
 </details>
-
-<p>
 <br/>
   
 
@@ -152,7 +150,7 @@ Type: Full-length Presentation
 #### Clojure & Functional Programming
 <hr/>
 
-<details><summary>How I Supercharged Learning Clojure through Gamification</summary>
+<details><summary><strong>How I Supercharged Learning Clojure through Gamification</strong></summary>
 
 #### Short Description
 Gamification can be an excellent way to reduce the barrier of entry & quickly learn new programming languages. This talk will dive into how through a simple game you can master new syntaxes by applying concepts from languages you know & leveraging shared libraries to ramp up your coding skills.
@@ -167,7 +165,7 @@ Mastering a new programming language can seem like a daunting task. As a person 
 </details>
 
 
-<details><summary>Channels and Macros in Core.Async</summary>
+<details><summary><strong>Channels and Macros in Core.Async</strong></summary>
 
 #### Short Description
 How to best leverage Clojure’s core.async library for good concurrency and utilization of modern multicore processors without suffering from “callback hell”.
@@ -183,7 +181,7 @@ Clojure’s core.async library implements Tony Hoare’s concurrent programming 
 
 </details>
 
-<details><summary>Clojure Fundamentals Workshop - From Zero to Hero</summary>
+<details><summary><strong>Clojure Fundamentals Workshop - From Zero to Hero</strong></summary>
 
 #### Short Description
 The true value of Clojure is hard to appreciate without experiencing it. Come to this course to find out what makes Clojure so special and why it is attracting so many companies and programmers.
@@ -248,7 +246,7 @@ Type: Workshop (90 Minutes - 8 Hours)
 <hr/>
 
 
-<details><summary>Go-Sundheit - FTW! Async Health Check Library for Golang</summary>
+<details><summary><strong>Go-Sundheit - FTW! Async Health Check Library for Golang</strong></summary>
 
 #### Short Description
 
@@ -265,7 +263,7 @@ Speaker: [Eran Harel](#)
 
 </details>
 
-<details><summary>Migrating a Mission Critical Service to Go</summary>
+<details><summary><strong>Migrating a Mission Critical Service to Go</strong></summary>
 
 #### Short Description
 This talk will dive into how we rewrote one of our production services in Go, leveraging Golang’s natives proxy implementation and routines alongside its async capabilities for improved scale & throughput of web services, enabling exponentially improved performance.
@@ -290,7 +288,7 @@ Type: Full-length Presentation
 </details>
 
 
-<details><summary>Building a Service Metrics & Monitoring Stack for Go</summary>
+<details><summary><strong>Building a Service Metrics & Monitoring Stack for Go</strong></summary>
 
 #### Short Description
 As a JVM-less language, this talk will dive into how we built a monitoring and metrics library for Go to be interoperable with additional in-house JVM libraries such as Clojure, Scala, and Javascript.
@@ -314,19 +312,19 @@ If time allows, we will also tell a short tale from the trenches about a bug tha
 <hr/>
 </details>
 
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary><strong>...</strong></summary>
 
 #### Short Description
 
 #### Long Description
 
 
-Speakers: [Adi Belan](#)
+Speakers: [...](#)
 Type: Full-length Presentation
 <hr/>
 </details>
 
-<details><summary>A Journey from Python to Go</summary>
+<details><summary><strong>A Journey from Python to Go</strong></summary>
 
 #### Abstract
 
@@ -344,8 +342,7 @@ Speaker: [Elad Leev](#)
 <hr/>
 
 
-
-<details><summary>API Gateways - This Time from the Client Side</summary>
+<details><summary><strong>API Gateways - This Time from the Client Side</strong></summary>
 
 #### Abstract
 
@@ -363,7 +360,7 @@ Speakers: [Shimi Bar](#), [Liron Cohen](#)
 </details>
  
 
-<details><summary>A Modular SDK in A Fragmented Landscape</summary>
+<details><summary><strong>A Modular SDK in A Fragmented Landscape</strong></summary>
 
 #### Abstract
 
@@ -376,7 +373,7 @@ While this can be achieved by "baking" a custom SDK per client - this is not ver
 <hr/>
 </details>
 
-<details><summary>Micro-frontends: Is it a Silver Bullet?</summary>
+<details><summary><strong>Micro-frontends: Is it a Silver Bullet?</strong></summary>
 
 #### Short Description
 Micro-frontends - is it just a hyped out buzzword or do they live up to their promise? This talk will cover how we architected our micro-frontends solution, the challenges we encountered, how we overcame them - and answer the ultimate question, are micro-frontends worth the hype?
@@ -398,7 +395,7 @@ In this talk, I will walk you through our journey where we found ourselves accum
 <hr/>
 
 
-<details><summary>How we Hard Reset our Hiring & Onboarding Processes & Became High Performing Engineering Organization</summary>
+<details><summary><strong>How we Hard Reset our Hiring & Onboarding Processes & Became High Performing Engineering Organization</strong></summary>
 
 #### Short Description
 One of the long-standing anomalies in the tech industry is the focus on engineering products, but less so on engineering organizational culture.  Building great products, and hiring excellent engineers is a by-product of culture that needs to be constantly improved and evaluated.
@@ -411,7 +408,7 @@ Have you ever found yourself struggling to build an engineering organization tha
 <hr/>
 </details>
 
-<details><summary>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</summary>
+<details><summary><strong>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</strong></summary>
 
 #### Short Description
 A common modus operandi in many companies is "if it ain't broke - don't fix it" - this talk will demonstrate how to change this mindset to create higher performing engineering organizations.
@@ -425,7 +422,7 @@ Imagine the technical debt of a startup in exponential growth for six consecutiv
 <hr/>
 </details>
 
-<details><summary>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</summary>
+<details><summary><strong>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</strong></summary>
 
 #### Talk Description
 We've all suffered from imposter syndrome from time to time.  But it turns out imposter syndrome has some really clear patterns, and there are actually a few simple tips and tricks to start appreciating ourselves more.  This talk will provide some tools to help you keep calm and focus on your small successes  that eventually translate to big successes - similar to Kaizen.  And that all this starts with allowing ourselves to be human first and foremost.
@@ -436,26 +433,26 @@ Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 </details>
 
 
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary><strong>...</strong></summary>
 
 #### Short Description
 
 #### Long Description
 
 
-Speakers: [Adi Belan](#)
+Speakers: [...](#)
 Type: Full-length Presentation
 </details>
 
 
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary><strong>...</strong></summary>
 
 #### Short Description
 
 #### Long Description
 
 
-Speakers: [Adi Belan](#)
+Speakers: [...](#)
 Type: Full-length Presentation
 <hr/>
 </details>
@@ -468,7 +465,7 @@ Type: Full-length Presentation
 <hr/>
 <br/>
 
-<details><summary>Baptism By Fire - Why Production Failures Make you a Better Developer</summary>
+<details><summary><strong>Baptism By Fire - Why Production Failures Make you a Better Developer</strong></summary>
 
 #### Short Description
 Taking end-to-end ownership of your production code, enables you to understand the operational aspects even the best code encounters - and will contribute to improved coding practices.
@@ -481,7 +478,7 @@ Type: Full-length Presentation
 <hr/>
 </details>
   
-<details><summary>Hacks of Kindness in the Turbulent Cloud</summary>
+<details><summary><strong>Hacks of Kindness in the Turbulent Cloud</strong></summary>
 
 #### Short Description
 Efficiently managing large fleets on the cloud from the networking to security & even cost management often takes years to cultivate expertise in, and optimize.  
@@ -507,7 +504,7 @@ Type: Full-length Presentation
 </details>
 
 
-<details><summary>Googlies, Grubbers, Lollies! How cricket helped us improve our throughput by 200%</summary>
+<details><summary><strong>Googlies, Grubbers, Lollies! How cricket helped us improve our throughput by 200%<strong></summary>
 
 #### Short Description
 Overnight the traffic to our postback sender service suddenly increased by 50% because of one of our client's apps.  This will be a story of how we learned to handle these spikes in real time, and even improved throughput and performance in the long run.
@@ -522,7 +519,7 @@ Type: Full-length Presentation
 
 
 
-<details><summary>Improving Developer Velocity & Autonomy with Deploy & Destroy Testing Environments</summary>
+<details><summary><strong>Improving Developer Velocity & Autonomy with Deploy & Destroy Testing Environments</strong></summary>
 
 #### Short Description
 On demand testing environments fundamentally changed the quality & velocity of how we ship code - and you can too!
@@ -542,7 +539,7 @@ Type: Full-length Presentation
 
 
 
-<details><summary>Trunk Split: Our Mono-Repo to Mulit-Repo Journey</summary>
+<details><summary><strong>Trunk Split: Our Mono-Repo to Mulit-Repo Journey</strong></summary>
 
 #### Talk Description
 One of the hidden costs that nobody talks about in a microservices architecture is repository management. Some companies (like Amazon and Uber) take it for granted that repository per service is the right choice, while other ones (like Google and Facebook) are doing quite the opposite by managing a single repository to hold their entire the codebase.
