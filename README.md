@@ -3,10 +3,10 @@
 **The AppsFlyer engineering team participates in many events, contributes articles, and tries to participate meaningfully in communities around the globe.  This is a roundup of some useful resources that we're happy to share with you.** 
 
 ### Find our talk abstracts on:
-* [Big Data](#)
-* [Programming](#)
-* [Culture](#)
-* [Cloud & Platform Engineering](#)
+* [Big Data](/talk-abstracts.md#big-data)
+* [Programming](/talk-abstracts.md#programming)
+* [Culture](/talk-abstracts.md#culture)
+* [Cloud & Platform Engineering](/talk-abstracts.md#cloud)
 
 ### Find our speaker bios [here](#).
 
