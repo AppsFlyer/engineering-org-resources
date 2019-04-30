@@ -464,7 +464,7 @@ Type: Full-length Presentation
 
 <br/>
 
-### [Cloud & Platform Engineering Talks](#cloud)
+### [Cloud and Platform Engineering Talks](#cloud)
 <hr/>
 <br/>
 
