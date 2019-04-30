@@ -3,6 +3,7 @@
 
 
 ### [Big Data Talks](#big-data)
+<hr/>
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
 
@@ -136,8 +137,11 @@ Type: Full-length Presentation
 <p>  -->
   
 ### [Programming Talks](#programming)
+<hr/>
+
 
 #### Clojure
+<hr/>
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
 
@@ -152,6 +156,9 @@ Type: Full-length Presentation
 <p>
 
 #### Golang
+<hr/>
+
+
 <details><summary>Go-Sundheit - FTW! Async Health Check Library for Golang</summary>
 
 #### Short Description
@@ -247,6 +254,10 @@ Speaker: [Elad Leev](#)
 <p>
 
 #### Frontend
+<hr/>
+
+
+
 <details><summary>API Gateways - This Time from the Client Side</summary>
 
 #### Abstract
@@ -297,6 +308,7 @@ Type: Full-length Presentation
 
 
 ### [Culture Talks](#culture)
+<hr/>
 
 
 <details><summary>How we Hard Reset our Hiring & Onboarding Processes & Became High Performing Engineering Organization</summary>
@@ -369,6 +381,7 @@ Type: Full-length Presentation
 
 
 ### [Cloud & Platform Engineering Talks](#cloud)
+<hr/>
 
 <details><summary>Baptism By Fire - Why Production Failures Make you a Better Developer</summary>
 
