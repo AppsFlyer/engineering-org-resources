@@ -61,20 +61,74 @@ Speakers: [Morri Feldman](#)
 <p>
 
 #### Golang
-<details><summary>1</summary>
-...
+<details><summary>Go-Sundheit - FTW! Async Health Check Library for Golang</summary>
+
+#### Short Description
+
+We recently open sourced an in-house library Go-Sundheit, to provide support for defining service health for golang services - this enables gophers to register async health checks for dependencies and the service itself - a pretty nifty tool in a dynamic CI/CD environment based on golang.
+
+#### Long Description
+
+At AppsFlyer we face the same issues that many other fast growing companies have to deal with - we have a considerably large operation, where we practice continuous delivery, and we’d like our deployments and runtime to be as safe as possible (mostly, so we can sleep well at night). This normally means that you’d like to know as soon as possible that your deployment has gone bad, or that a resource that your service depends on is now in bad shape.  
+
+Enter Go-Sundheit. We recently started making the migration from Clojure to Go for some of our mission critical services, and in order to be able to have a more holistic view on the performance of our apps we needed to implement some health monitoring capabilities  This talk will present the open source library Go-Sundheit, a library built to provide support for defining service health for golang services. This allows you to register async health checks for your dependencies and the service itself, and provides a health endpoint that exposes their status. This session we will dive into some of the primary use cases where this is useful, and present a short demo for how to get started.
+
+
+Speaker: [Eran Harel](#)
+
+</details>
+
+<p>
+
+
+
+<details><summary>A Journey from Python to Go</summary>
+
+#### Abstract
+
+I love Python. It has been my go-to language for the past five years. But the growth in the popularity and maturity of Go, alongside the strong user base, made me think about how I can add it into my tool set.
+
+In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
+
+Speaker: [Elad Leev](#)
+
 </details>
 
 <p>
 
 #### Frontend
-<details><summary>1</summary>
-...
+<details><summary>API Gateways - This Time from the Client Side</summary>
+
+#### Abstract
+
+API gateways are a common practice - usually the "public face" of your internal system & are served via one or more backend services.
+
+Besides providing a uniform API, they also facilitate a standard way of authentication, permissions, versioning & much more.
+What if we could gain some of those benefits when we build our web applications? 
+
+What if we could compose our app from multiple agnostic parts, each with its different underlying technology & version, thus, enforcing a global authentication flow without rebuilding the whole system?
+
+This talk will show you how we took the core concepts of an API gateway & applied them as the base architecture for our web apps, & scaled to 30+ apps in production while sharing libraries of various versions, managing a global state, routing & more.
+
+Speakers: [Shimi Bar](#), [Liron Cohen](#)
 </details>
 
 <p>
   
 
+<details><summary>A Modular SDK in A Fragmented Landscape</summary>
+
+#### Abstract
+
+Web SDKs need to provide a host of capabilities & are a contradiction in terms - on the one hand, they need to be "fully baked" & "closed" in order to provide a uniform API. On the other hand, they need to be flexible in order to support future development & a wide range of clients.
+
+While this can be achieved by "baking" a custom SDK per client - this is not very scalable (nor practically applicable with a business in exponential growth). In order to be able to deliver on the promise of modularity, we wanted to enable users to decide which capabilities they want to enable, without having to define this in advance.  This talk will dive into the development methodology we used in-house to support this, & eventually, how we serve multiple SDKs in a uniform manner to a diversity of clients.
+
+Speakers: [Shimi Bar](#), [Liron Cohen](#)
+</details>
+
+<p>
+  
 
 
 
