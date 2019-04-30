@@ -489,8 +489,7 @@ Efficiently managing large fleets on the cloud from the networking to security &
 
 - Serving 80B requests on one endpoint with multiple ELBs
 -  Whitelisting many IPs for your customers without compromising security
--  Managing spot instances
-like a champ
+-  Managing spot instances like a champ
 - Bypassing DHCP options set
 - Balancing subnet IP allocation
 - Doing it right: Bind & Route53
@@ -514,7 +513,7 @@ Overnight the traffic to our postback sender service suddenly increased by 50% b
 I never imagined I’d know who Indian cricket star Rohit Sharma is, but then traffic to our real-time HTTP request sender service suddenly increased from 20 to 40 million events per minute. The reason? An app streaming the first game of the Indian cricket season. While growth is a good thing, we found ourselves unprepared for this sudden spike & needed to scramble. Initially we just threw money at the problem, but this wasn't sustainable. My talk will describe how we found low-cost, programmatic and architectural solutions to this problem and how we prepared ourselves to handle massive spikes like these on top of our existing 70 billion events per day. I'll explain our process of profiling, performance enhancement techniques, and some important lessons learned along the way.
 
 Speakers: [Ethan Pransky](#)
-Type: Full-length Presentation
+Type: Full-length Presentation, Post-Mortem
 <hr/>
 </details>
 
@@ -540,7 +539,7 @@ Type: Full-length Presentation
 
 
 
-<details><summary><strong>Trunk Split: Our Mono-Repo to Mulit-Repo Journey</strong></summary>
+<details><summary><strong>Trunk Split: A Mono-Repo to Mulit-Repo Discussion</strong></summary>
 
 #### Talk Description
 One of the hidden costs that nobody talks about in a microservices architecture is repository management. Some companies (like Amazon and Uber) take it for granted that repository per service is the right choice, while other ones (like Google and Facebook) are doing quite the opposite by managing a single repository to hold their entire the codebase.
