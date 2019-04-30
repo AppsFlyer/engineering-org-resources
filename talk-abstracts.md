@@ -21,9 +21,6 @@ When we decided to launch a new service called audiences that would enable users
 Speakers: [Ronen Cohen](#)
 Type: Full-length Presentation
 </details>
-<p>
-<br/>
-
 
 <details><summary>Journey to Real-Time Analytics in Extreme Growth</summary>
 
@@ -41,8 +38,6 @@ This talk will dive into our journey of how to choose the right solution for the
 Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Reshef Mann](#), [Adi Belan](#)
 
 </details>
-<p>
-<br/>
 
 <details><summary>Managing Your Kafka in an Explosive Growth Environment</summary>
 
@@ -59,10 +54,6 @@ Type: Full-length Presentation
 
 </details>
 
-<p>
-<br/>
-
-  
 <details><summary>Tick Tock on the Clock - Hope the Data Don't Stop</summary>
 
 #### Short Description
@@ -90,7 +81,6 @@ The AppsFlyer data-infrastructure group was established to tackle the growing te
 Speakers: [Zohar Stiro](#)
 Type: Full-length Presentation
 </details>
-<p>
   
 <details><summary>A GDPR Retrospective: Implementation by a Large-Scale Data Organization in Reality</summary>
 
@@ -103,8 +93,6 @@ The date May 25, 2018 was a fateful day for many companies that process & store 
 Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)
 Type: Full-length Presentation
 </details>
-<p>
-<br/>
  
   
 <details><summary>Dynamic HBase Coprocessors Using Clojure</summary>
@@ -117,8 +105,6 @@ I will present a generic coprocessor that is able to execute arbitrary Clojure c
 Speakers: [Morri Feldman](#)
 
 </details>
-<p>
-<br/>
 
 
 <details><summary>Salting Spark for Scale</summary>
@@ -157,22 +143,79 @@ Type: Full-length Presentation
 <hr/>
 
 
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
-<br/>
-
+<details><summary>How I Supercharged Learning Clojure through Gamification</summary>
 
 #### Short Description
+Gamification can be an excellent way to reduce the barrier of entry & quickly learn new programming languages. This talk will dive into how through a simple game you can master new syntaxes by applying concepts from languages you know & leveraging shared libraries to ramp up your coding skills.
 
 #### Long Description
+Mastering a new programming language can seem like a daunting task. As a person who has had to learn a number of new programming languages in a short amount of time, I’ve found gamification to be an excellent way to learn how to port knowledge from one language to another. This talk will dive into how through a simple game - I went through a journey of learning to code, and then was able to gain hands-on experience in a diversity of languages multiple times, when learning new languages. By applying concepts I formerly learned for Java to learn how to code in Clojure, and specifically by finding the similarities such as libraries, classes and types across languages, and then rebuilding this simple game in the new language, I quickly learned how to apply knowledge gained in other programming languages to the new language I was looking to learn. This talk will demonstrate how you can create a pet app that can teach you to too!
 
-
-Speakers: [Adi Belan](#)
+Speakers: [Mey Beisaron](#)
 Type: Full-length Presentation
 </details>
+
+
+
+<details><summary>Clojure Fundamentals Workshop - From Zero to Hero</summary>
+
+#### Short Description
+The true value of Clojure is hard to appreciate without experiencing it. Come to this course to find out what makes Clojure so special and why it is attracting so many companies and programmers.
+
+#### Long Description
+Clojure is a modern functional Lisp that runs on the JVM. It is designed to allow programmers to write programs that tackle complex problems in as simple a way as possible, adding little unnecessary overhead (i.e. it was written to be very lean). The major features of Clojure work together synergistically to provide the ability to write simple programs. For instance, developing your program at the REPL gives you quick feedback and encourages a ground up introspective development style where you are inside your running program. Some of the features that we will cover here in this course include REPL driven development, Clojure’s opinionated concurrency model and access to the proven JVM ecosystem and infrastructure. The true value of Clojure is hard to appreciate without experiencing it.
+
+Come to this course to find out what makes Clojure so special and why it is attracting so many companies and programmers.
+
+This workshop is targeted to those new to both Clojure and / or functional programming. We will introduce Clojure and teach you how to use it effectively and idiomatically. Students will build a realistic, but simple HTTP-based service designed to introduce them to many of Clojure’s concepts and facilities.
+
+Through a mixture of exposition and hands-on coding students will learn the following:
+
+* Sequence model
+* Immutability
+* REPL-driven development
+* Creating a project
+* Data Oriented Programming
+* Concurrency model
+* Host interop
+* Data specification using Clojure.spec
+* CSP with core.async
+* Macro system
+
+
+**Agenda
+Each is a 20 minute talk with 10 minutes of practice.**
+
+#### Session 1
+# Basic Basics, addition subtraction, repl, editor
+# Map reduce filter – higher order functions
+# Namespaces, project organization, compilation?
+- 30 Minute Break
+
+#### Session 2
+# Setup a web app – ring middleware function composition
+# Immutability – both from hands-on, as well as theoretical persistent data structures
+# Atoms, start using them in web app immediately
+- 30 Minute Break
+
+#### Session 3
+# Routing / endpoints in web app. Starting / stopping threads
+# Core async to connect twitter read / processor threads
+# Finish the web app – resetting / getting histogram
+- 30 Minute Break
+
+* API for web app – 
+* Start / stop reading from Twitter
+* Get the current histogram
+* Reset the histogram
+
+Speakers: [Ronen Cohen](#), [Ido Barkan](#), [Morri Feldman](#)
+Type: Workshop (90 Minutes - 8 Hours)
+</details>
 <p>
+
+
 <br/>
-
-
 #### Golang
 <hr/>
 
@@ -272,9 +315,8 @@ Speaker: [Elad Leev](#)
 </details>
 
 <p>
+
 <br/>
-
-
 #### Frontend
 <hr/>
 
@@ -330,9 +372,8 @@ Speakers: [Liron Cohen](#), [Shimi Bar](#)
 Type: Full-length Presentation
 </details>
 <p>
+
 <br/>
-
-
 ### [Culture Talks](#culture)
 <hr/>
 
@@ -409,6 +450,7 @@ Type: Full-length Presentation
 <p>
 
 
+<br/>
 ### [Cloud & Platform Engineering Talks](#cloud)
 <hr/>
 <br/>
