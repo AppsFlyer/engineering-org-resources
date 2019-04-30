@@ -37,7 +37,7 @@ Powering more than 130 thousand mobile apps around the globe, AppsFlyer receives
 
 This talk will dive into our journey of how to choose the right solution for the job to implement real-time aggregation alongside batch processing over Apache Spark, and additional big data needs with Hadoop. Being able to evolve our architecture enabled us to solve recurring pains as well as aggregate 10X amounts of data with much faster response times, keep up with product demands while delivering a cheaper solution from a production cost perspective.
 
-<p>Speakers: [Yulia Trakhtenberg](/engineering-org-resources/speaker-profiles.md#yulia-trakhtenberg), [Morri Feldman](/engineering-org-resources/speaker-profiles.md#morri-feldman), [Nir Rubinstein](/engineering-org-resources/speaker-profiles.md#nir-rubinstein), [Reshef Mann](/engineering-org-resources/speaker-profiles.md#reshef-mann), [Adi Belan](/engineering-org-resources/speaker-profiles.md#adi-belan)</p>
+Speakers: [Yulia Trakhtenberg](/speaker-profiles.md#yulia-trakhtenberg), [Morri Feldman](/speaker-profiles.md#morri-feldman), [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein), [Reshef Mann](/speaker-profiles.md#reshef-mann), [Adi Belan](/speaker-profiles.md#adi-belan)
 <p>Type: Full-Length Presentation
 <hr/>
 
@@ -53,7 +53,7 @@ Kafka, many times is just a piece of the stack that lives in production that oft
 
 This talk will share how we built our microservices architecture with Kafka as its core piece to support 70B+ requests daily. With continuous growth we needed to “learn on the job” how to improve our Kafka architecture by moving to the producer owner cluster model, breaking up our massive monolith clusters to smaller more robust clusters, and migrating from an older version of Kafka with real-time production clients & data streams. The talk will outline best practices for leveraging Kafka’s in-memory capabilities & built-in partitioning, as well as some of the tweaks and stabilization mechanisms that enable real-time performance at web-scale, alongside processes for continuous upgrades and deployments with end-to-end automation, in an environment of constant traffic growth.
 
-<p>Speakers: [Alon Gavra](/engineering-org-resources/speaker-profiles.md#alon-gavra)</p>
+Speakers: [Alon Gavra](/speaker-profiles.md#alon-gavra)
 <p>Type: Full-length Presentation</p>
 <hr/>
 
@@ -72,7 +72,7 @@ During a customer migration to a new attribution system, a huge project for Apps
 
 When we discovered this, with only one week to respond before the data is permanently erased, we channeled our MacGyver skills and got to work. During this session I’ll describe the chain of events that brought us to the cliff’s edge, the steps we took around the clock to save our data, and how we managed to forestall any data loss for our clients.
 
-<p>Speakers: [Adi Belan](/engineering-org-resources/speaker-profiles.md#adi-belan)</p>
+Speakers: [Adi Belan](/speaker-profiles.md#adi-belan)
 <p>Type: Post-mortem</p>
 <hr/>
 
@@ -84,7 +84,7 @@ When we discovered this, with only one week to respond before the data is perman
 
 The AppsFlyer data-infrastructure group was established to tackle the growing technical debt around the daily batch data processing - ingesting nearly 90TB a day. One of the initial tasks was focusing on fixing inexplicable corruptions which led us down a rabbit hole full of anomalies with our Spark committer, Hadoop JARs alongside interaction with our AWS S3 buckets (storing petabytes of data). This talk is our war story filled with twists and turns, a first time talk given outside of the walls of AppsFlyer walls aimed at shedding some light on what is truly involved with building a robust, real time, big data operation at scale.
 
-<p>Speakers: [Zohar Stiro](/engineering-org-resources/speaker-profiles.md#zohar-stiro)</p>
+Speakers: [Zohar Stiro](/speaker-profiles.md#zohar-stiro)
 <p>Type: Full-length Presentation</p>
 <hr/>
 
@@ -98,7 +98,7 @@ GDPR was likely one of the biggest challenges in data management that occurred i
 #### Long Description
 The date May 25, 2018 was a fateful day for many companies that process & store client data - particularly across the EU. On this day GDPR went into effect - and no one really knew quite what its effects would be. This talk will take you through our company's journey to compliance - the indexers we used to append & delete client data, and a retrospective of how this affected our data processing operations. This will walk you through the design through implementation, as well as expectation vs. real demand. Eventually what we imagined would be requested by hundreds of clients at best ended up being requested by tens of thousands - and continues growing, and learning how to manage this new compliance demand alongside our day to day data engineering tasks & processes was no easy feat.
 
-<p>Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)</p>
+Speakers: [Zohar Stiro](/speaker-profiles.md#zohar-stiro), [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Morri Feldman](/speaker-profiles.md#morri-feldman)
 <p>Type: Full-length Presentation</p>
 <hr/>
 
@@ -112,7 +112,9 @@ HBase Coprocessors allow moving nearly arbitrary code execution from the client 
 
 I will present a generic coprocessor that is able to execute arbitrary Clojure code as a solution to some of the difficulties surrounding coprocessor development. The generic Clojure coprocessor accepts queries that bring their own aggregation instructions in the form of Clojure code. The Clojure code on each query will then be dynamically compiled and executed on the cluster by the generic Clojure coprocessor. Changing specific aggregation code now simply requires rewriting the Clojure code and sending a new query, making for a much faster development cycle than with traditional coprocessor development. To allow the Clojure code to depend on external dependencies -- for instance a JSON parsing library -- the generic Clojure coprocessor also allows for loading "static" dependencies from jar files. In addition to being more dynamic, coprocessor development safety is also increased, because the most dangerous steps, loading and initializing a coprocessor, are only done once rather than each time the aggregation logic is changed. The code for the generic Clojure coprocessor along with full examples will be provided as open source on GitHub.
 
-Speakers: [Morri Feldman](#)
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Full-length Presentation</p>
+
 <hr/>
 
 </details>
@@ -123,7 +125,8 @@ Speakers: [Morri Feldman](#)
 #### Abstract
 One of the major issues that Spark batch jobs have to contend with at AppsFlyer is that our data is inherently skewed.  For instance a couple of apps account for the vast majority of our traffic.  Data skew wreaks havoc on naively written data jobs by making them perform and scale very poorly as the amount of data they need to process increases.  Recently one of our central data aggregations -- the process that prepares data for the overview dashboard -- stopped working and we had essentially reached the limit where we could no longer devote more Ram to the process to help it.  Using a technique called "Salting" to overcome the data skew that was killing this job we were able to get the job working again and make the entire process much more scalable.  I'll go over Salting in depth to explain how it works and how we are starting to use it here at AppsFlyer.
   
-Speakers: [Morri Feldman](#)
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Full-length Presentation</p>
 
 </details>
 <br/>
@@ -159,7 +162,7 @@ Gamification can be an excellent way to reduce the barrier of entry & quickly le
 #### Long Description
 Mastering a new programming language can seem like a daunting task. As a person who has had to learn a number of new programming languages in a short amount of time, I’ve found gamification to be an excellent way to learn how to port knowledge from one language to another. This talk will dive into how through a simple game - I went through a journey of learning to code, and then was able to gain hands-on experience in a diversity of languages multiple times, when learning new languages. By applying concepts I formerly learned for Java to learn how to code in Clojure, and specifically by finding the similarities such as libraries, classes and types across languages, and then rebuilding this simple game in the new language, I quickly learned how to apply knowledge gained in other programming languages to the new language I was looking to learn. This talk will demonstrate how you can create a pet app that can teach you to too!
 
-<p>Speakers: [Mey Beisaron](#)</p>
+Speakers: [Mey Beisaron](/speaker-profiles.md#mey-beisaron)
 <p>Type: Full-length Presentation</p>
 <hr/>
 
@@ -176,7 +179,7 @@ How to best leverage Clojure’s core.async library for good concurrency and uti
 Clojure’s core.async library implements Tony Hoare’s concurrent programming model Communicating Sequential Processes — CSP. CSP is probably best known from its implementation in the Go programming. In the CSP programming model, independent processes communicate synchronously across channels. The runtime is then responsible for shifting work on and off of worker threads as needed. Such a programming model allows for achieving good concurrency and utilization of modern multicore processors without getting trapped in “callback hell.” Clojure core async provides the two pieces required to program in the CSP style — channels and the equivalent of Go’s goroutines. The channels facilitate interprocess communication and the goroutines transform sequential code to run concurrently. Surprisingly the goroutine in Clojure is implemented not as a core language feature but as a macro — the “go” macro — that rewrites any provided code into a state machine which can park rather than block a CPU thread when there is no work to do. We will examine core.async’s channels and its “go” macro in some detail as well as look at some real-world examples of using core.async channels with and without the “go” macro.
 
 
-<p>Speakers: [Morri Feldman](#)</p>
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 <p>Type: Full-length Presentation</p>
 <hr/>
 
@@ -234,8 +237,8 @@ c. Finish the web app – resetting / getting histogram
 * Get the current histogram
 * Reset the histogram
 
-Speakers: [Ronen Cohen](#), [Ido Barkan](#), [Morri Feldman](#)
-Type: Workshop (90 Minutes - 8 Hours)
+Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Ido Barkan](/speaker-profiles.md#ido-barkan), [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Workshop (90 Minutes - 8 Hours)</p>
 <hr/>
 
 </details>
@@ -260,7 +263,8 @@ At AppsFlyer we face the same issues that many other fast growing companies have
 Enter Go-Sundheit. We recently started making the migration from Clojure to Go for some of our mission critical services, and in order to be able to have a more holistic view on the performance of our apps we needed to implement some health monitoring capabilities  This talk will present the open source library Go-Sundheit, a library built to provide support for defining service health for golang services. This allows you to register async health checks for your dependencies and the service itself, and provides a health endpoint that exposes their status. This session we will dive into some of the primary use cases where this is useful, and present a short demo for how to get started.
 
 
-Speaker: [Eran Harel](#)
+Speaker: [Eran Harel](/speaker-profiles.md#eran-harel)
+<p>Type: Full-length Presentation</p>
 
 </details>
 
@@ -283,8 +287,8 @@ Originally, this service was written in Clojure. As traffic grew - it became app
 * Q&A
 
 
-Speakers: [Asy Ronen](#), [Yuri Kalinin](#)
-Type: Full-length Presentation
+Speakers: [Asy Ronen](/speaker-profiles.md#asy-ronen), [Yuri Kalinin](/speaker-profiles.md#yuri-kalinin)
+<p>Type: Full-length Presentation</p>
 <hr/>
 </details>
 
@@ -308,7 +312,7 @@ If time allows, we will also tell a short tale from the trenches about a bug tha
 * Short Demo (AppsFlyer Grafana Go Library - AF Go Metrics) 
 
 
-<p>Speakers: [Asy Ronen](#), [Yuri Kalinin](#)</p>
+Speakers: [Asy Ronen](/speaker-profiles.md#asy-ronen), [Yuri Kalinin](/speaker-profiles.md#yuri-kalinin)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
@@ -321,7 +325,9 @@ I love Python. It has been my go-to language for the past five years. But the gr
 
 In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
 
-Speaker: [Elad Leev](#)
+Speaker: [Elad Leev](/speaker-profiles.md#elad-leev)
+<p>Type: Full-length Presentation</p>
+
 <hr/>
 </details>
 
@@ -357,7 +363,9 @@ What if we could compose our app from multiple agnostic parts, each with its dif
 
 This talk will show you how we took the core concepts of an API gateway & applied them as the base architecture for our web apps, & scaled to 30+ apps in production while sharing libraries of various versions, managing a global state, routing & more.
 
-Speakers: [Shimi Bar](#), [Liron Cohen](#)
+Speakers: [Shimi Bar](/speaker-profiles.md#shimi-bar), [Liron Cohen](/speaker-profiles.md#liron-cohen)
+<p>Type: Full-length Presentation</p>
+
 <hr/>
 </details>
  
@@ -370,7 +378,7 @@ Web SDKs need to provide a host of capabilities & are a contradiction in terms -
 
 While this can be achieved by "baking" a custom SDK per client - this is not very scalable (nor practically applicable with a business in exponential growth). In order to be able to deliver on the promise of modularity, we wanted to enable users to decide which capabilities they want to enable, without having to define this in advance.  This talk will dive into the development methodology we used in-house to support this, & eventually, how we serve multiple SDKs in a uniform manner to a diversity of clients.
 
-<p>Speakers: [Shimi Bar](#), [Liron Cohen](#)</p>
+Speakers: [Shimi Bar](/speaker-profiles.md#shimi-bar), [Liron Cohen](/speaker-profiles.md#liron-cohen)
 <p>Type: Full-length presentation</p>
 <hr/>
 </details>
@@ -385,7 +393,7 @@ Micro-Frontends are gaining a lot of traction these days as the “silver bullet
 
 In this talk, I will walk you through our journey where we found ourselves accumulating independent monolithic frontend stacks - and had to find a better way to manage and maintain these stacks in a hyper-growth environment. We will present how we migrated to this loosely-coupled architecture of independent projects and eventually were able to grow to 25+ micro-frontend projects that helped us optimize our development and achieve our goals more rapidly, the challenges we encountered that made our lives miserable - and how we overcame them, and finally will try to answer the ultimate question “are micro-frontends really a silver bullet?
 
-<p>Speakers: [Liron Cohen](#), [Shimi Bar](#)</p>
+Speakers: [Shimi Bar](/speaker-profiles.md#shimi-bar), [Liron Cohen](/speaker-profiles.md#liron-cohen)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
@@ -405,7 +413,7 @@ One of the long-standing anomalies in the tech industry is the focus on engineer
 #### Long Description
 Have you ever found yourself struggling to build an engineering organization that is quality-driven with consistently great results?  When we analyzed why we didn't feel our organization was performing at the level we had anticipated, we reverse engineered this to fundamental issues with our culture.  Once we started working on this it had a ripple effect to our hiring process & then our onboarding process as well.  This talk will dive into how we refactored our hiring & onboarding to set up new hires for success from day one. This ultimately delivered a well-oiled high performing engineering organization through a practically applicable methodology that is easily replicable. This not only enabled us to improve the quality of our hires, but also retain excellent talent in the long-term.
 
-<p>Speakers: [Gilad Katz](#)</p>
+Speakers: [Gilad Katz](/speaker-profiles.md#gilad-katz)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
@@ -419,7 +427,7 @@ A common modus operandi in many companies is "if it ain't broke - don't fix it" 
 Imagine the technical debt of a startup in exponential growth for six consecutive years (growing from five engineers to 160 over this period, and from 10M daily events to over 70B). During this time, and up to the last 2 years the team focused on product expansion with a “if it ain't broke don’t fix it” attitude, resulting in inherent bugs, system instability & more than 80% of our team focused on maintenance. This will be a tale of how we went all-in on reducing technical debt by allocating more than 70% of the team for 1.5 years to reduce debt. I will share how we rewrote our core engine - at a time of extreme growth, while virtually putting on hold the rollout of any new features - a brave move in a competitive market. After two years into the process we managed to reduce the maintenance effort, number & severity of production issues - with the upside of increasing our velocity significantly. This was all made possible by instilling a culture of craftsmanship that was part of the re-engineering process, that has only been strengthen through this process.
 
 
-<p>Speakers: [Gilad Katz](#)</p>
+<p>Speakers: [Gilad Katz](/speaker-profiles.md#gilad-katz)</p>
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
@@ -429,7 +437,7 @@ Imagine the technical debt of a startup in exponential growth for six consecutiv
 #### Talk Description
 We've all suffered from imposter syndrome from time to time.  But it turns out imposter syndrome has some really clear patterns, and there are actually a few simple tips and tricks to start appreciating ourselves more.  This talk will provide some tools to help you keep calm and focus on your small successes  that eventually translate to big successes - similar to Kaizen.  And that all this starts with allowing ourselves to be human first and foremost.
 
-Speakers: [Sharone Zitzman](#)
+Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
 Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 <hr/>
 </details>
@@ -475,7 +483,7 @@ Taking end-to-end ownership of your production code, enables you to understand t
 #### Long Description
 As developers, we are constantly focused on writing elegant and cutting edge code, however, meaningful code eventually lives 99% of its life in production, and becomes “someone else’s problem”. As with all code, issues are bound to arise and someone will have to deal with them (probably at 3 AM after a pagerduty call). At AppsFlyer all developers are expected to own their code end-to-end, to create a greater sense of commitment to its quality, and enable more rapid turnaround on debugging issues. Three years of being on the on-call rotation for mission critical services at AppsFlyer have taught me some hard lessons, but made me a better developer along the way. In this session I’ll dive into best practices for how to approach production issues as developers, some of the lessons I’ve learned about a developer managing production code, and how this ultimately makes us (much) better coders.
 
-Speakers: [Adi Belan](#)
+Speakers: [Adi Belan](/speaker-profiles.md#adi-belan)
 Type: Full-length Presentation
 <hr/>
 </details>
@@ -499,8 +507,8 @@ Efficiently managing large fleets on the cloud from the networking to security &
 - Connecting to multiple regions via one VPN
 - Tags & Cost management
 
-Speakers: [Ariel Moskovich](#)
-Type: Full-length Presentation
+Speakers: [Ariel Moskovich](/speaker-profiles.md#ariel-moskovich)
+<p>Type: Full-length Presentation</p>
 <hr/>
 </details>
 
@@ -513,7 +521,7 @@ Overnight the traffic to our postback sender service suddenly increased by 50% b
 #### Long Description
 I never imagined I’d know who Indian cricket star Rohit Sharma is, but then traffic to our real-time HTTP request sender service suddenly increased from 20 to 40 million events per minute. The reason? An app streaming the first game of the Indian cricket season. While growth is a good thing, we found ourselves unprepared for this sudden spike & needed to scramble. Initially we just threw money at the problem, but this wasn't sustainable. My talk will describe how we found low-cost, programmatic and architectural solutions to this problem and how we prepared ourselves to handle massive spikes like these on top of our existing 70 billion events per day. I'll explain our process of profiling, performance enhancement techniques, and some important lessons learned along the way.
 
-Speakers: [Ethan Pransky](#)
+Speakers: [Ethan Pransky](/speaker-profiles.md#ethan-pransky)
 Type: Full-length Presentation, Post-Mortem
 <hr/>
 </details>
@@ -532,7 +540,7 @@ One of the critical factors for development velocity is software correctness. Ou
 
 In this talk, I’ll focus on testing environments: why developers need a self-service platform to create a full functioning environment on-demand, how such environments should be managed, and how can one restore part of the lost velocity. I’ll cover an internal system we use at AppsFlyer called ‘Namespaces’ that addresses the issue with the help of Mesos / Marathon, Docker, Traefik, and Consul.
 
-Speakers: [Michael Arenzon](#)
+Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon)
 Type: Full-length Presentation
 [Recording](#)
 <hr/>
@@ -547,7 +555,7 @@ One of the hidden costs that nobody talks about in a microservices architecture 
 
 In this session I'd like to share with you a migration story, how we began splitting a monolith repository that kept growing for the past 10 years into a multi-repository environment. I will focus on the considerations involved with making such a fundamental shift in the way code is managed and collaborated on, and how this can affect developer velocity, engineering culture, and tooling.
 
-Speakers: [Michael Arenzon](#)
+Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon)
 Type: Full-length Presentation
 <hr/>
 </details>
