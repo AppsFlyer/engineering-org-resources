@@ -6,15 +6,22 @@
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/michael-round.png" width="100" align="left" padding-right="10"> Michael’s passion is around solving complex engineering problems while maintaining high velocity, with emphasis on building distributed and highly concurrent systems, creating (a real) large-scale infrastructure, and improving operational efficiency.
 
 Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform.
-<p>Languages: English, Hebrew, Russian</p>
-<p>Talk Recordings: [1](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [2](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=1229s), [3](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s)
-
+<p>
+Languages: English, Hebrew, Russian
+</p>
+<p>
+Talk Recordings: [1](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [2](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=1229s), [3](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s)
+</p>
 
 
 ### Ido Barkan 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ido-round.png" width="100" align="left" padding-right="10"> Ido is a Software Architect at Appsflyer. His entire career revolves around some type of backend software engineering. He considers himself as a big fan of programming languages in general and a fan of functional programming in particular.
-<p>Languages: English, Hebrew</p>
-<p>Talk Recordings: [1](https://www.youtube.com/watch?v=uDsux18mFSc), [2](https://www.youtube.com/watch?v=hC4XNmSx-88)
+<p>
+Languages: English, Hebrew
+</p>
+<p>
+Talk Recordings: [1](https://www.youtube.com/watch?v=uDsux18mFSc), [2](https://www.youtube.com/watch?v=hC4XNmSx-88)
+</p>
 
 
 ### Adi Belan 
