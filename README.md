@@ -2,7 +2,7 @@
 
 **The AppsFlyer engineering team participates in many events, contributes articles, and tries to participate meaningfully in communities around the globe.  This is a roundup of some useful resources that we're happy to share with you.** 
 
-###Find our talk abstracts on:
+### Find our talk abstracts on:
 * [Big Data](#)
 * [Programming](#)
 * [Culture](#)
