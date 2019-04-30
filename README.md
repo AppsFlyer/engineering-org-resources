@@ -6,7 +6,7 @@
 * [Big Data](/talk-abstracts.md#big-data-talks)
 * [Programming](/talk-abstracts.md#programming-talks)
 * [Culture](/talk-abstracts.md#culture-talks)
-* [Cloud & Platform Engineering](/talk-abstracts.md#cloud-%26-platform-talks)
+* [Cloud & Platform Engineering](/talk-abstracts.md#cloud-%26-platform-engineering-talks)
 
 ### Find our speaker bios [here](#).
 
