@@ -1,4 +1,4 @@
-## AppsFlyer Engineering has expertise on a diversity of topics, find the 
+## AppsFlyer Engineering has expertise on a diversity of topics, find the different abstracts below.  We are happy to be invited to speak in any forum - conference, meetup, community event - so be sure to reach out.  Follow us on Twitter: [@appsflyerdev](https://www.twitter.com/appsflyerdev) and our [AppsFlyer Engineering meetup group](https://meetup.com/appsflyer).
 
 
 
@@ -20,6 +20,8 @@ Speakers: [Ronen Cohen](#)
 Type: Full-length Presentation
 </details>
 <p>
+<br/>
+
 
 <details><summary>Journey to Real-Time Analytics in Extreme Growth</summary>
 
@@ -37,7 +39,8 @@ This talk will dive into our journey of how to choose the right solution for the
 Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Reshef Mann](#), [Adi Belan](#)
 
 </details>
-</p>
+<p>
+<br/>
 
 <details><summary>Managing Your Kafka in an Explosive Growth Environment</summary>
 
@@ -55,6 +58,8 @@ Type: Full-length Presentation
 </details>
 
 <p>
+<br/>
+
   
 <details><summary>Tick Tock on the Clock - Hope the Data Don't Stop</summary>
 
@@ -97,7 +102,8 @@ Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)
 Type: Full-length Presentation
 </details>
 <p>
-  
+<br/>
+ 
   
 <details><summary>Dynamic HBase Coprocessors Using Clojure</summary>
 
@@ -109,8 +115,9 @@ I will present a generic coprocessor that is able to execute arbitrary Clojure c
 Speakers: [Morri Feldman](#)
 
 </details>
-
 <p>
+<br/>
+
 
 <details><summary>Salting Spark for Scale</summary>
 
@@ -122,6 +129,9 @@ Speakers: [Morri Feldman](#)
 </details>
 
 <p>
+<br/>
+  
+
   
 <!--
 <details><summary>...</summary> -->
@@ -138,12 +148,16 @@ Type: Full-length Presentation
   
 ### [Programming Talks](#programming)
 <hr/>
+<br/>
 
 
 #### Clojure
 <hr/>
 
+
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<br/>
+
 
 #### Short Description
 
@@ -154,6 +168,8 @@ Speakers: [Adi Belan](#)
 Type: Full-length Presentation
 </details>
 <p>
+<br/>
+
 
 #### Golang
 <hr/>
@@ -240,6 +256,8 @@ Type: Full-length Presentation
 <p>
 
 <details><summary>A Journey from Python to Go</summary>
+<br/>
+
 
 #### Abstract
 
@@ -252,6 +270,8 @@ Speaker: [Elad Leev](#)
 </details>
 
 <p>
+<br/>
+
 
 #### Frontend
 <hr/>
@@ -275,6 +295,8 @@ Speakers: [Shimi Bar](#), [Liron Cohen](#)
 </details>
 
 <p>
+<br/>
+
   
 
 <details><summary>A Modular SDK in A Fragmented Landscape</summary>
@@ -289,6 +311,7 @@ Speakers: [Shimi Bar](#), [Liron Cohen](#)
 </details>
 
 <p>
+<br/>
   
 
 <details><summary>Micro-frontends: Is it a Silver Bullet?</summary>
@@ -305,6 +328,7 @@ Speakers: [Liron Cohen](#), [Shimi Bar](#)
 Type: Full-length Presentation
 </details>
 <p>
+<br/>
 
 
 ### [Culture Talks](#culture)
@@ -323,6 +347,7 @@ Speakers: [Gilad Katz](#)
 Type: Full-length Presentation
 </details>
 <p>
+<br/>
 
 
 <details><summary>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</summary>
@@ -338,6 +363,7 @@ Speakers: [Gilad Katz](#)
 Type: Full-length Presentation
 </details>
 <p>
+<br/>
 
 
 <details><summary>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</summary>
@@ -349,6 +375,7 @@ Speakers: [Sharone Zitzman](#)
 Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 </details>
 <p>
+<br/>
 
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
@@ -382,6 +409,7 @@ Type: Full-length Presentation
 
 ### [Cloud & Platform Engineering Talks](#cloud)
 <hr/>
+<br/>
 
 <details><summary>Baptism By Fire - Why Production Failures Make you a Better Developer</summary>
 
@@ -397,6 +425,8 @@ Type: Full-length Presentation
 </details>
 
 <p>
+<br/>
+
   
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
 
