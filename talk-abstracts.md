@@ -312,6 +312,18 @@ If time allows, we will also tell a short tale from the trenches about a bug tha
 <hr/>
 </details>
 
+<details><summary><strong>A Journey from Python to Go</strong></summary>
+
+#### Abstract
+
+I love Python. It has been my go-to language for the past five years. But the growth in the popularity and maturity of Go, alongside the strong user base, made me think about how I can add it into my tool set.
+
+In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
+
+Speaker: [Elad Leev](#)
+<hr/>
+</details>
+
 <details><summary><strong>...</strong></summary>
 
 #### Short Description
@@ -324,17 +336,6 @@ Type: Full-length Presentation
 <hr/>
 </details>
 
-<details><summary><strong>A Journey from Python to Go</strong></summary>
-
-#### Abstract
-
-I love Python. It has been my go-to language for the past five years. But the growth in the popularity and maturity of Go, alongside the strong user base, made me think about how I can add it into my tool set.
-
-In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
-
-Speaker: [Elad Leev](#)
-<hr/>
-</details>
 
 <br/>
 
@@ -504,7 +505,7 @@ Type: Full-length Presentation
 </details>
 
 
-<details><summary><strong>Googlies, Grubbers, Lollies! How cricket helped us improve our throughput by 200%<strong></summary>
+<details><summary><strong>Googlies, Grubbers, Lollies! How cricket helped us improve our throughput by 200%</strong></summary>
 
 #### Short Description
 Overnight the traffic to our postback sender service suddenly increased by 50% because of one of our client's apps.  This will be a story of how we learned to handle these spikes in real time, and even improved throughput and performance in the long run.
@@ -545,7 +546,6 @@ Type: Full-length Presentation
 One of the hidden costs that nobody talks about in a microservices architecture is repository management. Some companies (like Amazon and Uber) take it for granted that repository per service is the right choice, while other ones (like Google and Facebook) are doing quite the opposite by managing a single repository to hold their entire the codebase.
 
 In this session I'd like to share with you a migration story, how we began splitting a monolith repository that kept growing for the past 10 years into a multi-repository environment. I will focus on the considerations involved with making such a fundamental shift in the way code is managed and collaborated on, and how this can affect developer velocity, engineering culture, and tooling.
-
 
 Speakers: [Michael Arenzon](#)
 Type: Full-length Presentation
