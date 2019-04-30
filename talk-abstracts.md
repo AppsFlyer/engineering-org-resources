@@ -1,4 +1,4 @@
-## AppsFlyer Engineering has expertise on a diversity of topics, find the different abstracts below.  
+## AppsFlyer Engineering has expertise in many areas from data engineering & science, a diversity of programming languages, platform and cloud operations as well as, culture & psych talks. You can find the different abstracts below.  
 
 We are happy to be invited to speak in any forum - conference, meetup, community event - so be sure to reach out.  Follow us on Twitter: [@appsflyerdev](https://www.twitter.com/appsflyerdev) and our [AppsFlyer Engineering meetup group](https://meetup.com/appsflyer).
 
@@ -90,7 +90,7 @@ GDPR was likely one of the biggest challenges in data management that occurred i
 #### Long Description
 The date May 25, 2018 was a fateful day for many companies that process & store client data - particularly across the EU. On this day GDPR went into effect - and no one really knew quite what its effects would be. This talk will take you through our company's journey to compliance - the indexers we used to append & delete client data, and a retrospective of how this affected our data processing operations. This will walk you through the design through implementation, as well as expectation vs. real demand. Eventually what we imagined would be requested by hundreds of clients at best ended up being requested by tens of thousands - and continues growing, and learning how to manage this new compliance demand alongside our day to day data engineering tasks & processes was no easy feat.
 
-Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)
+<p>Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)</p>
 Type: Full-length Presentation
 </details>
  
@@ -284,10 +284,9 @@ If time allows, we will also tell a short tale from the trenches about a bug tha
 * Short Demo (AppsFlyer Grafana Go Library - AF Go Metrics) 
 
 
-Speakers: [Asy Ronen](#), [Yuri Kalinin](#)
-Type: Full-length Presentation
+<p>Speakers: [Asy Ronen](#), [Yuri Kalinin](#)</p>
+<p>Type: Full-length Presentation</p>
 </details>
-<p>
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
 
@@ -345,7 +344,8 @@ Web SDKs need to provide a host of capabilities & are a contradiction in terms -
 
 While this can be achieved by "baking" a custom SDK per client - this is not very scalable (nor practically applicable with a business in exponential growth). In order to be able to deliver on the promise of modularity, we wanted to enable users to decide which capabilities they want to enable, without having to define this in advance.  This talk will dive into the development methodology we used in-house to support this, & eventually, how we serve multiple SDKs in a uniform manner to a diversity of clients.
 
-Speakers: [Shimi Bar](#), [Liron Cohen](#)
+<p>Speakers: [Shimi Bar](#), [Liron Cohen](#)</p>
+<p>Type: Full-length presentation</p>
 </details>
 
 <details><summary>Micro-frontends: Is it a Silver Bullet?</summary>
@@ -358,8 +358,8 @@ Micro-Frontends are gaining a lot of traction these days as the “silver bullet
 
 In this talk, I will walk you through our journey where we found ourselves accumulating independent monolithic frontend stacks - and had to find a better way to manage and maintain these stacks in a hyper-growth environment. We will present how we migrated to this loosely-coupled architecture of independent projects and eventually were able to grow to 25+ micro-frontend projects that helped us optimize our development and achieve our goals more rapidly, the challenges we encountered that made our lives miserable - and how we overcame them, and finally will try to answer the ultimate question “are micro-frontends really a silver bullet?
 
-Speakers: [Liron Cohen](#), [Shimi Bar](#)
-Type: Full-length Presentation
+<p>Speakers: [Liron Cohen](#), [Shimi Bar](#)</p>
+<p>Type: Full-length Presentation</p>
 </details>
 
 
@@ -377,8 +377,8 @@ One of the long-standing anomalies in the tech industry is the focus on engineer
 #### Long Description
 Have you ever found yourself struggling to build an engineering organization that is quality-driven with consistently great results?  When we analyzed why we didn't feel our organization was performing at the level we had anticipated, we reverse engineered this to fundamental issues with our culture.  Once we started working on this it had a ripple effect to our hiring process & then our onboarding process as well.  This talk will dive into how we refactored our hiring & onboarding to set up new hires for success from day one. This ultimately delivered a well-oiled high performing engineering organization through a practically applicable methodology that is easily replicable. This not only enabled us to improve the quality of our hires, but also retain excellent talent in the long-term.
 
-Speakers: [Gilad Katz](#)
-Type: Full-length Presentation
+<p>Speakers: [Gilad Katz](#)</p>
+<p>Type: Full-length Presentation</p>
 </details>
 
 <details><summary>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</summary>
@@ -390,8 +390,8 @@ A common modus operandi in many companies is "if it ain't broke - don't fix it" 
 Imagine the technical debt of a startup in exponential growth for six consecutive years (growing from five engineers to 160 over this period, and from 10M daily events to over 70B). During this time, and up to the last 2 years the team focused on product expansion with a “if it ain't broke don’t fix it” attitude, resulting in inherent bugs, system instability & more than 80% of our team focused on maintenance. This will be a tale of how we went all-in on reducing technical debt by allocating more than 70% of the team for 1.5 years to reduce debt. I will share how we rewrote our core engine - at a time of extreme growth, while virtually putting on hold the rollout of any new features - a brave move in a competitive market. After two years into the process we managed to reduce the maintenance effort, number & severity of production issues - with the upside of increasing our velocity significantly. This was all made possible by instilling a culture of craftsmanship that was part of the re-engineering process, that has only been strengthen through this process.
 
 
-Speakers: [Gilad Katz](#)
-Type: Full-length Presentation
+<p>Speakers: [Gilad Katz](#)</p>
+<p>Type: Full-length Presentation</p>
 </details>
 
 <details><summary>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</summary>
@@ -450,12 +450,39 @@ Type: Full-length Presentation
 
 </details>
   
-<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+<details><summary>Hacks of Kindness in the Turbulent Cloud</summary>
 
 #### Short Description
+Efficiently managing large fleets on the cloud from the networking to security & even cost management often takes years to cultivate expertise in, and optimize.  
 
 #### Long Description
+Efficiently managing large fleets on the cloud from the networking to security & even cost management often takes years to cultivate expertise in, and optimize.  This is especially true when leveraging opportunistic cloud capabilities such as spot instances at scale, which in itself requires intelligent & reliable auto-scaling for a large-scale production operation - which in our case means serving more than 80B+ requests daily, while ingesting more than 90TB a day. This talk will provide you with some effective hacks of the trade that we learned in real time & through years of optimizations, to help survive the turbulent & continuously evolving cloud world, including: 
 
-Speakers: [Adi Belan](#)
+- Serving 80B requests on one endpoint with multiple ELBs
+-  Whitelisting many IPs for your customers without compromising security
+-  Managing spot instances
+like a champ
+- Bypassing DHCP options set
+- Balancing subnet IP allocation
+- Doing it right: Bind & Route53
+- Controlling co-location in a cluster
+- Balancing traffic out with multiple NAT gateways
+- Connecting to multiple regions via one VPN
+- Tags & Cost management
+
+Speakers: [Ariel Moskovich](#)
+Type: Full-length Presentation
+</details>
+
+
+<details><summary>Googlies, Grubbers, Lollies! How cricket helped us improve our throughput by 200%</summary>
+
+#### Short Description
+Overnight the traffic to our postback sender service suddenly increased by 50% because of one of our client's apps.  This will be a story of how we learned to handle these spikes in real time, and even improved throughput and performance in the long run.
+
+#### Long Description
+I never imagined I’d know who Indian cricket star Rohit Sharma is, but then traffic to our real-time HTTP request sender service suddenly increased from 20 to 40 million events per minute. The reason? An app streaming the first game of the Indian cricket season. While growth is a good thing, we found ourselves unprepared for this sudden spike & needed to scramble. Initially we just threw money at the problem, but this wasn't sustainable. My talk will describe how we found low-cost, programmatic and architectural solutions to this problem and how we prepared ourselves to handle massive spikes like these on top of our existing 70 billion events per day. I'll explain our process of profiling, performance enhancement techniques, and some important lessons learned along the way.
+
+Speakers: [Ethan Pransky](#)
 Type: Full-length Presentation
 </details>
