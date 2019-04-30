@@ -10,7 +10,7 @@
 
 <hr/>
 
-### Find our speaker bios [here](/engineering-org-resources/speaker-profiles.md).
+### Find our speaker bios [here](/speaker-profiles.md).
 
 <hr/>
 
