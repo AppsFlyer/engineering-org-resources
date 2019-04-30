@@ -114,11 +114,26 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <hr/>
 
 
+
+### [Zohar Stiro](#zohar-stiro)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/zohar-round.png" width="100" align="left" padding-right="5"> Zohar Stiro is a technology enthusiast, and an experienced engineer that has been in the realms of big data engineering for the past 8 years. He currently is part of the Platform Group at ApssFlyer leading the batch processing infrastructure, alongside the raw data flow on top of it. Zohar's main focus is recovering from years of technical debt and bringing the system to a state of stability while setting the building blocks for the future of big data processing.
+
+**<br/>Languages: English, Hebrew, Russian**
+<hr/>
+
+
 ### [Yulia Trakhtenberg](#yulia-trakhtenberg)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yulia-round.png" width="100" align="left" padding-right="5"> Yulia Trakhtenberg is the Data Group Manager at AppsFlyer, with more than 15 years of experience in software development (both backend and frontend), including requirements, architecture, design, coding, testing, quality and customer issues, and nearly a decade of team management and empowerment. Yulia's expertise is around combining deep technical knowledge with understanding of product, business and customer needs.
 Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big data, Java, PHP, NoSQLs, Redis, MySQL, and agile, scrum, automation, management, recruitment, team empowerment.
 **<br/>Languages: English, Hebrew, Russian
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI)**
+<hr/>
+
+
+### [Gil Zellner](#gil-zellner)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gil-round.png" width="100" align="left" padding-right="5"> Gil Zellner, DevOps enthusiast and professional, experienced tech speaker. Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them.
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4)**
 <hr/>
 
 
