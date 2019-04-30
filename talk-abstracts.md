@@ -20,6 +20,8 @@ Type: Full-length Presentation
 </details>
 <p>
 
+<details><summary>Journey to Real-Time Analytics in Extreme Growth</summary>
+
 #### Short Description
 
 At AppsFlyer we have been finding ourselves the victims of our own success, with our data continuously growing, alongside the capabilities we want to enable for our clients to make better marketing decisions. This talk will dive into the evolution of our data management choices to support the changing needs of the business.
