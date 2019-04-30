@@ -18,8 +18,8 @@ As a company that ingests large amounts of data (more than 90TB/day), as part of
 
 When we decided to launch a new service called audiences that would enable users near real time segmentation of relevant audiences based on different filters – we needed to examine how to provide data as reliably as possible with minimal latency. This talk will dive into how we built the solution taking into account how to provide the freshest most precise data, while persisted to easily accessible storage. This required qualifying the right probabilistic data structure, modeling the solution for rapid data access – through its schema and flow and leveraging the right tooling – including Spark, Hadoop and HBase, and the challenges involved with doing so with a jungle of unstructured massive data sets.
 
-Speakers: [Ronen Cohen](#)
-Type: Full-length Presentation
+<p>Speakers: [Ronen Cohen](/engineering-org-resources/speaker-profiles.md#ronen-cohen)</p>
+<p>pe: Full-length Presentation</p>
 
 <hr/>
 </details>
@@ -37,7 +37,8 @@ Powering more than 130 thousand mobile apps around the globe, AppsFlyer receives
 
 This talk will dive into our journey of how to choose the right solution for the job to implement real-time aggregation alongside batch processing over Apache Spark, and additional big data needs with Hadoop. Being able to evolve our architecture enabled us to solve recurring pains as well as aggregate 10X amounts of data with much faster response times, keep up with product demands while delivering a cheaper solution from a production cost perspective.
 
-Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Reshef Mann](#), [Adi Belan](#)
+<p>Speakers: [Yulia Trakhtenberg](/engineering-org-resources/speaker-profiles.md#yulia-trakhtenberg), [Morri Feldman](/engineering-org-resources/speaker-profiles.md#morri-feldman), [Nir Rubinstein](/engineering-org-resources/speaker-profiles.md#nir-rubinstein), [Reshef Mann](/engineering-org-resources/speaker-profiles.md#reshef-mann), [Adi Belan](/engineering-org-resources/speaker-profiles.md#adi-belan)</p>
+<p>Type: Full-Length Presentation
 <hr/>
 
 </details>
@@ -52,8 +53,8 @@ Kafka, many times is just a piece of the stack that lives in production that oft
 
 This talk will share how we built our microservices architecture with Kafka as its core piece to support 70B+ requests daily. With continuous growth we needed to “learn on the job” how to improve our Kafka architecture by moving to the producer owner cluster model, breaking up our massive monolith clusters to smaller more robust clusters, and migrating from an older version of Kafka with real-time production clients & data streams. The talk will outline best practices for leveraging Kafka’s in-memory capabilities & built-in partitioning, as well as some of the tweaks and stabilization mechanisms that enable real-time performance at web-scale, alongside processes for continuous upgrades and deployments with end-to-end automation, in an environment of constant traffic growth.
 
-Speakers: [Alon Gavra](#)
-Type: Full-length Presentation
+<p>Speakers: [Alon Gavra](/engineering-org-resources/speaker-profiles.md#alon-gavra)</p>
+<p>Type: Full-length Presentation</p>
 <hr/>
 
 </details>
@@ -71,8 +72,8 @@ During a customer migration to a new attribution system, a huge project for Apps
 
 When we discovered this, with only one week to respond before the data is permanently erased, we channeled our MacGyver skills and got to work. During this session I’ll describe the chain of events that brought us to the cliff’s edge, the steps we took around the clock to save our data, and how we managed to forestall any data loss for our clients.
 
-Speakers: [Adi Belan](#)
-Type: Post-mortem
+<p>Speakers: [Adi Belan](/engineering-org-resources/speaker-profiles.md#adi-belan)</p>
+<p>Type: Post-mortem</p>
 <hr/>
 
 </details>
@@ -83,8 +84,8 @@ Type: Post-mortem
 
 The AppsFlyer data-infrastructure group was established to tackle the growing technical debt around the daily batch data processing - ingesting nearly 90TB a day. One of the initial tasks was focusing on fixing inexplicable corruptions which led us down a rabbit hole full of anomalies with our Spark committer, Hadoop JARs alongside interaction with our AWS S3 buckets (storing petabytes of data). This talk is our war story filled with twists and turns, a first time talk given outside of the walls of AppsFlyer walls aimed at shedding some light on what is truly involved with building a robust, real time, big data operation at scale.
 
-Speakers: [Zohar Stiro](#)
-Type: Full-length Presentation
+<p>Speakers: [Zohar Stiro](/engineering-org-resources/speaker-profiles.md#zohar-stiro)</p>
+<p>Type: Full-length Presentation</p>
 <hr/>
 
 </details>
