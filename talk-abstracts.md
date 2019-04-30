@@ -187,21 +187,21 @@ Through a mixture of exposition and hands-on coding students will learn the foll
 Each is a 20 minute talk with 10 minutes of practice.**
 
 #### Session 1
-# Basic Basics, addition subtraction, repl, editor
-# Map reduce filter – higher order functions
-# Namespaces, project organization, compilation?
+1a. Basic Basics, addition subtraction, repl, editor
+1b. Map reduce filter – higher order functions
+1c. Namespaces, project organization, compilation?
 - 30 Minute Break
 
 #### Session 2
-# Setup a web app – ring middleware function composition
-# Immutability – both from hands-on, as well as theoretical persistent data structures
-# Atoms, start using them in web app immediately
+2a. Setup a web app – ring middleware function composition
+2b. Immutability – both from hands-on, as well as theoretical persistent data structures
+2c. Atoms, start using them in web app immediately
 - 30 Minute Break
 
 #### Session 3
-# Routing / endpoints in web app. Starting / stopping threads
-# Core async to connect twitter read / processor threads
-# Finish the web app – resetting / getting histogram
+3a. Routing / endpoints in web app. Starting / stopping threads
+3b. Core async to connect twitter read / processor threads
+3c. Finish the web app – resetting / getting histogram
 - 30 Minute Break
 
 * API for web app – 
