@@ -1,6 +1,8 @@
-## AppsFlyer Engineering has expertise on a diversity of topics, find the different abstracts below.  We are happy to be invited to speak in any forum - conference, meetup, community event - so be sure to reach out.  Follow us on Twitter: [@appsflyerdev](https://www.twitter.com/appsflyerdev) and our [AppsFlyer Engineering meetup group](https://meetup.com/appsflyer).
+## AppsFlyer Engineering has expertise on a diversity of topics, find the different abstracts below.  
 
+We are happy to be invited to speak in any forum - conference, meetup, community event - so be sure to reach out.  Follow us on Twitter: [@appsflyerdev](https://www.twitter.com/appsflyerdev) and our [AppsFlyer Engineering meetup group](https://meetup.com/appsflyer).
 
+<hr/>
 
 ### [Big Data Talks](#big-data)
 <hr/>
