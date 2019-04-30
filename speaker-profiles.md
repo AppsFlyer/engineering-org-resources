@@ -14,7 +14,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### Shimi Bar
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/shimi-round.png" width="100" align="left" padding-right="5"> I'm a frontend architect at AppsFlyer with experience in a diversity of frontend and backend languages. In my previous roles I served as a fullstack developer and tech lead, architecting and coding web apps end-to-end. I enjoy building systems for scale, and understanding how a user’s journey through the UI and frontend experience influence business impact. I'm a seasoned speaker and trainer of fullstack technology.
 <br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_Q3yUb3yADc),[[2]](https://www.youtube.com/watch?v=pITHg1FAVWc)
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_Q3yUb3yADc), [[2]](https://www.youtube.com/watch?v=pITHg1FAVWc)
 
 
 ### Ido Barkan 
@@ -27,7 +27,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/mey-round.png" width="100" align="left" padding-right="5"> Mey Beisaron is a public speaker, a Node.js, Clojure and Java developer and a software engineer at AppsFlyer. When she is not spending her weekends at hackathons, she experiments with algorithms or learns languages such as russian, french and italian. Mey is also a sworn star wars fan. May the force be with you.
 
 <br/>Languages: English, Hebrew
-<!-- <br/>Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
+<!-- Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
 
 
 ### Adi Belan 
@@ -49,7 +49,44 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### Alon Gavra
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Alon Gavra has been with Appsflyer for the past two years - and today serves as the Platform Team Lead.  Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon's main focus is stability and resiliency in builfing massive data ingestion and storage solutions.
 <br/>Languages: English, Hebrew
-<!-- <br/>Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
+<!-- Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
+
+
+
+
+### Gilad Katz
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gilad-round.png" width="100" align="left" padding-right="5"> Gilad Katz serves as VP R&D at AppsFlyer, bringing 12 years of experience in both technology and product leadership, building teams in both consumer and big data startups. Prior to AppsFlyer Gilad served as CEO of Zone an early stage startup building a unique and tech savvy social network (part of Zone's team joined AppsFlyer and are the core team of the Kiev office). He also served as VP Engineering at Taykey and VP R&D at Everything.Me. Gilad lives in Herzliya with his wife and 2 young kids.
+
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Zi_lxaWxpxM)**
+
+
+### Reshef Mann
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/reshef-round.png" width="100" align="left" padding-right="5"> Mr. Reshef Mann is a Co-Founder and serves as Chief Technology Officer of Appsflyer Ltd. Mr. Mann worked on various web technologies and distributed systems in Intel, SAP and startup companies like Jajah (acquired by Telefonica) and Xsights for 10 years. He holds a BSc in Information Systems from the Technion.
+**<br/>Languages: English, Hebrew**
+
+
+### Nir Rubinstein
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/nir-round.png" width="100" align="left" padding-right="5"> Nir Rubinstein is a multidisciplinary developer who utilizes various programming languages and technology stacks. His main passion is building robust and scalable infrastructure solutions on the Server Side. Good code and new technology are Nir's sweet spot, alongside modeling, designing and implementing concurrent and distributed infrastructure solutions built to handle today's amount of Big Data and extreme traffic. Nir's go-to methodologies are functional programming languages and paradigms, queues, and async communications to power web-scale.
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc)**
+
+
+### Yulia Trakhtenberg
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yulia-round.png" width="100" align="left" padding-right="5"> Yulia Trakhtenberg is the Data Group Manager at AppsFlyer, with more than 15 years of experience in software development (both backend and frontend), including requirements, architecture, design, coding, testing, quality and customer issues, and nearly a decade of team management and empowerment. Yulia's expertise is around combining deep technical knowledge with understanding of product, business and customer needs.
+Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big data, Java, PHP, NoSQLs, Redis, MySQL, and agile, scrum, automation, management, recruitment, team empowerment.
+**<br/>Languages: English, Hebrew, Russian
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI)**
+
+
+### Asy Ronen
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/asy-round.png" width="100" align="left" padding-right="5"> Asy Ronen is a seasoned software architect and developer, who specializes in building large-scale distributed and highly concurrent systems.  Over his 15+ year career he has gained expertise in large data storage solutions including NoSQL/NewSQL and analytic solutions.  Aside from architecting for scale and performance, Asy is known to drive ambitious technological roadmaps and lead the development effort towards achieving these goals.  He is a seasoned speaker and blogger.  
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [[2]](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s)**
+
+
+
+
 
 
 
