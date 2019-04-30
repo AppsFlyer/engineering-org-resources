@@ -8,9 +8,9 @@
 * [Culture](#)
 * [Cloud & Platform Engineering](#)
 
-###Find our speaker bios [here](#).
+### Find our speaker bios [here](#).
 
-###A roundup of our contributed articles:
+### A roundup of our contributed articles:
 * [1](#)
 * [2](#)
 
