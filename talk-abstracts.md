@@ -1,4 +1,4 @@
-## AppsFlyer Engineering has expertise in many areas from data engineering & science, a diversity of programming languages, platform and cloud operations as well as, culture & psych talks. You can find the different abstracts below.  
+**AppsFlyer Engineering has expertise in many areas from data engineering & science, a diversity of programming languages, platform and cloud operations as well as, culture & psych talks. You can find the different abstracts below.**  
 
 We are happy to be invited to speak in any forum - conference, meetup, community event - so be sure to reach out.  Follow us on Twitter: [@appsflyerdev](https://www.twitter.com/appsflyerdev) and our [AppsFlyer Engineering meetup group](https://meetup.com/appsflyer).
 
@@ -142,7 +142,6 @@ Type: Full-length Presentation
 #### Clojure & Functional Programming
 <hr/>
 
-
 <details><summary>How I Supercharged Learning Clojure through Gamification</summary>
 
 #### Short Description
@@ -151,10 +150,24 @@ Gamification can be an excellent way to reduce the barrier of entry & quickly le
 #### Long Description
 Mastering a new programming language can seem like a daunting task. As a person who has had to learn a number of new programming languages in a short amount of time, I’ve found gamification to be an excellent way to learn how to port knowledge from one language to another. This talk will dive into how through a simple game - I went through a journey of learning to code, and then was able to gain hands-on experience in a diversity of languages multiple times, when learning new languages. By applying concepts I formerly learned for Java to learn how to code in Clojure, and specifically by finding the similarities such as libraries, classes and types across languages, and then rebuilding this simple game in the new language, I quickly learned how to apply knowledge gained in other programming languages to the new language I was looking to learn. This talk will demonstrate how you can create a pet app that can teach you to too!
 
-Speakers: [Mey Beisaron](#)
-Type: Full-length Presentation
+<p>Speakers: [Mey Beisaron](#)</p>
+<p>Type: Full-length Presentation</p>
 </details>
 
+
+<details><summary>Channels and Macros in Core.Async</summary>
+
+#### Short Description
+How to best leverage Clojure’s core.async library for good concurrency and utilization of modern multicore processors without suffering from “callback hell”.
+
+
+#### Long Description
+Clojure’s core.async library implements Tony Hoare’s concurrent programming model Communicating Sequential Processes — CSP. CSP is probably best known from its implementation in the Go programming. In the CSP programming model, independent processes communicate synchronously across channels. The runtime is then responsible for shifting work on and off of worker threads as needed. Such a programming model allows for achieving good concurrency and utilization of modern multicore processors without getting trapped in “callback hell.” Clojure core async provides the two pieces required to program in the CSP style — channels and the equivalent of Go’s goroutines. The channels facilitate interprocess communication and the goroutines transform sequential code to run concurrently. Surprisingly the goroutine in Clojure is implemented not as a core language feature but as a macro — the “go” macro — that rewrites any provided code into a state machine which can park rather than block a CPU thread when there is no work to do. We will examine core.async’s channels and its “go” macro in some detail as well as look at some real-world examples of using core.async channels with and without the “go” macro.
+
+
+<p>Speakers: [Morri Feldman](#)</p>
+<p>Type: Full-length Presentation</p>
+</details>
 
 <details><summary>Clojure Fundamentals Workshop - From Zero to Hero</summary>
 
@@ -236,8 +249,6 @@ Enter Go-Sundheit. We recently started making the migration from Clojure to Go f
 Speaker: [Eran Harel](#)
 
 </details>
-
-<p>
 
 <details><summary>Migrating a Mission Critical Service to Go</summary>
 
@@ -401,8 +412,6 @@ We've all suffered from imposter syndrome from time to time.  But it turns out i
 Speakers: [Sharone Zitzman](#)
 Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 </details>
-<p>
-<br/>
 
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
