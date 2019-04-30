@@ -139,7 +139,7 @@ Type: Full-length Presentation
 <br/>
 
 
-#### Clojure
+#### Clojure & Functional Programming
 <hr/>
 
 
@@ -154,7 +154,6 @@ Mastering a new programming language can seem like a daunting task. As a person 
 Speakers: [Mey Beisaron](#)
 Type: Full-length Presentation
 </details>
-
 
 
 <details><summary>Clojure Fundamentals Workshop - From Zero to Hero</summary>
@@ -485,4 +484,39 @@ I never imagined I’d know who Indian cricket star Rohit Sharma is, but then tr
 
 Speakers: [Ethan Pransky](#)
 Type: Full-length Presentation
+</details>
+
+
+
+<details><summary>Improving Developer Velocity & Autonomy with Deploy & Destroy Testing Environments</summary>
+
+#### Short Description
+On demand testing environments fundamentally changed the quality & velocity of how we ship code - and you can too!
+
+#### Long Description
+One of the critical factors for development velocity is software correctness. Our ability to develop and ship new features fast is bound by our ability to validate several aspects of the change: 
+* Does the feature meet the requirements? 
+* How does the feature affect existing code, and how can it affect the production environment? With continuous codebase growth and new features being added, naturally our productivity decreases, and our need to improve the guarantees for quality and correctness increase.
+
+In this talk, I’ll focus on testing environments: why developers need a self-service platform to create a full functioning environment on-demand, how such environments should be managed, and how can one restore part of the lost velocity. I’ll cover an internal system we use at AppsFlyer called ‘Namespaces’ that addresses the issue with the help of Mesos / Marathon, Docker, Traefik, and Consul.
+
+Speakers: [Michael Arenzon](#)
+Type: Full-length Presentation
+[Recording](#)
+
+</details>
+
+
+
+<details><summary>Trunk Split: Our Mono-Repo to Mulit-Repo Journey</summary>
+
+#### Talk Description
+One of the hidden costs that nobody talks about in a microservices architecture is repository management. Some companies (like Amazon and Uber) take it for granted that repository per service is the right choice, while other ones (like Google and Facebook) are doing quite the opposite by managing a single repository to hold their entire the codebase.
+
+In this session I'd like to share with you a migration story, how we began splitting a monolith repository that kept growing for the past 10 years into a multi-repository environment. I will focus on the considerations involved with making such a fundamental shift in the way code is managed and collaborated on, and how this can affect developer velocity, engineering culture, and tooling.
+
+
+Speakers: [Michael Arenzon](#)
+Type: Full-length Presentation
+
 </details>
