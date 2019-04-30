@@ -18,7 +18,7 @@ As a company that ingests large amounts of data (more than 90TB/day), as part of
 
 When we decided to launch a new service called audiences that would enable users near real time segmentation of relevant audiences based on different filters – we needed to examine how to provide data as reliably as possible with minimal latency. This talk will dive into how we built the solution taking into account how to provide the freshest most precise data, while persisted to easily accessible storage. This required qualifying the right probabilistic data structure, modeling the solution for rapid data access – through its schema and flow and leveraging the right tooling – including Spark, Hadoop and HBase, and the challenges involved with doing so with a jungle of unstructured massive data sets.
 
-<p>Speakers: [Ronen Cohen](/engineering-org-resources/speaker-profiles.md#ronen-cohen)</p>
+<p>Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen)</p>
 <p>pe: Full-length Presentation</p>
 
 <hr/>
