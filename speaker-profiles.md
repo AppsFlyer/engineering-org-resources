@@ -3,7 +3,7 @@
 
 
 ### Michael Arenzon
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100"> Michael’s passion is around solving complex engineering problems while maintaining high velocity, with emphasis on building distributed and highly concurrent systems, creating (a real) large-scale infrastructure, and improving operational efficiency.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/michael-round.png" width="100"> Michael’s passion is around solving complex engineering problems while maintaining high velocity, with emphasis on building distributed and highly concurrent systems, creating (a real) large-scale infrastructure, and improving operational efficiency.
 
 Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform.
 <p>Languages: English, Hebrew, Russian</p>
