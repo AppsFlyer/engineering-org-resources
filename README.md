@@ -11,6 +11,6 @@
 ### Find our speaker bios [here](#).
 
 ### A roundup of our contributed articles:
-* [1](#)
+* [Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report](https://www.infoq.com/articles/api-gateway-clojure-golang)
 * [2](#)
 
