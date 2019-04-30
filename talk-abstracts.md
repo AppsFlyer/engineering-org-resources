@@ -5,17 +5,26 @@
 ### [Big Data Talks](#big-data)
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
-...
-</details>
 
-<details><summary>Journey to Real Time Analytics in Extreme Growth</summary>
+#### Short Description
+Building solutions around large data sets with near real time response time is no easy feat. This requires the practical application of computer science theory to do so with minimal latency and while remaining fresh and precise.
+
+
+#### Long Description
+As a company that ingests large amounts of data (more than 90TB/day), as part of our core functionality, AppsFlyer for ways to empower users to leverage their data by providing access to data sets for finer-grained analysis and segmentation to optimize targeting. Access to large data sets, especially raw data is often times an I/O intensive task, making it a slow and memory-straining task. Therefore, when setting out to provide such functionality, we were faced with a challenging engineering problem which also required us to apply theory from the field of Computer Science.
+
+When we decided to launch a new service called audiences that would enable users near real time segmentation of relevant audiences based on different filters – we needed to examine how to provide data as reliably as possible with minimal latency. This talk will dive into how we built the solution taking into account how to provide the freshest most precise data, while persisted to easily accessible storage. This required qualifying the right probabilistic data structure, modeling the solution for rapid data access – through its schema and flow and leveraging the right tooling – including Spark, Hadoop and HBase, and the challenges involved with doing so with a jungle of unstructured massive data sets.
+
+Speakers: [Ronen Cohen](#)
+Type: Full-length Presentation
+</details>
 <p>
 
 #### Short Description
 
 At AppsFlyer we have been finding ourselves the victims of our own success, with our data continuously growing, alongside the capabilities we want to enable for our clients to make better marketing decisions. This talk will dive into the evolution of our data management choices to support the changing needs of the business.
 
-#### Abstract
+#### Long Description
 At AppsFlyer we have been finding ourselves the victims of our own success, with our data continuously growing, alongside the capabilities we want to enable for our clients to make better marketing decisions. These, of course, eventually impact the technology we choose to make this all possible. This talk will dive into the evolution of our data management choices to support the changing needs of the business.
 
 Powering more than 130 thousand mobile apps around the globe, AppsFlyer receives more than 70 billion requests a day, and as a result have a diversity of teams requiring real time performance for different use cases, whether real time attribution, monitoring, big data or web analytics. Each team has built their own technology stack to deliver on its needs. This talk will dive into the many different databases we use in-house – from Aerospike to Druid, Neo4J, Redis, to Clickhouse and even those we chose to eventually phase out. It will dive into the performance considerations for each, and the use cases we leverage each different database for, and why it’s the ideal DB for the job.
@@ -27,6 +36,85 @@ Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Res
 </details>
 </p>
 
+<details><summary>Managing Your Kafka in an Explosive Growth Environment</summary>
+
+#### Short Description
+Kafka, many times is just a piece of the stack that lives in production that often times no one wants to touch - because it just works. At AppsFlyer, Kafka sits at the core of our infrastructure that processes billions of events daily.
+
+#### Long Description
+Kafka, many times is just a piece of the stack that lives in production that often times no one wants to touch – because it just works. At AppsFlyer, Kafka sits at the core of our infrastructure that processes billions of events daily.
+
+This talk will share how we built our microservices architecture with Kafka as its core piece to support 70B+ requests daily. With continuous growth we needed to “learn on the job” how to improve our Kafka architecture by moving to the producer owner cluster model, breaking up our massive monolith clusters to smaller more robust clusters, and migrating from an older version of Kafka with real-time production clients & data streams. The talk will outline best practices for leveraging Kafka’s in-memory capabilities & built-in partitioning, as well as some of the tweaks and stabilization mechanisms that enable real-time performance at web-scale, alongside processes for continuous upgrades and deployments with end-to-end automation, in an environment of constant traffic growth.
+
+Speakers: [Alon Gavra](#)
+Type: Full-length Presentation
+
+</details>
+
+<p>
+  
+<details><summary>Tick Tock on the Clock - Hope the Data Don't Stop</summary>
+
+#### Short Description
+Sometimes a small error can lead to catastrophic results. This will be a postmortem talk that will detail how we nearly lost massive amounts of data, and the work undertaken under fire to bring us back from the cliff's edge.
+
+
+#### Long Description
+This is a story of a race against time! So hang on to your seats…
+
+During a customer migration to a new attribution system, a huge project for AppsFlyer Engineering in 2018, we found ourselves facing a potential data loss catastrophe. It all started with the primal sin of a premature optimization made where we set the incorrect data retention timeframe for a database holding 65 billion records.
+
+When we discovered this, with only one week to respond before the data is permanently erased, we channeled our MacGyver skills and got to work. During this session I’ll describe the chain of events that brought us to the cliff’s edge, the steps we took around the clock to save our data, and how we managed to forestall any data loss for our clients.
+
+Speakers: [Adi Belan](#)
+Type: Post-mortem
+
+</details>
+
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
+  
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
+  
+  
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
+  
+  
+
+  
+  
+  
+  
+  
 <details><summary>Dynamic HBase Coprocessors Using Clojure</summary>
 
 #### Abstract
@@ -142,8 +230,32 @@ Speakers: [Shimi Bar](#), [Liron Cohen](#)
 
 ### [Cloud & Platform Engineering Talks](#cloud)
 
-<details><summary>1</summary>
-...
+<details><summary>Baptism By Fire - Why Production Failures Make you a Better Developer</summary>
+
+#### Short Description
+Taking end-to-end ownership of your production code, enables you to understand the operational aspects even the best code encounters - and will contribute to improved coding practices.
+
+#### Long Description
+As developers, we are constantly focused on writing elegant and cutting edge code, however, meaningful code eventually lives 99% of its life in production, and becomes “someone else’s problem”. As with all code, issues are bound to arise and someone will have to deal with them (probably at 3 AM after a pagerduty call). At AppsFlyer all developers are expected to own their code end-to-end, to create a greater sense of commitment to its quality, and enable more rapid turnaround on debugging issues. Three years of being on the on-call rotation for mission critical services at AppsFlyer have taught me some hard lessons, but made me a better developer along the way. In this session I’ll dive into best practices for how to approach production issues as developers, some of the lessons I’ve learned about a developer managing production code, and how this ultimately makes us (much) better coders.
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+
 </details>
 
+<p>
+  
+<details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
+
+#### Short Description
+
+#### Long Description
+
+
+Speakers: [Adi Belan](#)
+Type: Full-length Presentation
+</details>
+<p>
+
+<details><summary>Journey to Real Time Analytics in Extreme Growth</summary>
 <p>
