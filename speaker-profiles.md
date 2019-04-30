@@ -59,7 +59,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 
 ### [Alon Gavra](#alon-gavra)
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/alon-round.png" width="100" align="left" padding-right="5"> Alon Gavra has been with Appsflyer for the past two years - and today serves as the Platform Team Lead.  Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon's main focus is stability and resiliency in builfing massive data ingestion and storage solutions.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/alon-round.png" width="100" align="left" padding-right="5"> Alon has been with AppsFlyer for more than two years. Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon’s main focus is stability and resiliency in building massive data ingestion and storage solutions.
 **<br/>Languages: English, Hebrew**
 <!-- Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
 <hr/>
