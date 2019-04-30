@@ -26,3 +26,30 @@ Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Res
 
 </p>
 </details>
+
+
+
+### [Programming Talks](#programming)
+
+<details><summary>1</summary>
+...
+</details>
+
+<p>
+
+
+### [Culture Talks](#culture)
+
+<details><summary>1</summary>
+...
+</details>
+
+<p>
+
+### [Cloud & Platform Engineering Talks](#cloud)
+
+<details><summary>1</summary>
+...
+</details>
+
+<p>
