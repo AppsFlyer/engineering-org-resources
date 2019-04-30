@@ -187,21 +187,21 @@ Through a mixture of exposition and hands-on coding students will learn the foll
 Each is a 20 minute talk with 10 minutes of practice.**
 
 #### Session 1
-1a. Basic Basics, addition subtraction, repl, editor
-1b. Map reduce filter – higher order functions
-1c. Namespaces, project organization, compilation?
+a. Basic Basics, addition subtraction, repl, editor
+b. Map reduce filter – higher order functions
+c. Namespaces, project organization, compilation?
 - 30 Minute Break
 
 #### Session 2
-2a. Setup a web app – ring middleware function composition
-2b. Immutability – both from hands-on, as well as theoretical persistent data structures
-2c. Atoms, start using them in web app immediately
+a. Setup a web app – ring middleware function composition
+b. Immutability – both from hands-on, as well as theoretical persistent data structures
+c. Atoms, start using them in web app immediately
 - 30 Minute Break
 
 #### Session 3
-3a. Routing / endpoints in web app. Starting / stopping threads
-3b. Core async to connect twitter read / processor threads
-3c. Finish the web app – resetting / getting histogram
+a. Routing / endpoints in web app. Starting / stopping threads
+b. Core async to connect twitter read / processor threads
+c. Finish the web app – resetting / getting histogram
 - 30 Minute Break
 
 * API for web app – 
@@ -216,6 +216,7 @@ Type: Workshop (90 Minutes - 8 Hours)
 
 
 <br/>
+
 #### Golang
 <hr/>
 
@@ -298,11 +299,8 @@ Type: Full-length Presentation
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
 </details>
-<p>
 
 <details><summary>A Journey from Python to Go</summary>
-<br/>
-
 
 #### Abstract
 
@@ -314,9 +312,9 @@ Speaker: [Elad Leev](#)
 
 </details>
 
-<p>
 
 <br/>
+
 #### Frontend
 <hr/>
 
@@ -337,11 +335,7 @@ This talk will show you how we took the core concepts of an API gateway & applie
 
 Speakers: [Shimi Bar](#), [Liron Cohen](#)
 </details>
-
-<p>
-<br/>
-
-  
+ 
 
 <details><summary>A Modular SDK in A Fragmented Landscape</summary>
 
@@ -353,10 +347,6 @@ While this can be achieved by "baking" a custom SDK per client - this is not ver
 
 Speakers: [Shimi Bar](#), [Liron Cohen](#)
 </details>
-
-<p>
-<br/>
-  
 
 <details><summary>Micro-frontends: Is it a Silver Bullet?</summary>
 
@@ -371,9 +361,10 @@ In this talk, I will walk you through our journey where we found ourselves accum
 Speakers: [Liron Cohen](#), [Shimi Bar](#)
 Type: Full-length Presentation
 </details>
-<p>
+
 
 <br/>
+
 ### [Culture Talks](#culture)
 <hr/>
 
@@ -389,9 +380,6 @@ Have you ever found yourself struggling to build an engineering organization tha
 Speakers: [Gilad Katz](#)
 Type: Full-length Presentation
 </details>
-<p>
-<br/>
-
 
 <details><summary>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</summary>
 
@@ -405,9 +393,6 @@ Imagine the technical debt of a startup in exponential growth for six consecutiv
 Speakers: [Gilad Katz](#)
 Type: Full-length Presentation
 </details>
-<p>
-<br/>
-
 
 <details><summary>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</summary>
 
@@ -431,10 +416,6 @@ Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
 </details>
-<p>
-
-<details><summary>Journey to Real Time Analytics in Extreme Growth</summary>
-<p>
 
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
@@ -451,6 +432,7 @@ Type: Full-length Presentation
 
 
 <br/>
+
 ### [Cloud & Platform Engineering Talks](#cloud)
 <hr/>
 <br/>
@@ -467,10 +449,6 @@ Speakers: [Adi Belan](#)
 Type: Full-length Presentation
 
 </details>
-
-<p>
-<br/>
-
   
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
 
@@ -478,8 +456,6 @@ Type: Full-length Presentation
 
 #### Long Description
 
-
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
 </details>
-<p>
