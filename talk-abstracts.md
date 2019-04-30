@@ -20,6 +20,8 @@ When we decided to launch a new service called audiences that would enable users
 
 Speakers: [Ronen Cohen](#)
 Type: Full-length Presentation
+
+<hr/>
 </details>
 
 <details><summary>Journey to Real-Time Analytics in Extreme Growth</summary>
@@ -36,6 +38,7 @@ Powering more than 130 thousand mobile apps around the globe, AppsFlyer receives
 This talk will dive into our journey of how to choose the right solution for the job to implement real-time aggregation alongside batch processing over Apache Spark, and additional big data needs with Hadoop. Being able to evolve our architecture enabled us to solve recurring pains as well as aggregate 10X amounts of data with much faster response times, keep up with product demands while delivering a cheaper solution from a production cost perspective.
 
 Speakers: [Yulia Trakhtenberg](#), [Morri Feldman](#), [Nir Rubinstein](#), [Reshef Mann](#), [Adi Belan](#)
+<hr/>
 
 </details>
 
@@ -51,6 +54,7 @@ This talk will share how we built our microservices architecture with Kafka as i
 
 Speakers: [Alon Gavra](#)
 Type: Full-length Presentation
+<hr/>
 
 </details>
 
@@ -69,6 +73,7 @@ When we discovered this, with only one week to respond before the data is perman
 
 Speakers: [Adi Belan](#)
 Type: Post-mortem
+<hr/>
 
 </details>
 
@@ -80,6 +85,8 @@ The AppsFlyer data-infrastructure group was established to tackle the growing te
 
 Speakers: [Zohar Stiro](#)
 Type: Full-length Presentation
+<hr/>
+
 </details>
   
 <details><summary>A GDPR Retrospective: Implementation by a Large-Scale Data Organization in Reality</summary>
@@ -91,7 +98,9 @@ GDPR was likely one of the biggest challenges in data management that occurred i
 The date May 25, 2018 was a fateful day for many companies that process & store client data - particularly across the EU. On this day GDPR went into effect - and no one really knew quite what its effects would be. This talk will take you through our company's journey to compliance - the indexers we used to append & delete client data, and a retrospective of how this affected our data processing operations. This will walk you through the design through implementation, as well as expectation vs. real demand. Eventually what we imagined would be requested by hundreds of clients at best ended up being requested by tens of thousands - and continues growing, and learning how to manage this new compliance demand alongside our day to day data engineering tasks & processes was no easy feat.
 
 <p>Speakers: [Zohar Stiro](#), [Ronen Cohen](#), [Morri Feldman](#)</p>
-Type: Full-length Presentation
+<p>Type: Full-length Presentation</p>
+<hr/>
+
 </details>
  
   
@@ -103,6 +112,7 @@ HBase Coprocessors allow moving nearly arbitrary code execution from the client 
 I will present a generic coprocessor that is able to execute arbitrary Clojure code as a solution to some of the difficulties surrounding coprocessor development. The generic Clojure coprocessor accepts queries that bring their own aggregation instructions in the form of Clojure code. The Clojure code on each query will then be dynamically compiled and executed on the cluster by the generic Clojure coprocessor. Changing specific aggregation code now simply requires rewriting the Clojure code and sending a new query, making for a much faster development cycle than with traditional coprocessor development. To allow the Clojure code to depend on external dependencies -- for instance a JSON parsing library -- the generic Clojure coprocessor also allows for loading "static" dependencies from jar files. In addition to being more dynamic, coprocessor development safety is also increased, because the most dangerous steps, loading and initializing a coprocessor, are only done once rather than each time the aggregation logic is changed. The code for the generic Clojure coprocessor along with full examples will be provided as open source on GitHub.
 
 Speakers: [Morri Feldman](#)
+<hr/>
 
 </details>
 
@@ -152,6 +162,8 @@ Mastering a new programming language can seem like a daunting task. As a person 
 
 <p>Speakers: [Mey Beisaron](#)</p>
 <p>Type: Full-length Presentation</p>
+<hr/>
+
 </details>
 
 
@@ -167,6 +179,8 @@ Clojure’s core.async library implements Tony Hoare’s concurrent programming 
 
 <p>Speakers: [Morri Feldman](#)</p>
 <p>Type: Full-length Presentation</p>
+<hr/>
+
 </details>
 
 <details><summary>Clojure Fundamentals Workshop - From Zero to Hero</summary>
@@ -223,8 +237,9 @@ c. Finish the web app – resetting / getting histogram
 
 Speakers: [Ronen Cohen](#), [Ido Barkan](#), [Morri Feldman](#)
 Type: Workshop (90 Minutes - 8 Hours)
+<hr/>
+
 </details>
-<p>
 
 
 <br/>
@@ -271,8 +286,8 @@ Originally, this service was written in Clojure. As traffic grew - it became app
 
 Speakers: [Asy Ronen](#), [Yuri Kalinin](#)
 Type: Full-length Presentation
+<hr/>
 </details>
-<p>
 
 
 <details><summary>Building a Service Metrics & Monitoring Stack for Go</summary>
@@ -296,6 +311,7 @@ If time allows, we will also tell a short tale from the trenches about a bug tha
 
 <p>Speakers: [Asy Ronen](#), [Yuri Kalinin](#)</p>
 <p>Type: Full-length Presentation</p>
+<hr/>
 </details>
 
 <details><summary>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</summary>
@@ -307,6 +323,7 @@ If time allows, we will also tell a short tale from the trenches about a bug tha
 
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
+<hr/>
 </details>
 
 <details><summary>A Journey from Python to Go</summary>
@@ -318,9 +335,8 @@ I love Python. It has been my go-to language for the past five years. But the gr
 In this talk, I'm going to tell you about my journey from Python to Go, and provide you with some tips and expose you to some of the resources that helped me succeed on this journey and live to tell the tale.  I will dive into some of the main differences, and how to minimize the learning curve, as well as some of the excellent libraries and tools that enabled me to ramp up my Go coding skills pretty quickly & painlessly.
 
 Speaker: [Elad Leev](#)
-
+<hr/>
 </details>
-
 
 <br/>
 
@@ -343,6 +359,7 @@ What if we could compose our app from multiple agnostic parts, each with its dif
 This talk will show you how we took the core concepts of an API gateway & applied them as the base architecture for our web apps, & scaled to 30+ apps in production while sharing libraries of various versions, managing a global state, routing & more.
 
 Speakers: [Shimi Bar](#), [Liron Cohen](#)
+<hr/>
 </details>
  
 
@@ -356,6 +373,7 @@ While this can be achieved by "baking" a custom SDK per client - this is not ver
 
 <p>Speakers: [Shimi Bar](#), [Liron Cohen](#)</p>
 <p>Type: Full-length presentation</p>
+<hr/>
 </details>
 
 <details><summary>Micro-frontends: Is it a Silver Bullet?</summary>
@@ -370,6 +388,7 @@ In this talk, I will walk you through our journey where we found ourselves accum
 
 <p>Speakers: [Liron Cohen](#), [Shimi Bar](#)</p>
 <p>Type: Full-length Presentation</p>
+<hr/>
 </details>
 
 
@@ -389,6 +408,7 @@ Have you ever found yourself struggling to build an engineering organization tha
 
 <p>Speakers: [Gilad Katz](#)</p>
 <p>Type: Full-length Presentation</p>
+<hr/>
 </details>
 
 <details><summary>How We Went All-In on Reducing Technical Debt - And Lived to Tell the Tale</summary>
@@ -402,6 +422,7 @@ Imagine the technical debt of a startup in exponential growth for six consecutiv
 
 <p>Speakers: [Gilad Katz](#)</p>
 <p>Type: Full-length Presentation</p>
+<hr/>
 </details>
 
 <details><summary>Artificial Insanity: How to Keep Calm and Combat Imposter Syndrome</summary>
@@ -411,6 +432,7 @@ We've all suffered from imposter syndrome from time to time.  But it turns out i
 
 Speakers: [Sharone Zitzman](#)
 Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+<hr/>
 </details>
 
 
@@ -435,6 +457,7 @@ Type: Full-length Presentation
 
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
+<hr/>
 </details>
 <p>
 
@@ -455,7 +478,7 @@ As developers, we are constantly focused on writing elegant and cutting edge cod
 
 Speakers: [Adi Belan](#)
 Type: Full-length Presentation
-
+<hr/>
 </details>
   
 <details><summary>Hacks of Kindness in the Turbulent Cloud</summary>
@@ -480,6 +503,7 @@ like a champ
 
 Speakers: [Ariel Moskovich](#)
 Type: Full-length Presentation
+<hr/>
 </details>
 
 
@@ -493,6 +517,7 @@ I never imagined I’d know who Indian cricket star Rohit Sharma is, but then tr
 
 Speakers: [Ethan Pransky](#)
 Type: Full-length Presentation
+<hr/>
 </details>
 
 
@@ -512,7 +537,7 @@ In this talk, I’ll focus on testing environments: why developers need a self-s
 Speakers: [Michael Arenzon](#)
 Type: Full-length Presentation
 [Recording](#)
-
+<hr/>
 </details>
 
 
@@ -527,5 +552,5 @@ In this session I'd like to share with you a migration story, how we began split
 
 Speakers: [Michael Arenzon](#)
 Type: Full-length Presentation
-
+<hr/>
 </details>
