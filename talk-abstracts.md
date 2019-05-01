@@ -1,5 +1,5 @@
 
-Quick Links: [Home](/), [Speaker Bios](/speaker-profiles.md)
+Quick Links: [Home](https://github.com/AppsFlyer/engineering-org-resources), [Speaker Bios](/speaker-profiles.md)
 
 **AppsFlyer Engineering has expertise in many areas from data engineering & science, a diversity of programming languages, platform and cloud operations as well as, culture & psych talks. You can find the different abstracts below.**  
 
