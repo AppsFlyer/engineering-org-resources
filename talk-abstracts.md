@@ -140,22 +140,7 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 
 </details>
 <br/>
-  
-
-  
-<!--
-<details><summary>...</summary> -->
-
-<!-- #### Short Description -->
-
-<!-- #### Long Description -->
-
-
-<!-- Speakers: [#](#)
-Type: Full-length Presentation
-</details>
-<p>  -->
-  
+    
 ### [Programming Talks](#programming)
 <hr/>
 <br/>
@@ -286,6 +271,15 @@ Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Morri Feldman](/spea
 </details>
 
 
+<details><summary>When Choosing the Wrong Thread Causes Complete Chaos</summary>
+
+#### Talk Description
+When you process billions of requests a day concurrency & multi-threading is critical for performance. As heavy users of Aerospike & Clojure as our primary backend language, we needed to write a clj library for Aerospike as there wasn't anything readily available. As part of its functionality we thought it would be useful for the library to encode and decode DB values to work with the diversity of serialization methods we use across our DBs (JSON, gzip, protobuf, etc). However, we had a bit of an oversight in making the library non-blocking, and an even bigger mistake of having the wrong thread do the decoding. All this created an extremely slow performance on high load of our production clients. We will dive into how we handled the issue rapidly in real time & the lessons learned.
+
+Speakers: [Ido Barkan](/speaker-profiles.md#ido-barkan)
+<p>Type: Full-length Presentation, Post-Mortem</p>
+</details>
+
 
 <br/>
 
@@ -411,19 +405,6 @@ Speaker: [Elad Leev](/speaker-profiles.md#elad-leev)
 <hr/>
 </details>
 
-<details><summary><strong>...</strong></summary>
-
-#### Short Description
-
-#### Long Description
-
-
-Speakers: [...](#)
-Type: Full-length Presentation
-<hr/>
-</details>
-
-
 <br/>
 
 #### Frontend
@@ -481,11 +462,29 @@ Speakers: [Shimi Bar](/speaker-profiles.md#shimi-bar), [Liron Cohen](/speaker-pr
 
 <br/>
 
+#### Mobile
+<hr/>
+
+<details><summary><strong>How a Seemingly Small Issue Can Make your Users Zombies</strong></summary>
+
+#### Talk Description
+Our SDK is used by more than 130K+ applications, and is what delivers all of our incoming traffic from the different platforms being used.  Recently, we encountered a critical issue, that prevented any incoming traffic from Android devices to AppsFlyer.
+
+As part of our anti-fraud solution, we use the Dexguard algorithm to prevent reverse engineering, where the large majority of our 130K apps use the same tool. However, due to the issue, some source files in the SDK were corrupted on the client-side, breaking the backbone of the SDK, basically shutting down the outgoing mobile SDK traffic to AppsFlyer.  This talk will dive into the timeline of the incident, decisions we took in real time to mitigate the incident & the lessons we learned that we think can help others in a similar situation.
+
+
+Speakers: [Maxim Shoustin](#)
+<p>Type: Full-length Presentation, Post-Mortem</p>
+<hr/>
+</details>
+
+<br/>
+
 ### [Culture Talks](#culture)
 <hr/>
 
 
-<details><summary><strong>How we Hard Reset our Hiring & Onboarding Processes & Became High Performing Engineering Organization</strong></summary>
+<details><summary><strong>How we Built a High Performing Engineering Organization by Hard Resetting our Hiring & Onboarding Processes</strong></summary>
 
 #### Short Description
 One of the long-standing anomalies in the tech industry is the focus on engineering products, but less so on engineering organizational culture.  Building great products, and hiring excellent engineers is a by-product of culture that needs to be constantly improved and evaluated.
@@ -625,3 +624,20 @@ Type: Full-length Presentation
 [Recording](#)
 <hr/>
 </details>
+
+
+
+
+  
+<!--
+<details><summary>...</summary> -->
+
+<!-- #### Short Description -->
+
+<!-- #### Long Description -->
+
+
+<!-- Speakers: [#](#)
+Type: Full-length Presentation
+</details>
+<p>  -->
