@@ -520,34 +520,6 @@ Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
 Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 <hr/>
 </details>
-
-
-<details><summary><strong>...</strong></summary>
-
-#### Short Description
-
-#### Long Description
-
-
-Speakers: [...](#)
-Type: Full-length Presentation
-</details>
-
-
-<details><summary><strong>...</strong></summary>
-
-#### Short Description
-
-#### Long Description
-
-
-Speakers: [...](#)
-Type: Full-length Presentation
-<hr/>
-</details>
-<p>
-
-
 <br/>
 
 ### [Cloud and Platform Engineering Talks](#cloud)
@@ -626,6 +598,36 @@ Type: Full-length Presentation
 </details>
 
 
+<details><summary><strong>Migration from BitBucket to GitLab</strong></summary>
+
+#### Talk Description
+AppsFlyer migrated its entire git operation, with production clients from BitBucket to Gitlab.  This talk will dive into what was involved with the migration process - from building the architecture through selecting the tooling and eventually how we built our very own self-serve API abstraction over the GitLab API.  Some of the points the talk will review:
+• The migration process - from Mercurial to Git, how to move all projects, how to get developer buy-in and the lessons learned during the process
+• Architecture - How we built it, the challenges we faced, how we built our DR solution, alongside the distributed backup  
+• Building monitoring for the environment
+• Self-service, tooling & and some pro tips and tricks for working with Gitlab
+While this will be a talk about our Gitlab implementation, it will also provide key takeways for making such a migration in a large-scale engineering organization.
+
+
+Speakers: [Elad Leev](/speaker-profiles.md#elad-leev)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+
+<details><summary><strong>Graphite Infrastructure & Scaling Out Metric Flows </strong></summary>
+
+#### Talk Description
+Graphite is the de-facto standard for metrics storage and visualization, which allows every developer to get a fast and clear view of application performance, connections with other parts of the stack, and troubleshoot it easily. 
+
+But if you do not cook it right, it could be slow and frustrating. In this talk we will share our methods for metrics processing, we will look under the Graphite hood and will concentrate on high load & multi-region Graphite stack setup within AWS. We will take a look at all the ways that metrics are passed from the application to a point on the graph.
+
+We will speak about the main problems with the Graphite stack that many teams struggle with, when it comes to scale, our processes for dealing with these challenges, and making the most of the data.  
+
+
+Speakers: [Vladimir Mevzos](#)
+Type: Full-length Presentation
+</details>
 
 
   
