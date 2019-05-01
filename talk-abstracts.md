@@ -56,7 +56,7 @@ Speakers: [Yulia Trakhtenberg](/speaker-profiles.md#yulia-trakhtenberg), [Morri 
 
 </details>
 
-<details><summary><strong>Managing Your Kafka in an Explosive Growth Environment</strong></summary>
+<details><summary><strong>Managing Your Kafka in an Explosive Growth Environment (Var 1)</strong></summary>
 
 #### Short Description
 Kafka, many times is just a piece of the stack that lives in production that often times no one wants to touch - because it just works. At AppsFlyer, Kafka sits at the core of our infrastructure that processes billions of events daily.
@@ -71,6 +71,23 @@ Speakers: [Alon Gavra](/speaker-profiles.md#alon-gavra)
 <hr/>
 
 </details>
+
+
+<details><summary><strong>So You've Inherited Kafka...Now What? (Var 2)</strong></summary>
+
+#### Talk Description
+Kafka, many times is just a piece of the stack that lives in production that often times no one wants to touch - because it just works. At AppsFlyer, a mobile attribution and analysis platform that generates a constant "storm" of 70B+ events (HTTP Requests) daily, Kafka sits at the core of our infrastructure.  
+
+Recently I inherited the daunting task of managing our Kafka operation and discovered a lot of technical debt we needed to recover from if we wanted to be able sustain our next phase of growth.  This talk will dive into how to safely migrate from outdated versions, how to gain trust with developers to migrate their production services, how to manage and monitor the right metrics and build resiliency into the architecture, 
+as well as how to plan for continued improvements through paradigms such as sleep-driven design, and much more.  
+
+Speakers: [Alon Gavra](/speaker-profiles.md#alon-gavra)
+<p>Type: Full-length Presentation</p>
+<hr/>
+
+</details>
+
+
 
 <details><summary><strong>Tick Tock on the Clock - Hope the Data Don't Stop</strong></summary>
 
@@ -523,6 +540,28 @@ Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
 Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 <hr/>
 </details>
+
+<details><summary><strong>How the Pillars of Community Map to the Pillars of High Performing Organizations</strong></summary>
+
+#### Talk Description
+The pillars of good community leadership are built around rallying people to a common purpose, building a meritiocracy so that the most masterful of contributions are those that prevail, and providing the value that people expect, or have the autonomy to move on from your community as well.  Leading teams to inspire them to have purpose, strive for mastery and do so autonomously essentially map to the same values.  This talk will dive into how you can build your company around core community values to build a high-performing organization, cultivate employee engagement and retention in the long term.
+
+Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
+Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+<hr/>
+</details>
+
+<details><summary><strong>Game of Open Source: A Tale of Hype & Mire</strong></summary>
+
+#### Talk Description
+There is no question that the going is tough when it comes to open source projects. Building the excitement, community and hype is an undertaking unto itself - let's not talk about monetization. Often times, just as your project is starting to get off the ground and generate real business - newer and cooler disruptors enter the playing field - and it gets hard to keep the momentum going. This talk is going to give some real world insight on what's involved in really building a sustainable open source project, even when the hype is dwindling and the dust settles. This will be based upon lessons learned from leading the Cloud Native & OSS community in Israel, as well as the Cloudify community as my former day job.
+
+
+Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
+Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+<hr/>
+</details>
+
 <br/>
 
 ### [Cloud and Platform Engineering Talks](#cloud)
