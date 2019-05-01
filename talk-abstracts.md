@@ -274,7 +274,7 @@ Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Morri Feldman](/spea
 </details>
 
 
-<details><summary>When Choosing the Wrong Thread Causes Complete Chaos</summary>
+<details><summary><strong>When Choosing the Wrong Thread Causes Complete Chaos</strong></summary>
 
 #### Talk Description
 When you process billions of requests a day concurrency & multi-threading is critical for performance. As heavy users of Aerospike & Clojure as our primary backend language, we needed to write a clj library for Aerospike as there wasn't anything readily available. As part of its functionality we thought it would be useful for the library to encode and decode DB values to work with the diversity of serialization methods we use across our DBs (JSON, gzip, protobuf, etc). However, we had a bit of an oversight in making the library non-blocking, and an even bigger mistake of having the wrong thread do the decoding. All this created an extremely slow performance on high load of our production clients. We will dive into how we handled the issue rapidly in real time & the lessons learned.
