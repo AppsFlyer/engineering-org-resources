@@ -602,10 +602,11 @@ Type: Full-length Presentation
 
 #### Talk Description
 AppsFlyer migrated its entire git operation, with production clients from BitBucket to Gitlab.  This talk will dive into what was involved with the migration process - from building the architecture through selecting the tooling and eventually how we built our very own self-serve API abstraction over the GitLab API.  Some of the points the talk will review:
-• The migration process - from Mercurial to Git, how to move all projects, how to get developer buy-in and the lessons learned during the process
-• Architecture - How we built it, the challenges we faced, how we built our DR solution, alongside the distributed backup  
-• Building monitoring for the environment
-• Self-service, tooling & and some pro tips and tricks for working with Gitlab
+* The migration process - from Mercurial to Git, how to move all projects, how to get developer buy-in and the lessons learned during the process
+* Architecture - How we built it, the challenges we faced, how we built our DR solution, alongside the distributed backup  
+* Building monitoring for the environment
+* Self-service, tooling & and some pro tips and tricks for working with Gitlab
+
 While this will be a talk about our Gitlab implementation, it will also provide key takeways for making such a migration in a large-scale engineering organization.
 
 
