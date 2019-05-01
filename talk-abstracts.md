@@ -19,7 +19,7 @@ Building solutions around large data sets with near real time response time is n
 #### Long Description
 As software organizations are required to handle increasing volumes of data, probabilistic data structures and algorithms have been put to use more widely in order to find approximative solutions to problems that would be computationally prohibitive otherwise. 
 
-At AppsFlyer, we ingest a daily 80+ billion events sent by our users, which come into our system without any schema or predefined structure. When we set out to build a new data segmentation product, which allows our users to segment these billions of events according to any logical criteria they wish to specify, we were tasked with the challenge of offering them interactive estimated unique counts of their segments in near real time.
+At AppsFlyer, we ingest a daily 80+ billion events sent by our users, which come into our system without any schema or predefined structure. When we set out to build a new data segmentation product, which allows our users to segment these billions of events according to any logical criteria they wish to specify, we were tasked with the challenge of offering them interactive estimated unique counts of their segment size in near real time.
 
 This posed an interesting challenge from both computer science and engineering perspectives, things we needed to consider: 
 
