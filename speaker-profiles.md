@@ -99,7 +99,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Vladimir Mevzos](#vladimir-mevzos)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/vlad-round.png" width="100" align="left" padding-right="5"> Vladimir Mevzos is an experienced DevOps with about 10 years experience. He pass a long way with metrics and alerting from MRTG,Cacti to Zabbix,Nagios and to more modern Sensu/Graphite stack,fan of  "Measure Everything" concept . He holds Bachelors and Masters Degrees in Math. Before Appsflyer, Vladimir worked with bond-trading systems and financial analysis. On his free time he loves to play Chess and Go, travel and spend time at the nature.           
-**<br/>Languages: English, Hebrew, Russian
+**<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
 
@@ -134,7 +134,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Maxim Shoustin](#maxim-shoustin)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim is a full-stack developer and team leader.  Max has more than 10 years of experience focused mostly on Front-end and mobile development. I'm a StackOverflow contributor, and editor, and likes to share his experiences with the community when the opportunity arises.
 
-**<br/>Languages: English, Hebrew, Russian
+**<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
 
