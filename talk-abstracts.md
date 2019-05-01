@@ -253,6 +253,76 @@ Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Ido Barkan](/speaker
 
 </details>
 
+<details><summary><strong>Advanced Patterns in Asynchronous Programming</strong></summary>
+
+#### Talk Description
+This talk will cover some advanced compositional patterns with Scala Futures, in order to build and use higher level abstractions when dealing with async code.
+
+Using Futures as a basic building block for concurrent, async code has become pervasive in the past few years and for a good reason. However, when moving from the traditional synchronous code to the async one, a set of patterns that were obvious to implement before now seem to be more challenging. The aim of this talk is to show few examples of these patterns implemented with Scala futures in an async and non blocking manner. We will present the usage pattern and the implementation in order to show the principles of properly handling async code.
+
+In the talk we will use Scala code but the principles are universal and apply to other languages and future implementations. 
+
+Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon), [Asy Ronen](/speaker-profiles.md#asy-ronen)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+
+<details><summary><strong>Advanced Patterns in Asynchronous Programming</strong></summary>
+
+#### Talk Description
+This workshop aims to be the entry point for developers into the world of functional programming. We'll talk about various functional programming paradigms such as:
+- Referential Transparency
+- Immutability
+-Higher Order Functions and more
+
+Examples and hands on training will be via the Clojure programming language. After learning about the fundamentals of FP concepts (and getting our hands "dirty" with some Clojure code), we will progress to modeling and building a simple web app. We'll start small and show how FP principles lend themselves to our solution. Depending on how much time there is for workshops this can be very short intro or a much longer fundamentals course.
+
+ 
+
+Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Morri Feldman](/speaker-profiles.md#morri-feldman), [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein), [Ido Barkan](/speaker-profiles.md#ido-barkan)
+<p>Type: Workshop (90 Minutes to Full Day)</p>
+<hr/>
+</details>
+
+
+
+<br/>
+
+#### Uncategorized (by Language)
+<hr/>
+
+
+<details><summary><strong>Programming IS(!) Philosophy</strong></summary>
+
+#### Talk Description
+What is it about philosophy that, even today, makes people sit and debate about seemingly "nothing"? How can these vague notions and abstractions have any relevance in today's world of hard facts and cold logic? In my talk, I'll try and show how philosophy, with emphasis of linguistic philosophy, relates closely to what we do in our everyday lives as programmers. How simple things like programming language selection and trying to define a bug or name a service, are all issues that carry a much more significant meaning and context than we usually give them - I'll try, for the duration of this session, to give a glimpse behind the curtain of some of our (mis)conceptions about our world of software engineering.
+
+The talk outline would be as follows:
+1. General background about me, my education and how I found myself at the high-tech world 
+2. Core concepts of linguistic philosophy and their relation to programming 
+3. Intro to Witgenstein and the 7 value propositions of his tractatus 
+4. How the 7 value propositions translate into programming 
+5. Choosing a programming language based on all the principles above - more than a simple “low level vs. high level” or “OO vs Functional”
+ 
+
+Speakers: [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+
+
+<details><summary><strong>What Has Non-Blocking I/O Done for me Lately?</strong></summary>
+
+#### Talk Description
+Non-blocking IO is an often misunderstood piece of programming. This talk will dive into what non-blocking IO actually is, how it works, and how to increase your throughput by a few orders of magnitude. We will review the C10K problem, and why we can't just add more threads? I will also speak about when it's worth the extra complexity price, and how can you get there relatively easily once you make the choice to do so.
+
+Speakers: [Eran Harel](/speaker-profiles.md#eran-harel)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
 
 <br/>
 
