@@ -268,13 +268,13 @@ Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon), [Asy Ronen](/
 </details>
 
 
-<details><summary><strong>Advanced Patterns in Asynchronous Programming</strong></summary>
+<details><summary><strong>Functional Programming Fundamentals Workshop</strong></summary>
 
 #### Talk Description
 This workshop aims to be the entry point for developers into the world of functional programming. We'll talk about various functional programming paradigms such as:
 - Referential Transparency
 - Immutability
--Higher Order Functions and more
+- Higher Order Functions and more
 
 Examples and hands on training will be via the Clojure programming language. After learning about the fundamentals of FP concepts (and getting our hands "dirty" with some Clojure code), we will progress to modeling and building a simple web app. We'll start small and show how FP principles lend themselves to our solution. Depending on how much time there is for workshops this can be very short intro or a much longer fundamentals course.
 
