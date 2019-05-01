@@ -509,7 +509,7 @@ A common modus operandi in many companies is "if it ain't broke - don't fix it" 
 Imagine the technical debt of a startup in exponential growth for six consecutive years (growing from five engineers to 160 over this period, and from 10M daily events to over 70B). During this time, and up to the last 2 years the team focused on product expansion with a “if it ain't broke don’t fix it” attitude, resulting in inherent bugs, system instability & more than 80% of our team focused on maintenance. This will be a tale of how we went all-in on reducing technical debt by allocating more than 70% of the team for 1.5 years to reduce debt. I will share how we rewrote our core engine - at a time of extreme growth, while virtually putting on hold the rollout of any new features - a brave move in a competitive market. After two years into the process we managed to reduce the maintenance effort, number & severity of production issues - with the upside of increasing our velocity significantly. This was all made possible by instilling a culture of craftsmanship that was part of the re-engineering process, that has only been strengthen through this process.
 
 
-<p>Speakers: [Gilad Katz](/speaker-profiles.md#gilad-katz)</p>
+Speakers: [Gilad Katz](/speaker-profiles.md#gilad-katz)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
