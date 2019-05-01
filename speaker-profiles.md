@@ -1,4 +1,4 @@
-Quick Links: [Home](https://github.com/AppsFlyer/engineering-org-resources), [Speaker Bios](/speaker-profiles.md)
+Quick Links: [Home](https://github.com/AppsFlyer/engineering-org-resources), [Talk Abstracts](/talk-abstracts.md)
 
 
 
