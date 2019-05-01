@@ -14,9 +14,19 @@ Building solutions around large data sets with near real time response time is n
 
 
 #### Long Description
-As a company that ingests large amounts of data (more than 90TB/day), as part of our core functionality, AppsFlyer for ways to empower users to leverage their data by providing access to data sets for finer-grained analysis and segmentation to optimize targeting. Access to large data sets, especially raw data is often times an I/O intensive task, making it a slow and memory-straining task. Therefore, when setting out to provide such functionality, we were faced with a challenging engineering problem which also required us to apply theory from the field of Computer Science.
+As software organizations are required to handle increasing volumes of data, probabilistic data structures and algorithms have been put to use more widely in order to find approximative solutions to problems that would be computationally prohibitive otherwise. 
 
-When we decided to launch a new service called audiences that would enable users near real time segmentation of relevant audiences based on different filters – we needed to examine how to provide data as reliably as possible with minimal latency. This talk will dive into how we built the solution taking into account how to provide the freshest most precise data, while persisted to easily accessible storage. This required qualifying the right probabilistic data structure, modeling the solution for rapid data access – through its schema and flow and leveraging the right tooling – including Spark, Hadoop and HBase, and the challenges involved with doing so with a jungle of unstructured massive data sets.
+At AppsFlyer, we ingest a daily 80+ billion events sent by our users, which come into our system without any schema or predefined structure. When we set out to build a new data segmentation product, which allows our users to segment these billions of events according to any logical criteria they wish to specify, we were tasked with the challenge of offering them interactive estimated unique counts of their segments in near real time.
+
+This posed an interesting challenge from both computer science and engineering perspectives, things we needed to consider: 
+
+- Which data structure is most appropriate? 
+- Which data model would allow us to compose any number of criteria when event schemas are unknown in advance and ever changing? 
+- How do you implement aggregations such as group-by over probabilistic data? 
+- What database should we pick to allow for fast and scalable access to our data structures? 
+- How do you do this reliably, precisely and with high freshness?
+ 
+This talk will discuss how we built a system which allowed us to solve this problem over massive data sets with technologies such as Kafka, Spark, HBase and Theta Sketches, and all this with a Clojure backend for improved concurrency and throughput.
 
 Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen)
 <p>pe: Full-length Presentation</p>
@@ -548,7 +558,7 @@ Type: Full-length Presentation
 
 
 
-<details><summary><strong>Trunk Split: A Mono-Repo to Mulit-Repo Discussion</strong></summary>
+[//]: <> (<details><summary><strong>Trunk Split: A Mono-Repo to Mulit-Repo Discussion</strong></summary>
 
 #### Talk Description
 One of the hidden costs that nobody talks about in a microservices architecture is repository management. Some companies (like Amazon and Uber) take it for granted that repository per service is the right choice, while other ones (like Google and Facebook) are doing quite the opposite by managing a single repository to hold their entire the codebase.
@@ -558,4 +568,4 @@ In this session I'd like to share with you a migration story, how we began split
 Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon)
 Type: Full-length Presentation
 <hr/>
-</details>
+</details>)
