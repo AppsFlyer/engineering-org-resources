@@ -537,7 +537,7 @@ Speakers: [Gilad Katz](/speaker-profiles.md#gilad-katz)
 We've all suffered from imposter syndrome from time to time.  But it turns out imposter syndrome has some really clear patterns, and there are actually a few simple tips and tricks to start appreciating ourselves more.  This talk will provide some tools to help you keep calm and focus on your small successes  that eventually translate to big successes - similar to Kaizen.  And that all this starts with allowing ourselves to be human first and foremost.
 
 Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
-Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+<p>Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length</p>
 <hr/>
 </details>
 
@@ -547,7 +547,7 @@ Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
 The pillars of good community leadership are built around rallying people to a common purpose, building a meritiocracy so that the most masterful of contributions are those that prevail, and providing the value that people expect, or have the autonomy to move on from your community as well.  Leading teams to inspire them to have purpose, strive for mastery and do so autonomously essentially map to the same values.  This talk will dive into how you can build your company around core community values to build a high-performing organization, cultivate employee engagement and retention in the long term.
 
 Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
-Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+<p>Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length</p>
 <hr/>
 </details>
 
@@ -558,7 +558,7 @@ There is no question that the going is tough when it comes to open source projec
 
 
 Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
-Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length
+<p>Type: Ignite / Lightning Talk (5-10 Minutes) or Full-Length</p>
 <hr/>
 </details>
 
