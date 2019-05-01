@@ -476,7 +476,7 @@ Our SDK is used by more than 130K+ applications, and is what delivers all of our
 As part of our anti-fraud solution, we use the Dexguard algorithm to prevent reverse engineering, where the large majority of our 130K apps use the same tool. However, due to the issue, some source files in the SDK were corrupted on the client-side, breaking the backbone of the SDK, basically shutting down the outgoing mobile SDK traffic to AppsFlyer.  This talk will dive into the timeline of the incident, decisions we took in real time to mitigate the incident & the lessons we learned that we think can help others in a similar situation.
 
 
-Speakers: [Maxim Shoustin](#)
+Speakers: [Maxim Shoustin](/speaker-profiles.md#maxim-shoustin)
 <p>Type: Full-length Presentation, Post-Mortem</p>
 <hr/>
 </details>
@@ -629,7 +629,7 @@ But if you do not cook it right, it could be slow and frustrating. In this talk 
 We will speak about the main problems with the Graphite stack that many teams struggle with, when it comes to scale, our processes for dealing with these challenges, and making the most of the data.  
 
 
-Speakers: [Vladimir Mevzos](#)
+Speakers: [Vladimir Mevzos](/speaker-profiles.md#vladimir-mevzos)
 Type: Full-length Presentation
 </details>
 
