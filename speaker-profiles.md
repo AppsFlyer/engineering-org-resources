@@ -97,7 +97,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Reshef Mann](#reshef-mann)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/reshef-round.png" width="100" align="left" padding-right="5"> Mr. Reshef Mann is a Co-Founder and serves as Chief Technology Officer of Appsflyer Ltd. Mr. Mann worked on various web technologies and distributed systems in Intel, SAP and startup companies like Jajah (acquired by Telefonica) and Xsights for 10 years. He holds a BSc in Information Systems from the Technion.
-**<br/>Languages: English, Hebrew**
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://youtu.be/Cg79AaEAPwA?t=4410)**
 <hr/>
 
 
