@@ -555,17 +555,3 @@ Type: Full-length Presentation
 [Recording](#)
 <hr/>
 </details>
-
-
-
-[//]: <> (<details><summary><strong>Trunk Split: A Mono-Repo to Mulit-Repo Discussion</strong></summary>
-
-#### Talk Description
-One of the hidden costs that nobody talks about in a microservices architecture is repository management. Some companies (like Amazon and Uber) take it for granted that repository per service is the right choice, while other ones (like Google and Facebook) are doing quite the opposite by managing a single repository to hold their entire the codebase.
-
-In this session I'd like to share with you a migration story, how we began splitting a monolith repository that kept growing for the past 10 years into a multi-repository environment. I will focus on the considerations involved with making such a fundamental shift in the way code is managed and collaborated on, and how this can affect developer velocity, engineering culture, and tooling.
-
-Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon)
-Type: Full-length Presentation
-<hr/>
-</details>)
