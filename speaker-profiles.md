@@ -25,7 +25,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Ido Barkan](#ido-barkan) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ido-round.png" width="100" align="left" padding-right="5"> Ido is a Software Architect at Appsflyer. His entire career revolves around some type of backend software engineering. He considers himself as a big fan of programming languages in general and a fan of functional programming in particular.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=uDsux18mFSc), [[2]](https://www.youtube.com/watch?v=hC4XNmSx-88)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=uDsux18mFSc), [[2]](https://www.youtube.com/watch?v=hC4XNmSx-88)
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/clojure-and-aerospike-e2b9a9423f57), [[2]](https://medium.com/appsflyer/large-scale-nosql-database-migration-under-fire-bf298c3c2e47)**
 <hr/>
 
 
@@ -39,7 +40,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Adi Belan](#adi-belan) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/adi-round.png" width="100" align="left" padding-right="5"> Adi Belan is a 15 Year veteran of the industry who started his career in research and prototyping of Telco grade solutions.  After running the real-time back-end operation at AppsFlyer for more than four years, Adi is now focused on architecting a multi-region and datacenter application architecture and design . He loves to figure out a clever solution to difficult problems and prototype new stuff, really enjoys watching high scale systems at play, while he hates seeing them break down.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A), [[2]](https://www.youtube.com/watch?v=kELjS_che_M)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A), [[2]](https://www.youtube.com/watch?v=kELjS_che_M)
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/three-tips-for-managing-technical-debt-while-maintaining-developer-velocity-and-sanity-f3d4a080052c)**
 <hr/>
   
 
@@ -58,7 +60,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Morri Feldman](#morri-feldman)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/morri-round.png" width="100" align="left" padding-right="5"> Morri Feldman joined AppsFlyer as the first member of our data team about 4 years ago. Before AppsFlyer, he was in academia training as a Biophysicist. Since joining AppsFlyer he has been loving the fast pace of development and exciting technologies that used to handle the enormous scale of AppsFlyer data. Most of his coding at AppsFlyer is in Clojure with some work in Scala for Spark jobs. The functional paradigms in Clojure really help to quickly write correct code that performs well in a multi-threaded environment. Morri holds a PhD in Biophysics from UCSF.
 **<br/>Languages: English
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw)
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/salting-your-spark-to-scale-e6f1c87dd18), [[2]](https://medium.com/appsflyer/can-we-code-without-comments-maybe-2075abfc2ace)**
 <hr/>
 
 
@@ -91,7 +94,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Elad Leev](#elad-leev)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/elad-round.png" width="100" align="left" padding-right="5"> Elad Leev is a platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.  Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 70B+ events daily.  Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he programs in Python and Go.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Qj_jLwYMQ0M)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Qj_jLwYMQ0M)
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/gitlab-the-magic-of-system-hooks-f38c4f7ca8e7), [[2]](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)**
 <hr/>
 
 
@@ -131,7 +135,9 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Nir Rubinstein](#nir-rubinstein)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/nir-round.png" width="100" align="left" padding-right="5"> Nir Rubinstein is a multidisciplinary developer who utilizes various programming languages and technology stacks. His main passion is building robust and scalable infrastructure solutions on the Server Side. Good code and new technology are Nir's sweet spot, alongside modeling, designing and implementing concurrent and distributed infrastructure solutions built to handle today's amount of Big Data and extreme traffic. Nir's go-to methodologies are functional programming languages and paradigms, queues, and async communications to power web-scale.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc)
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/why-clojure-a52d033769a8), [[2]](https://medium.com/appsflyer/why-clojure-part-2-aace98151ce2)**
+
 <hr/>
 
 
@@ -139,7 +145,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Maxim Shoustin](#maxim-shoustin)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim is a full-stack developer and team leader.  Max has more than 10 years of experience focused mostly on Front-end and mobile development. I'm a StackOverflow contributor, and editor, and likes to share his experiences with the community when the opportunity arises.
 
-**<br/>Languages: English, Hebrew, Russian**
+**<br/>Languages: English, Hebrew, Russian
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/how-to-succeed-in-a-challenging-development-environment-7b8a9743b355)**
 <hr/>
 
 
