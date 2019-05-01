@@ -82,10 +82,26 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Zi_lxaWxpxM)**
 <hr/>
 
+
+
+### [Elad Leev](#elad-leev)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/elad-round.png" width="100" align="left" padding-right="5"> Elad Leev is a platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.  Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 70B+ events daily.  Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he programs in Python and Go.
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Qj_jLwYMQ0M)**
+<hr/>
+
+
 ### [Reshef Mann](#reshef-mann)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/reshef-round.png" width="100" align="left" padding-right="5"> Mr. Reshef Mann is a Co-Founder and serves as Chief Technology Officer of Appsflyer Ltd. Mr. Mann worked on various web technologies and distributed systems in Intel, SAP and startup companies like Jajah (acquired by Telefonica) and Xsights for 10 years. He holds a BSc in Information Systems from the Technion.
 **<br/>Languages: English, Hebrew**
 <hr/>
+
+
+### [Vladimir Mevzos](#vladimir-mevzos)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/vlad-round.png" width="100" align="left" padding-right="5"> Vladimir Mevzos is an experienced DevOps with about 10 years experience. He pass a long way with metrics and alerting from MRTG,Cacti to Zabbix,Nagios and to more modern Sensu/Graphite stack,fan of  "Measure Everything" concept . He holds Bachelors and Masters Degrees in Math. Before Appsflyer, Vladimir worked with bond-trading systems and financial analysis. On his free time he loves to play Chess and Go, travel and spend time at the nature.           
+**<br/>Languages: English, Hebrew, Russian
+<hr/>
+
 
 ### [Ariel Moskovich](#ariel-moskovich)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ariel-round.png" width="100" align="left" padding-right="5">Ariel is a dedicated Operations Engineer with more than 20 years of experience in high scale and live production environments. He is currently the Chief Infrastructure Architect at AppsFlyer, the world's leading mobile attribution & marketing analytics platform. At AppsFlyer, Ariel has built a team that is running high scale multi-cloud operations, which serve over 12 billion events per day. Previously, he worked as a Senior Operations Engineer in some of the most challenging environments - Outbrain and Orbitz. Ariel is married to a wonderful wife, and a survivor of three demanding, yet sweet, kids.
@@ -115,6 +131,13 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 
 
+### [Maxim Shoustin](#maxim-shoustin)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim is a full-stack developer and team leader.  Max has more than 10 years of experience focused mostly on Front-end and mobile development. I'm a StackOverflow contributor, and editor, and likes to share his experiences with the community when the opportunity arises.
+
+**<br/>Languages: English, Hebrew, Russian
+<hr/>
+
+
 ### [Zohar Stiro](#zohar-stiro)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/zohar-round.png" width="100" align="left" padding-right="5"> Zohar Stiro is a technology enthusiast, and an experienced engineer that has been in the realms of big data engineering for the past 8 years. He currently is part of the Platform Group at ApssFlyer leading the batch processing infrastructure, alongside the raw data flow on top of it. Zohar's main focus is recovering from years of technical debt and bringing the system to a state of stability while setting the building blocks for the future of big data processing.
 
@@ -142,13 +165,3 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s)**
 <hr/>
-
-
-
-
-
-
-
-
-
-
