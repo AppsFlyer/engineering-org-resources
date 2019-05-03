@@ -159,6 +159,17 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 <p>Type: Full-length Presentation</p>
 
 </details>
+
+<details><summary><strong>Spark Optimization Models</strong></summary>
+
+#### Abstract
+While an extremely powerful technology, Spark many times requires a lot of trial and error to get the configurations & optimizations just right - especially at scale.  This talk will walk you through some of the challenges we encountered at AppsFlyer where we ingest 90TB / day and perform a diversity of data processing operations on this huge data set.  Some of the interesting optimizations we’ve employed include salting across multiple Spark clusters, and some of the anomalies we’ve encountered have been around areas of serialization and  certain map/reduce models.  This talk will dive into how we tackled each of these, and some of the outcomes.
+
+  
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Full-length Presentation</p>
+
+</details>
 <br/>
     
 ### [Programming Talks](#programming)
@@ -257,6 +268,22 @@ Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Ido Barkan](/speaker
 <hr/>
 
 </details>
+
+<details><summary><strong>Lessons in Building a System that Processes More than 80 Billion Events Daily
+</strong></summary>
+
+#### Talk Description
+AppsFlyer’s mobile attribution and analysis platform is used by the biggest and most popular applications on Earth, generating a constant “storm” of 80B+ events (HTTP Requests) on their microservices, cloud based platform daily. In this talk, we will share the technological choices which include Clojure as our leading backend language - and the decisions to migrate from Python for improved multi-threading and concurrency.
+
+The backend was to built to be a robust system based on a diversity of open source tooling such as: Kafka, RabbitMQ, Aerospike, Redis and a host of proprietary in-house developed tools and services that enable the testing and adoption of new data technologies, continuous deployment, and large-scale monitoring of the system - including open sourcing production libraries for interoperability with core technologies.
+
+This talk will also dive into AppFlyer's real-time back-end architecture & functional programming philosophy, what it is like to be a developer at AppsFlyer, and overall attitude towards performance, redundancy and resiliency for processing 50 Million events/minute at an average latency of hundreds of milliseconds per event.
+
+Speakers: [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein), [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
 
 <details><summary><strong>Advanced Patterns in Asynchronous Programming</strong></summary>
 
@@ -527,6 +554,18 @@ Imagine the technical debt of a startup in exponential growth for six consecutiv
 
 
 Speakers: [Gilad Katz](/speaker-profiles.md#gilad-katz)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+
+<details><summary><strong>Scaling Your Engineering Organization: Get Serious with Training</strong></summary>
+
+#### Talk Description
+When you're a startup in hyper growth - sometimes one of the biggest challenges is actually onboarding new hires & quickly ramping them up on the tooling & stack. This becomes increasingly complex with a dynamic engineering organization that is not only built around agile delivery concepts with hundreds of thousands of real-time production users, but also a big data engineering organization that ingests more than 90TB of data daily. The need to support the product infrastructure around the clock, while ingesting & processing a constant stream of big data daily delivering real time access to complex segmented data, a diversity of data persistence & storage demands, as well as data models is a lot for a new hire to learn in a short amount of time. All this, alongside new programming languages & company culture. This talk will walk you through how we built a realistic training program that covers the diversity of in-house tooling & platforms - including Spark & Hadoop for big data operations, LTV databases alongside time series databases, S3, BigQuery and even the not very common choice of programming language - Clojure - to top it all off, with some Python, Golang & Scala. With the trial & error and continuous learning process we take from each training, we've managed to successfully onboard 10+ hires a month without compromising our engineering velocity nor platform robustness.
+
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman), [Ronen Cohen](/speaker-profiles.md#ronen-cohen), [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein)
+
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
