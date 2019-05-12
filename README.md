@@ -19,5 +19,6 @@
 ### A roundup of our contributed articles:
 * [Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report](https://www.infoq.com/articles/api-gateway-clojure-golang)
 * [Challenge Industry Norms and Redefine Your Technology Roles](https://thenewstack.io/challenge-industry-norms-and-redefine-your-technology-roles/)
+* My journey from Python to Go - [[RU]](https://habr.com/ru/company/skillbox/blog/444866/) | [[ZH]](https://www.infoq.cn/article/G-cfduQWKy3ROfx5p6US)
 
 <hr/>
