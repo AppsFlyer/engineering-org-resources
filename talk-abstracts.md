@@ -128,7 +128,7 @@ GDPR was likely one of the biggest challenges in data management that occurred i
 #### Long Description
 The date May 25, 2018 was a fateful day for many companies that process & store client data - particularly across the EU. On this day GDPR went into effect - and no one really knew quite what its effects would be. This talk will take you through our company's journey to compliance - the indexers we used to append & delete client data, and a retrospective of how this affected our data processing operations. This will walk you through the design through implementation, as well as expectation vs. real demand. Eventually what we imagined would be requested by hundreds of clients at best ended up being requested by tens of thousands - and continues growing, and learning how to manage this new compliance demand alongside our day to day data engineering tasks & processes was no easy feat.
 
-Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)ת [Yulia Trakhtenberg](/speaker-profiles.md#yulia-trakhtenberg)
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman), [Yulia Trakhtenberg](/speaker-profiles.md#yulia-trakhtenberg)
 <p>Type: Full-length Presentation</p>
 <hr/>
 
