@@ -108,14 +108,15 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Vladimir Mevzos](#vladimir-mevzos)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/vlad-round.png" width="100" align="left" padding-right="5"> Vladimir Mevzos is an experienced DevOps with about 10 years experience. He pass a long way with metrics and alerting from MRTG,Cacti to Zabbix,Nagios and to more modern Sensu/Graphite stack,fan of  "Measure Everything" concept . He holds Bachelors and Masters Degrees in Math. Before Appsflyer, Vladimir worked with bond-trading systems and financial analysis. On his free time he loves to play Chess and Go, travel and spend time at the nature.           
-**<br/>Languages: English, Hebrew, Russian**
+**<br/>Languages: English, Hebrew, Russian
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_FMEmBqFFAM)**
 <hr/>
 
 
 ### [Ariel Moskovich](#ariel-moskovich)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ariel-round.png" width="100" align="left" padding-right="5">Ariel is a dedicated Operations Engineer with more than 20 years of experience in high scale and live production environments. He is currently the Chief Infrastructure Architect at AppsFlyer, the world's leading mobile attribution & marketing analytics platform. At AppsFlyer, Ariel has built a team that is running high scale multi-cloud operations, which serve over 12 billion events per day. Previously, he worked as a Senior Operations Engineer in some of the most challenging environments - Outbrain and Orbitz. Ariel is married to a wonderful wife, and a survivor of three demanding, yet sweet, kids.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=9z8safOdyFE), [[2]](https://www.youtube.com/watch?v=H5Yo5a8SG6g), [[3]](https://www.youtube.com/watch?v=_FMEmBqFFAM&t=1522s)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=9z8safOdyFE), [[2]](https://www.youtube.com/watch?v=H5Yo5a8SG6g), [[3]](https://www.youtube.com/watch?v=_FMEmBqFFAM&t=1522s), [[4]](https://youtu.be/_FMEmBqFFAM?t=1450)**
 
 <hr/>
 
