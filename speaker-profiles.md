@@ -106,6 +106,12 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <hr/>
 
 
+### [Igor Masternyi](#igor-masternyi)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/igor-round.png" width="100" align="left" padding-right="5"> Igor is a software engineer at Appsflyer. He especially likes to solve complex problems requiring non-obvious approaches from Stack Overflow.
+He loves to search and finds possible code optimizations, making it possible to squeeze the maximum out of the machine, and improve performance by orders of magnitude. Igor enjoys talking about IoT, Smart House, and Machine Learning. Igor cannot survive the winter without visiting a ski resort.
+**<br/>Languages: English, Russian**
+<hr/>
+
 ### [Vladimir Mevzos](#vladimir-mevzos)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/vlad-round.png" width="100" align="left" padding-right="5"> Vladimir Mevzos is an experienced DevOps with about 10 years experience. He pass a long way with metrics and alerting from MRTG,Cacti to Zabbix,Nagios and to more modern Sensu/Graphite stack,fan of  "Measure Everything" concept . He holds Bachelors and Masters Degrees in Math. Before Appsflyer, Vladimir worked with bond-trading systems and financial analysis. On his free time he loves to play Chess and Go, travel and spend time at the nature.           
 **<br/>Languages: English, Hebrew, Russian**
