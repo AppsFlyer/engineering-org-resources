@@ -11,7 +11,7 @@ Quick Links: [Home](https://github.com/AppsFlyer/engineering-org-resources), [Ta
 
 Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform.
 **<br/>Languages: English, Hebrew, Russian
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [[2]](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=1229s), [[3]](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [[2]](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=1229s), [[3]](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s), [[4]](https://www.youtube.com/watch?v=GXx2Fl2AtzA)**
 <hr/>
 
 
@@ -128,7 +128,8 @@ He loves to search and finds possible code optimizations, making it possible to 
 
 ### [Ethan Pransky](#ethan-pransky) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ethan-round.png" width="100" align="left" padding-right="5"> Ethan is a self-taught developer obsessed with learning as much as possible about handling data at scale and what can be done with it. He currently talks to computers at AppsFlyer. When not talking to machines, Ethan likes being with his dog Taco, running, swimming, and drinking coffee.
-**<br/>Languages: English, Hebrew**
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=aejjRzjGYOE&t=73s)**
 <hr/>
 
 ### [Asy Ronen](#asy-ronen)
@@ -181,5 +182,5 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 ### [Sharone Zitzman](#sharone-zitzman)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/sharone-round.png" width="100" align="left" padding-right="5"> Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love.  Having built both the DevOps Israel and Cloud Native Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. Sharone heads up Developer Relations at AppsFlyer as her day job. You can find her on Twitter or Github as @shar1z. 
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8)**
 <hr/>
