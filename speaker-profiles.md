@@ -171,6 +171,22 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI)**
 <hr/>
 
+### [Olena Vodzianova](#olena-vodzianova)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/olena-round.png" width="100" align="left" padding-right="5"> Olena has been a backend developer since 2015 across multiple industries from telecom, to advertising, and automotive. Her specialization is with JVM languages: Java, Scala, Groovy, Clojure. Today she is a Software Engineer at AppsFlyer, in the Data Group. Her main interests include functional programming and Big Data processing. 
+**<br/>Languages: English, Hebrew, Russian**
+<hr/>
+
+### [Liza Wainblat](#liza-wainblat)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/olena-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
+Liza also likes writing, and is an author of the book "One Funny Day" about the humor of everyday life.
+**<br/>Languages: English, Hebrew, Russian**
+<hr/>
+
+
+### [Hadas Yaakobovitch](#hadas-yaakobovitch)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/hadas-round.png" width="100" align="left" padding-right="5"> Hadas’s passion is around making design come to life, handling complexities along the way.  Currently she’s a development team lead @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform. In her spare time Hadas likes to scuba dive, read and has a warm spot in her heart for felines of all types.
+**<br/>Languages: English, Hebrew**
+<hr/>
 
 ### [Gil Zellner](#gil-zellner)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gil-round.png" width="100" align="left" padding-right="5"> Gil Zellner, DevOps enthusiast and professional, experienced tech speaker. Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them.
