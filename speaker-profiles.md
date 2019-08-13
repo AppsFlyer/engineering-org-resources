@@ -177,7 +177,7 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 <hr/>
 
 ### [Liza Wainblat](#liza-wainblat)
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/olena-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liza-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
 Liza also likes writing, and is an author of the book "One Funny Day" about the humor of everyday life.
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
