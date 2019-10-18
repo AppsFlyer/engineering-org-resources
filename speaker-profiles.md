@@ -52,13 +52,14 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 
 ### [Ronen Cohen](#ronen-cohen) 
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Dror leads AppsFlyer's Deep Linking & Engagement development team. He has vast experience and knowledge in both Frontend and Backend development. He loves implementing complex projects in high-scale environment, focusing on resiliency, quality and amazing UX. Most of all he strives for innovation, learning new technologies and implementing great products. 
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Ronen Cohen is a software engineer who enjoys architecting systems for scale. He is passionate about everything software: from OS internals to distributed computing, weird data-structures to functional programming.  Ronen is a tech lead at AppsFlyer, helping build systems to process the influx of petabytes ingested monthly - to help fuel its next phase of growth.  He holds a BSc in Computer Science from the Technion.
 **<br/>Languages: English, Hebrew**
 <hr/>
 
 
 ### [Dror Davidi](#dror-davidi) 
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dror-round.png" width="100" align="left" padding-right="5"> Ronen Cohen is a software engineer who enjoys architecting systems for scale. He is passionate about everything software: from OS internals to distributed computing, weird data-structures to functional programming.  Ronen is a tech lead at AppsFlyer, helping build systems to process the influx of petabytes ingested monthly - to help fuel its next phase of growth.  He holds a BSc in Computer Science from the Technion.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dror-round.png" width="100" align="left" padding-right="5"> Dror leads AppsFlyer's Deep Linking & Engagement development team. He has vast experience and knowledge in both Frontend and Backend development. He loves implementing complex projects in high-scale environment, focusing on resiliency, quality and amazing UX. Most of all he strives for innovation, learning new technologies and implementing great products. 
+
 **<br/>Languages: English, Hebrew**
 <hr/>
 
