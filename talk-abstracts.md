@@ -211,7 +211,7 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 
 </details>
 
-<details><summary><strong>Unleas the Power of the REPL</strong></summary>
+<details><summary><strong>Unleash the Power of the REPL</strong></summary>
 
 
 #### Description

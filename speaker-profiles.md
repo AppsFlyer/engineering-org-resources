@@ -51,7 +51,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Liron Cohen](#liron-cohen) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liron-round.png" width="100" align="left" padding-right="5"> Liron Cohen is a Frontend Architect at AppsFlyer, developing software for the past 10 years, mostly around the realm of Frontend.  Liron enjoys working on and architecting complex web-apps and infrastructure, built to handle massive scale of data - while maintaining reliability, consistency, all without compromising user experience and friendliness.
-**<br/>Languages: English, Hebrew**
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=asqgKaUMXq0)**
 <hr/>
 
 
