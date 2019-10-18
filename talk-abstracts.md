@@ -658,7 +658,20 @@ Type: Full-length Presentation, Post-Mortem
 <hr/>
 </details>
 
+<details><summary><strong>Kafka Mirror Tester: Go and Kubernetes Powered Test Suite for Kafka Replication</strong></summary>
 
+#### Short Description
+Abstract: Inspired by the Jepsen series of database test suites I create kafka-mirror-tester, a cross Atlantic automated test suite for Kafka mirroring using Golang and Kubernetes. There, I said k8s, need I say more? 
+
+#### Long Description
+[kafka-mirror-tester](https://github.com/AppsFlyer/kafka-mirror-tester) is an automated test suite for kafka mirroring used at appsflyer to test the correctness and effectiveness of various kafka mirroring tools, mainly [uReplicator](https://github.com/uber/uReplicator). kafka-mirror-tester automates the tasks of datacenter setup by creating two k8s clusters, one on each side of the Atlantic, then setting up kafka clusters at both sides, then setting up replication in between, running specialized Golang producers and consumers at both sides and then injecting faults to test durability. All done hands-free, completely automated. With lovely prometheus & grafana dashboards.
+
+**Distributed systems. Are. Hard.** At AppsFlyer Kafka is the backbone and part of my team’s work on multiple datacenter deployment was making sure we are able to mirror (replicate) kafka messages across datacenters. This kind of things you want to test before reaching production and you want to be able to simulate failure scenarios such as broker down, replicator down, slow network etc under the neon light so that you’d know what to expect in reality. To achieve that in a completely reliable and repetitive manner and inspired by the [Jepsen](https://jepsen.io/) series of semi-automated database test suites I’ve set our to create our own automated kafka mirroring test suite, Kubernetest, Prometheus, Golang and more in my toolbelt. In this session you’ll learn about the interesting challenges of automating database and Kafka in particular tests, stressing out the system and making sure everything works correctly, and then tearing apart the system by injecting failure and observing the points where it breaks. This is fun!
+
+Speakers: [Ran Tavory](/speaker-profiles.md#ran-tavory)
+Type: Full-length Presentation
+<hr/>
+</details>
 
 <details><summary><strong>Improving Developer Velocity & Autonomy with Deploy & Destroy Testing Environments</strong></summary>
 
@@ -674,7 +687,7 @@ In this talk, I’ll focus on testing environments: why developers need a self-s
 
 Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon)
 Type: Full-length Presentation
-[Recording](#)
+[Recording](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=248s)
 <hr/>
 </details>
 

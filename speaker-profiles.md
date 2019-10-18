@@ -52,10 +52,15 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 
 ### [Ronen Cohen](#ronen-cohen) 
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Ronen Cohen is a software engineer who enjoys architecting systems for scale. He is passionate about everything software: from OS internals to distributed computing, weird data-structures to functional programming.  Ronen is a tech lead at AppsFlyer, helping build systems to process the influx of petabytes ingested monthly - to help fuel its next phase of growth.  He holds a BSc in Computer Science from the Technion.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Dror leads AppsFlyer's Deep Linking & Engagement development team. He has vast experience and knowledge in both Frontend and Backend development. He loves implementing complex projects in high-scale environment, focusing on resiliency, quality and amazing UX. Most of all he strives for innovation, learning new technologies and implementing great products. 
 **<br/>Languages: English, Hebrew**
 <hr/>
 
+
+### [Dror Davidi](#dror-davidi) 
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dror-round.png" width="100" align="left" padding-right="5"> Ronen Cohen is a software engineer who enjoys architecting systems for scale. He is passionate about everything software: from OS internals to distributed computing, weird data-structures to functional programming.  Ronen is a tech lead at AppsFlyer, helping build systems to process the influx of petabytes ingested monthly - to help fuel its next phase of growth.  He holds a BSc in Computer Science from the Technion.
+**<br/>Languages: English, Hebrew**
+<hr/>
 
 ### [Morri Feldman](#morri-feldman)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/morri-round.png" width="100" align="left" padding-right="5"> Morri Feldman joined AppsFlyer as the first member of our data team about 4 years ago. Before AppsFlyer, he was in academia training as a Biophysicist. Since joining AppsFlyer he has been loving the fast pace of development and exciting technologies that used to handle the enormous scale of AppsFlyer data. Most of his coding at AppsFlyer is in Clojure with some work in Scala for Spark jobs. The functional paradigms in Clojure really help to quickly write correct code that performs well in a multi-threaded environment. Morri holds a PhD in Biophysics from UCSF.
@@ -161,6 +166,13 @@ He loves to search and finds possible code optimizations, making it possible to 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/zohar-round.png" width="100" align="left" padding-right="5"> Zohar Stiro is a technology enthusiast, and an experienced engineer that has been in the realms of big data engineering for the past 8 years. He currently is part of the Platform Group at AppsFlyer leading the batch processing infrastructure, alongside the raw data flow on top of it. Zohar's main focus is recovering from years of technical debt and bringing the system to a state of stability while setting the building blocks for the future of big data processing.
 
 **<br/>Languages: English, Hebrew, Russian**
+<hr/>
+
+
+### [Ran Tavory](#ran-tavory)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ran-round.png" width="100" align="left" padding-right="5"> From bits in the database to bits of PNGs, Ran is a full stack developer with interests ranging from slick and responsive web interfaces, nosql, web infrastructure, scaling, deployment automation, continuous deployment, programming languages, open source enthusiast (a contributor and creator of several projects). Ran also leads the popular [podcast](https://www.reversim.com/) and [conference](https://summit2019.reversim.com/).
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=ADttQndpCEw), [[2]](https://www.youtube.com/watch?v=S-iO0MN0x74), [[3]](https://www.youtube.com/watch?v=LmaGQtwVh8o)**
 <hr/>
 
 
