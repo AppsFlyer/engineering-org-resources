@@ -43,7 +43,11 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A), [[2]](https://www.youtube.com/watch?v=kELjS_che_M)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/three-tips-for-managing-technical-debt-while-maintaining-developer-velocity-and-sanity-f3d4a080052c)**
 <hr/>
-  
+
+### [Dana Borinski](#dana-borinski) 
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
+**<br/>Languages: English, Hebrew**
+<hr/>
 
 ### [Liron Cohen](#liron-cohen) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liron-round.png" width="100" align="left" padding-right="5"> Liron Cohen is a Frontend Architect at AppsFlyer, developing software for the past 10 years, mostly around the realm of Frontend.  Liron enjoys working on and architecting complex web-apps and infrastructure, built to handle massive scale of data - while maintaining reliability, consistency, all without compromising user experience and friendliness.
@@ -59,7 +63,6 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Dror Davidi](#dror-davidi) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dror-round.png" width="100" align="left" padding-right="5"> Dror leads AppsFlyer's Deep Linking & Engagement development team. He has vast experience and knowledge in both Frontend and Backend development. He loves implementing complex projects in high-scale environment, focusing on resiliency, quality and amazing UX. Most of all he strives for innovation, learning new technologies and implementing great products. 
-
 **<br/>Languages: English, Hebrew**
 <hr/>
 

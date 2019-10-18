@@ -211,6 +211,20 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 
 </details>
 
+<details><summary><strong>Unleas the Power of the REPL</strong></summary>
+
+
+#### Description
+Clojure provides some powerful tools out of the box for development and debugging. The best known that we all probably use is the REPL (Read Evaluate Print Loop) that enables developers a much easier way to interact with a running Clojure project and gives us more code clarity by making it possible to find the source of bugs much more quickly, and ultimately understand the code and flow better.  In this talk I will go back to the basics and dive into how to best leverage REPL a tool that every Clojure developer uses on a daily basis, with real code examples, and get the most out of leveraging the stack trace, as well as code inspection with prints & logs.  By better understanding the power of these tools, we will be able to drill down and isolate the issues so we can debug them via the REPL and solve them more quickly - and hone our Clojure skills.
+
+
+
+Speakers: [Dana Borinski](/speaker-profiles.md#dana-borinski)
+<p>Type: Full-length Presentation</p>
+<hr/>
+
+</details>
+
 <details><summary><strong>Clojure Fundamentals Workshop - From Zero to Hero</strong></summary>
 
 #### Short Description
@@ -454,7 +468,7 @@ Speaker: [Elad Leev](/speaker-profiles.md#elad-leev)
 
 <br/>
 
-#### Frontend
+#### Frontend & Fullstack
 <hr/>
 
 
@@ -502,6 +516,17 @@ Micro-Frontends are gaining a lot of traction these days as the “silver bullet
 In this talk, I will walk you through our journey where we found ourselves accumulating independent monolithic frontend stacks - and had to find a better way to manage and maintain these stacks in a hyper-growth environment. We will present how we migrated to this loosely-coupled architecture of independent projects and eventually were able to grow to 25+ micro-frontend projects that helped us optimize our development and achieve our goals more rapidly, the challenges we encountered that made our lives miserable - and how we overcame them, and finally will try to answer the ultimate question “are micro-frontends really a silver bullet?
 
 Speakers: [Shimi Bar](/speaker-profiles.md#shimi-bar), [Liron Cohen](/speaker-profiles.md#liron-cohen)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+<details><summary><strong>The Power of Templates - How we Created a Clojure\React Symbiot in a Couple Minutes</strong></summary>
+
+#### Description
+In most engineering projects, the task of creating a new service often begins with the tedious objective of setting up the basics - adding configurations, creating the basic server files, initializing states and laying down the foundations for the innovation that will come on top. But what if we had a jump start advantage - set up everything in 1 minute, and instantly jump to the creativity step? Clojure Templates allows setting up a backend service in an instant. On the front-end side, Facebook's create-react-app allows you to do the same with React.js. Here I suggest a methodology for joining the power of Clojure with the magic of React.js by templating a configurable Clojure-React client\server architecture in less than a minute.
+
+
+Speakers: [Dror Davidi](/speaker-profiles.md#dror-davidi)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
@@ -654,7 +679,7 @@ Overnight the traffic to our postback sender service suddenly increased by 50% b
 I never imagined I’d know who Indian cricket star Rohit Sharma is, but then traffic to our real-time HTTP request sender service suddenly increased from 20 to 40 million events per minute. The reason? An app streaming the first game of the Indian cricket season. While growth is a good thing, we found ourselves unprepared for this sudden spike & needed to scramble. Initially we just threw money at the problem, but this wasn't sustainable. My talk will describe how we found low-cost, programmatic and architectural solutions to this problem and how we prepared ourselves to handle massive spikes like these on top of our existing 70 billion events per day. I'll explain our process of profiling, performance enhancement techniques, and some important lessons learned along the way.
 
 Speakers: [Ethan Pransky](/speaker-profiles.md#ethan-pransky)
-Type: Full-length Presentation, Post-Mortem
+<p>Type: Full-length Presentation, Post-Mortem</p>
 <hr/>
 </details>
 
@@ -669,7 +694,7 @@ Abstract: Inspired by the Jepsen series of database test suites I create kafka-m
 **Distributed systems. Are. Hard.** At AppsFlyer Kafka is the backbone and part of my team’s work on multiple datacenter deployment was making sure we are able to mirror (replicate) kafka messages across datacenters. This kind of things you want to test before reaching production and you want to be able to simulate failure scenarios such as broker down, replicator down, slow network etc under the neon light so that you’d know what to expect in reality. To achieve that in a completely reliable and repetitive manner and inspired by the [Jepsen](https://jepsen.io/) series of semi-automated database test suites I’ve set our to create our own automated kafka mirroring test suite, Kubernetest, Prometheus, Golang and more in my toolbelt. In this session you’ll learn about the interesting challenges of automating database and Kafka in particular tests, stressing out the system and making sure everything works correctly, and then tearing apart the system by injecting failure and observing the points where it breaks. This is fun!
 
 Speakers: [Ran Tavory](/speaker-profiles.md#ran-tavory)
-Type: Full-length Presentation
+<p>Type: Full-length Presentation</p>
 <hr/>
 </details>
 
@@ -686,8 +711,8 @@ One of the critical factors for development velocity is software correctness. Ou
 In this talk, I’ll focus on testing environments: why developers need a self-service platform to create a full functioning environment on-demand, how such environments should be managed, and how can one restore part of the lost velocity. I’ll cover an internal system we use at AppsFlyer called ‘Namespaces’ that addresses the issue with the help of Mesos / Marathon, Docker, Traefik, and Consul.
 
 Speakers: [Michael Arenzon](/speaker-profiles.md#michael-arenzon)
-Type: Full-length Presentation
-[Recording](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=248s)
+<p>Type: Full-length Presentation</p>
+<p>[Recording](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=248s)</p>
 <hr/>
 </details>
 
@@ -721,7 +746,7 @@ We will speak about the main problems with the Graphite stack that many teams st
 
 
 Speakers: [Vladimir Mevzos](/speaker-profiles.md#vladimir-mevzos)
-Type: Full-length Presentation
+<p>Type: Full-length Presentation</p>
 </details>
 
 
