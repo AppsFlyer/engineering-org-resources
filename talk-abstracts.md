@@ -483,6 +483,50 @@ Speaker: [Elad Leev](/speaker-profiles.md#elad-leev)
 
 <br/>
 
+<details><summary><strong>go-grpc-channelz: a Go based UI for gRPC's channelz's implementation</strong></summary>
+
+#### Short Description
+gRPC is a modern, highly capable RPC system. But not without it’s complexities. go-grpc-channelz observe gRPC clients and servers and provides a prism into the current state of gRPC connections down to socket level events.
+
+#### Long Description
+[go-grpc-channelz](https://github.com/rantav/go-grpc-channelz) is my open source project in Go to provide better observability into gRPC’s current state of connections (channels).
+
+gRPC is a robust and highly scalable RPC system. It abstracts actual socket connections through the channel abstraction. Channels represent load-balanced, possibly auto-discovered remote servers. Gaining visibility into the current state of gRPC channels is priceless. Think `netstat` for your gRPC server, but one which understands the full blown semantics of gRPC. Channelz is a gRPC spec that exposes the state of the above mentioned channels. go-grpc-channelz, written in go, is a pluggable UI layer which uses the channelz gRPC API to query and display the current state of gRPC connections. With three lines of code your gRPC service written in Go can gain useful observability.
+
+In this session you’ll learn about some of the interesting design concepts of gRPC and how go-grpc-channelz can be used to expose some of its intrinsics.
+
+
+Speaker: [Ran Tavory](/speaker-profiles.md#ran-tavory)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+<br/>
+
+<details><summary><strong>go-archetype: effective project prototypes in your native language/strong></summary>
+
+#### Short Description
+go-archetype is sed on steroids. And a ton more. Create project prototypes in your natural language (Go/Java/C/etc), then your users interactively feed variables to generate new projects. No need to learn a template language and maintain a template codebase. Your Go/Java/C project is the template
+
+
+#### Long Description
+Architects? Tech leads? How many times have you looked at your codebase and thought “oh my, each new project is it’s own snowflake, I wish I had a useful template project we could all use”?
+
+[go-archetype](https://github.com/rantav/go-archetype) is my open source project implemented in Golang providing a natural and language native flow to create project prototypes. With go-archetype you create a project archetype (aka blueprint) and a set of simple transformation, think `sed` on steroids.
+Search and replace, use go text templates to synthesize user inputs, prompt users for input, conditional inclusion of files or parts of files…
+
+Fast growing engineering organizations create new projects day in day out. How do you help developers maintain common project structure? How do you help developers scaffold an initial project structure? How do you help developers use useful default libraries, middlewares, configuration and settings out of the box?
+With go-archetype it’s easy: You define a blueprint project, which is just a regular Go project, no extra templating language. And then a set of transformations, e.g. ask the user for their project name and replace here, here and here, ask the user for their project package and replace here and there, ask the user whether they want to use an HTTP router and include GorillaMux only if she answered “yes”.
+
+go-archetype is written in go but in fact, can be used by blueprint authors for any language, be it JS, Java, C etc. It’s language agnostic. Example open source project using go-archetype: https://github.com/rantav/go-template
+
+The motivation to creating go-archetype came after investing in several other templating frameworks and not finding what I want. Most other frameworks require you to write your blueprint project in a specialized language, be it react templates or other. But this approach is less than ideal since it forces you to maintain two versions of your blueprint, one in your natural language (e.g. Go) so that you can develop and test real actual code and make sure it compiles and passes tests, and another in a “shadow” template language, e.g. React or other templating language, for the sake of templating. go-archetype allows you to maintain just a single codebase and that is a big maintainability win!
+
+Speaker: [Ran Tavory](/speaker-profiles.md#ran-tavory)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
 #### Frontend & Fullstack
 <hr/>
 
