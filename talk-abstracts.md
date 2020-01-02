@@ -771,12 +771,12 @@ Modern engineering groups want to work with the most nifty tech stacks, apply De
 Why is working with engineering teams always hard for security? How can we make the engineering team care about security without the headache? How do you build a strong relationship with engineering teams without compromising security and productivity? 
 
 All of these questions actually have a pretty similar answer, however achieving this, is never a simple undertaking.  This talk will dive into all of this, including:
-# Presentation of the different engineering groups and how they work together
-# Main challenges
-# Past approach and the setbacks 
-# Learning to optimize and work together - introducing our new approach
-# Real world examples for how this is done in a real, big data, DevOps-centric organization
-# Future plans
+1. Presentation of the different engineering groups and how they work together
+2. Main challenges
+3. Past approach and the setbacks 
+4. Learning to optimize and work together - introducing our new approach
+5. Real world examples for how this is done in a real, big data, DevOps-centric organization
+6. Future plans
 
 This talk will provide real practical tools for how to do this in a modern engineering organization.
 
