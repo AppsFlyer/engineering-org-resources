@@ -643,7 +643,7 @@ Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
 
 <br/>
 
-### [Cloud, Platform and Seecurity Engineering Talks](#cloud)
+### [Cloud, Platform and Security Engineering Talks](#cloud)
 <hr/>
 <br/>
 
