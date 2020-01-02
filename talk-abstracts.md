@@ -368,6 +368,21 @@ Speakers: [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein)
 
 
 
+<details><summary><strong>Reactive Programming by Example</strong></summary>
+
+#### Talk Description
+The reactive manifesto is meant to guide you in building Responsive, Resilient, Elastic (scalable), and Message Driven systems.<br/>
+
+But these are all bombastic words which are quite meaningless without a good context or good examples.<br/>
+
+This talk will walk you through a story of improving a real life service, bringing it to perform well, and link the steps to the reactive manifesto cornerstones.<br/>
+ 
+
+Speakers: [Eran Harel](/speaker-profiles.md#eran-harel)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
 <details><summary><strong>What Has Non-Blocking I/O Done for me Lately?</strong></summary>
 
 #### Talk Description
@@ -628,7 +643,7 @@ Speakers: [Sharone Zitzman](/speaker-profiles.md#sharone-zitzman)
 
 <br/>
 
-### [Cloud and Platform Engineering Talks](#cloud)
+### [Cloud, Platform and Seecurity Engineering Talks](#cloud)
 <hr/>
 <br/>
 
@@ -749,7 +764,46 @@ Speakers: [Vladimir Mevzos](/speaker-profiles.md#vladimir-mevzos)
 <p>Type: Full-length Presentation</p>
 </details>
 
+<details><summary><strong>Building Guardrails through Partnerships with the Development Team </strong></summary>
 
+#### Talk Description
+Modern engineering groups want to work with the most nifty tech stacks, apply DevOps practices of agility and rapid deployment in the form of CI/CD and all this without compromising security.  But working with engineering teams is always a challenge, this talk will answer some of the most common questions we encounter in our field, such as: <br/>
+Why is working with engineering teams always hard for security? How can we make the engineering team care about security without the headache? How do you build a strong relationship with engineering teams without compromising security and productivity? 
+
+All of these questions actually have a pretty similar answer, however achieving this, is never a simple undertaking.  This talk will dive into all of this, including:
+# Presentation of the different engineering groups and how they work together
+# Main challenges
+# Past approach and the setbacks 
+# Learning to optimize and work together - introducing our new approach
+# Real world examples for how this is done in a real, big data, DevOps-centric organization
+# Future plans
+
+This talk will provide real practical tools for how to do this in a modern engineering organization.
+
+
+Speakers: [Guy-Flechter](/speaker-profiles.md#guy-flechter)
+<p>Type: Full-length Presentation</p>
+</details>
+
+<details><summary><strong>Free Your SSLF and the Resty Will Follow</strong></summary>
+
+#### Short Talk Description
+Branded URLs are easy to implement unless SSL is required.  We wanted to provide our customers with an easy solution that will work with our existing clicks solution, requiring minimum effort from them to implement, all while not changing our existing architecture and system.
+This is how we used LetsEncrypt for easy, simple, scalable solution.
+
+#### Long Talk Description
+Our customers need branded URLs in order to maintain their brand equity, improved security practices, and increase click-through rates. In a world where becoming secure is mission-critical, HTTPS is a must.<br/>
+
+However, there really is no out of the box solution for apply HTTPS at scale, so we found ourselves having to build our own solution.<br/>
+
+In order to implement SSL for our customers, a complicated security process was required involving different groups within the organizations both on the client's side, and within our own company.<br/>
+
+This talk will dive into how we solved this problem with Letsencrypt, Docker, Redis, Nginx, resty-Lua and and autossl module.
+
+
+Speakers: [Dana-Borinski](/speaker-profiles.md#dana-borinski)
+<p>Type: Full-length Presentation</p>
+</details>
   
 <!--
 <details><summary>...</summary> -->
