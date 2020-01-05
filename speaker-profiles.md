@@ -32,9 +32,11 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Mey Beisaron](#mey-beisaron)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/mey-round.png" width="100" align="left" padding-right="5"> Mey Beisaron is a public speaker, a Node.js, Clojure and Java developer and a software engineer at AppsFlyer. When she is not spending her weekends at hackathons, she experiments with algorithms or learns languages such as russian, french and italian. Mey is also a sworn star wars fan. May the force be with you.
-**<br/>Languages: English, Hebrew**
-<!-- Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
+**<br/>Languages: English, Hebrew
+Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A),[2](https://youtu.be/ssFIhtAi_fk), [3](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [4](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [5](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [6](https://www.youtube.com/watch?v=aSceJNfIARc)**
 <hr/>
+
+
 
 
 ### [Adi Belan](#adi-belan) 
@@ -43,6 +45,13 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A), [[2]](https://www.youtube.com/watch?v=kELjS_che_M)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/three-tips-for-managing-technical-debt-while-maintaining-developer-velocity-and-sanity-f3d4a080052c)**
 <hr/>
+
+### [Roei Berkovich](#roei-berkovich) 
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/roei-round.png" width="100" align="left" padding-right="5"> Roei Berkovich is a software developer at AppsFlyer, who for the past 5 years, has focused mostly on React. At AppsFlyer he is working with React & React-Native. He also writes a tech blog @ react-israel.co.il and founded JSsnippets (facebook page)
+**<br/>Languages: English, Hebrew
+<br/> Talk Recordings: [1](https://www.youtube.com/watch?v=UvhErkIrJgA), [2](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
+<hr/>
+
 
 ### [Dana Borinski](#dana-borinski) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
@@ -58,9 +67,9 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Ronen Cohen](#ronen-cohen) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Ronen Cohen is a software engineer who enjoys architecting systems for scale. He is passionate about everything software: from OS internals to distributed computing, weird data-structures to functional programming.  Ronen is a tech lead at AppsFlyer, helping build systems to process the influx of petabytes ingested monthly - to help fuel its next phase of growth.  He holds a BSc in Computer Science from the Technion.
-**<br/>Languages: English, Hebrew**
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://youtu.be/F4TUYdjfvsc)**
 <hr/>
-
 
 ### [Dror Davidi](#dror-davidi) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dror-round.png" width="100" align="left" padding-right="5"> Dror leads AppsFlyer's Deep Linking & Engagement development team. He has vast experience and knowledge in both Frontend and Backend development. He loves implementing complex projects in high-scale environment, focusing on resiliency, quality and amazing UX. Most of all he strives for innovation, learning new technologies and implementing great products. 
@@ -77,8 +86,8 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 
 ### [Alon Gavra](#alon-gavra)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/alon-round.png" width="100" align="left" padding-right="5"> Alon has been with AppsFlyer for more than two years. Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon’s main focus is stability and resiliency in building massive data ingestion and storage solutions.
-**<br/>Languages: English, Hebrew**
-<!-- Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A)-->
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [1](https://www.youtube.com/watch?v=tjjeaCtsw_M)**
 <hr/>
 
 ### [Eran Harel](#eran-harel)
@@ -86,6 +95,13 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Jecwwd_xoiI), [[2]](https://www.youtube.com/watch?v=IPPoyxSwgC4), [[3]](https://www.youtube.com/watch?v=pxDwSHmTRTQ)**
 <hr/>
+
+
+### [Omer Herera](#omer-herera)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/omer-round.png" width="100" align="left" padding-right="5"> Omer Herrera is a hands-on engineer focusing on web technologies, with a diverse background that spans both industry and research. He loves learning new technologies/languages, dealing with all web technologies, and creating things that are useful for others.
+**<br/>Languages: English, Hebrew**
+<hr/>
+
 
 ### [Yuri Kalinin](#yuri-kalinin) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yuri-round.png" width="100" align="left" padding-right="5"> Yuri Kalinin is a software engineer at AppsFlyer for the last three years with experience as a functional programmer, alongside object-oriented, working with a diversity of clouds, and monitoring stacks.  His core expertise is writing libraries consumed by developers including Go, Clojure, Javascript, Java and Python.  Prior to AppsFlyer, Yuri was an engineer at Mellanox Technologies, has extensive experience with networking, verification, QA, as well as being a Fullstack and DevOps engineer. 
@@ -202,18 +218,19 @@ Liza also likes writing, and is an author of the book "One Funny Day" about the 
 
 ### [Hadas Yaakobovitch](#hadas-yaakobovitch)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/hadas-round.png" width="100" align="left" padding-right="5"> Hadas’s passion is around making design come to life, handling complexities along the way.  Currently she’s a development team lead @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform. In her spare time Hadas likes to scuba dive, read and has a warm spot in her heart for felines of all types.
-**<br/>Languages: English, Hebrew**
+**<br/>Languages: English, Hebrew
+<br/> Talk Recordings: [1](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
 <hr/>
 
 ### [Gil Zellner](#gil-zellner)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gil-round.png" width="100" align="left" padding-right="5"> Gil Zellner, DevOps enthusiast and professional, experienced tech speaker. Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4), [4](https://youtu.be/xBkQWr1-iqc)**
 <hr/>
 
 
 ### [Sharone Zitzman](#sharone-zitzman)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/sharone-round.png" width="100" align="left" padding-right="5"> Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love.  Having built both the DevOps Israel and Cloud Native Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. Sharone heads up Developer Relations at AppsFlyer as her day job. You can find her on Twitter or Github as @shar1z. 
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8), [6](https://www.youtube.com/watch?v=f9MG3_DHRSI)**
 <hr/>
