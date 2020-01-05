@@ -213,7 +213,6 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 
 <details><summary><strong>Unleash the Power of the REPL</strong></summary>
 
-
 #### Description
 Clojure provides some powerful tools out of the box for development and debugging. The best known that we all probably use is the REPL (Read Evaluate Print Loop) that enables developers a much easier way to interact with a running Clojure project and gives us more code clarity by making it possible to find the source of bugs much more quickly, and ultimately understand the code and flow better.  In this talk I will go back to the basics and dive into how to best leverage REPL a tool that every Clojure developer uses on a daily basis, with real code examples, and get the most out of leveraging the stack trace, as well as code inspection with prints & logs.  By better understanding the power of these tools, we will be able to drill down and isolate the issues so we can debug them via the REPL and solve them more quickly - and hone our Clojure skills.
 
@@ -340,8 +339,6 @@ When you process billions of requests a day concurrency & multi-threading is cri
 Speakers: [Ido Barkan](/speaker-profiles.md#ido-barkan)
 <p>Type: Full-length Presentation, Post-Mortem</p>
 </details>
-
-
 <br/>
 
 #### Uncategorized (by Language)
@@ -365,7 +362,6 @@ Speakers: [Nir Rubinstein](/speaker-profiles.md#nir-rubinstein)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
-
 
 
 <details><summary><strong>Reactive Programming by Example</strong></summary>
@@ -392,13 +388,10 @@ Speakers: [Eran Harel](/speaker-profiles.md#eran-harel)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
-
-
 <br/>
 
 #### Golang
 <hr/>
-
 
 <details><summary><strong>Go-Sundheit - FTW! Async Health Check Library for Golang</strong></summary>
 
@@ -437,7 +430,7 @@ Originally, this service was written in Clojure. As traffic grew - it became app
 * Q&A
 
 
-Speakers: [Asy Ronen](/speaker-profiles.md#asy-ronen), [Yuri Kalinin](/speaker-profiles.md#yuri-kalinin)
+Speakers: [Hadas Yaakobovich](/speaker-profiles.md#hadas-yaakobovich)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
@@ -477,11 +470,8 @@ In this talk, I'm going to tell you about my journey from Python to Go, and prov
 
 Speaker: [Elad Leev](/speaker-profiles.md#elad-leev)
 <p>Type: Full-length Presentation</p>
-
 <hr/>
 </details>
-
-<br/>
 
 <details><summary><strong>go-grpc-channelz: a Go based UI for gRPC's channelz's implementation</strong></summary>
 
@@ -495,15 +485,12 @@ gRPC is a robust and highly scalable RPC system. It abstracts actual socket conn
 
 In this session you’ll learn about some of the interesting design concepts of gRPC and how go-grpc-channelz can be used to expose some of its intrinsics.
 
-
 Speaker: [Ran Tavory](/speaker-profiles.md#ran-tavory)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
 
-<br/>
-
-<details><summary><strong>go-archetype: effective project prototypes in your native language/strong></summary>
+<details><summary><strong>go-archetype: effective project prototypes in your native language</strong></summary>
 
 #### Short Description
 go-archetype is sed on steroids. And a ton more. Create project prototypes in your natural language (Go/Java/C/etc), then your users interactively feed variables to generate new projects. No need to learn a template language and maintain a template codebase. Your Go/Java/C project is the template
