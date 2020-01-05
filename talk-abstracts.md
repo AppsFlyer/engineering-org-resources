@@ -620,12 +620,9 @@ Speakers: [Omer Herera](/speaker-profiles.md#omer-herera)
 <hr/>
 </details>
 
-
-
-<details><summary><strong>The JavaScript Time Machine - Past, Present, to Infinity and Beyond</strong></summary>
+<details><summary><strong>Same Code, Faster Application</strong></summary>
 
 ### Short Description 
-
 Complex React applications can affect performance and load time significantly. This talk will dive into how to optimize large and complex Javascript payloads and improve performance by orders of magnitude.
 
 #### Long Description
