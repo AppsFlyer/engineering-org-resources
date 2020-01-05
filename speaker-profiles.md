@@ -14,6 +14,13 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [[2]](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=1229s), [[3]](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s), [[4]](https://www.youtube.com/watch?v=GXx2Fl2AtzA)**
 <hr/>
 
+### [Rotem Bar](#rotem-bar)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/rotem-round.png" width="100" align="left" padding-right="5"> Rotem Bar has over a decade of experience in the security field including penetration testing both application and network, design reviews, code reviews, architecture reviews, tech managementת and of course development. Over the years Rotem has gained experience in a diversity of industries from the financial services, to insurance, through high-tech & the automotive industry, along with other complex environments.
+
+In the last couple of years Rotem has been working in concept design and development, pen testing and working with hardware in CYMOTIVE, which is a company that focuses on end to end cyber security for the automotive industry. Today he is an application security expert at AppsFlyer, the foremost mobile attribution and marketing analytics platform in the world. During his free time, Rotem plays with robotics, bug-bounty and and enjoys traveling with his family.
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=2NUhMuWo9H4)**
+<hr/>
 
 ### [Shimi Bar](#shimi-bar)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/shimi-round.png" width="100" align="left" padding-right="5"> I'm a frontend architect at AppsFlyer with experience in a diversity of frontend and backend languages. In my previous roles I served as a fullstack developer and tech lead, architecting and coding web apps end-to-end. I enjoy building systems for scale, and understanding how a user’s journey through the UI and frontend experience influence business impact. I'm a seasoned speaker and trainer of fullstack technology.
@@ -37,8 +44,6 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/>
 
 
-
-
 ### [Adi Belan](#adi-belan) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/adi-round.png" width="100" align="left" padding-right="5"> Adi Belan is a 15 Year veteran of the industry who started his career in research and prototyping of Telco grade solutions.  After running the real-time back-end operation at AppsFlyer for more than four years, Adi is now focused on architecting a multi-region and datacenter application architecture and design . He loves to figure out a clever solution to difficult problems and prototype new stuff, really enjoys watching high scale systems at play, while he hates seeing them break down.
 **<br/>Languages: English, Hebrew
@@ -56,7 +61,8 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 ### [Dana Borinski](#dana-borinski) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik&t=33s)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik)
+<br/>Blog Posts:[[]]()**
 <hr/>
 
 ### [Liron Cohen](#liron-cohen) 
@@ -84,6 +90,13 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/salting-your-spark-to-scale-e6f1c87dd18), [[2]](https://medium.com/appsflyer/can-we-code-without-comments-maybe-2075abfc2ace)**
 <hr/>
 
+
+### [Guy Flechter](#guy-flechter)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/guy-round.png" width="100" align="left" padding-right="5"> Guy is a business outcome focused security executive with experience in various fields, including a heavy focus on cloud security, risk, IR and privacy management strategies. Guy has built teams from scratch, and has created and executed long term strategies, along with communicating the importance and strategic nature of product security to executives and board members. He serves at the CISO and DPO at AppsFlyer.
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw),[[3]](https://www.youtube.com/watch?v=VBIlk3GMmNc)
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/salting-your-spark-to-scale-e6f1c87dd18), [[2]](https://medium.com/appsflyer/can-we-code-without-comments-maybe-2075abfc2ace)**
+<hr/>
 
 ### [Alon Gavra](#alon-gavra)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/alon-round.png" width="100" align="left" padding-right="5"> Alon has been with AppsFlyer for more than two years. Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon’s main focus is stability and resiliency in building massive data ingestion and storage solutions.
@@ -213,7 +226,9 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 ### [Liza Wainblat](#liza-wainblat)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liza-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
 Liza also likes writing, and is an author of the book "One Funny Day" about the humor of everyday life.
-**<br/>Languages: English, Hebrew, Russian**
+**<br/>Languages: English, Hebrew, Russian
+<br/>Talk Recordings: [[]]()
+**
 <hr/>
 
 

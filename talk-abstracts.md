@@ -907,7 +907,31 @@ This talk will dive into how we solved this problem with Letsencrypt, Docker, Re
 Speakers: [Dana-Borinski](/speaker-profiles.md#dana-borinski)
 <p>Type: Full-length Presentation</p>
 </details>
-  
+
+
+<details><summary><strong>Hacking the Automotive Cloud</strong></summary>
+
+#### Short Talk Description
+Connected vehicles are the future of the automotive industry, however, the cloud environment for the automotive industry presents a dangerous attack surface with real-life consequences.
+
+#### Long Talk Description
+Connected vehicles are the future of the automotive industry, however, the cloud environment for the automotive industry presents a dangerous attack surface with real-life consequences.
+
+In this talk I will share my experience of breaking into automotive cloud environments - from OSINT to post-exploitation activity. You will gain an understanding of the main interfaces used in the automotive cloud including supplier integrations and we will explore the differences between normal and automotive cloud environments.
+
+This will be a technical presentation that will provide real life examples of: 
+* From zero to hero – full backend control with examples
+* Common fails which enable jumping between networks 
+* Dangers of connected cars - taking control of a car from the cloud 
+* How to break a production line
+* Cloud credential leakage
+
+
+Speakers: [Rotem-Bar](/speaker-profiles.md#rotem-bar)
+<p>Type: Full-length Presentation</p>
+</details>
+
+
 <!--
 <details><summary>...</summary> -->
 
