@@ -33,7 +33,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 ### [Mey Beisaron](#mey-beisaron)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/mey-round.png" width="100" align="left" padding-right="5"> Mey Beisaron is a public speaker, a Node.js, Clojure and Java developer and a software engineer at AppsFlyer. When she is not spending her weekends at hackathons, she experiments with algorithms or learns languages such as russian, french and italian. Mey is also a sworn star wars fan. May the force be with you.
 **<br/>Languages: English, Hebrew
-Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A),[2](https://youtu.be/ssFIhtAi_fk), [3](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [4](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [5](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [6](https://www.youtube.com/watch?v=aSceJNfIARc)**
+Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https://youtu.be/ssFIhtAi_fk), [[3]](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [[4]](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [[5]](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [[6]](https://www.youtube.com/watch?v=aSceJNfIARc)**
 <hr/>
 
 
@@ -49,13 +49,14 @@ Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A),[2](https://yo
 ### [Roei Berkovich](#roei-berkovich) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/roei-round.png" width="100" align="left" padding-right="5"> Roei Berkovich is a software developer at AppsFlyer, who for the past 5 years, has focused mostly on React. At AppsFlyer he is working with React & React-Native. He also writes a tech blog @ react-israel.co.il and founded JSsnippets (facebook page)
 **<br/>Languages: English, Hebrew
-<br/> Talk Recordings: [1](https://www.youtube.com/watch?v=UvhErkIrJgA), [2](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
+<br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=UvhErkIrJgA), [[2]](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
 <hr/>
 
 
 ### [Dana Borinski](#dana-borinski) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
-**<br/>Languages: English, Hebrew**
+**<br/>Languages: English, Hebrew
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik&t=33s)**
 <hr/>
 
 ### [Liron Cohen](#liron-cohen) 
@@ -79,7 +80,7 @@ Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A),[2](https://yo
 ### [Morri Feldman](#morri-feldman)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/morri-round.png" width="100" align="left" padding-right="5"> Morri Feldman joined AppsFlyer as the first member of our data team about 4 years ago. Before AppsFlyer, he was in academia training as a Biophysicist. Since joining AppsFlyer he has been loving the fast pace of development and exciting technologies that used to handle the enormous scale of AppsFlyer data. Most of his coding at AppsFlyer is in Clojure with some work in Scala for Spark jobs. The functional paradigms in Clojure really help to quickly write correct code that performs well in a multi-threaded environment. Morri holds a PhD in Biophysics from UCSF.
 **<br/>Languages: English
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw)
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw),[[3]](https://www.youtube.com/watch?v=VBIlk3GMmNc)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/salting-your-spark-to-scale-e6f1c87dd18), [[2]](https://medium.com/appsflyer/can-we-code-without-comments-maybe-2075abfc2ace)**
 <hr/>
 
@@ -128,7 +129,7 @@ Talk Recordings: [1](https://www.youtube.com/watch?v=s5Meg6j5J3A),[2](https://yo
 ### [Reshef Mann](#reshef-mann)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/reshef-round.png" width="100" align="left" padding-right="5"> Mr. Reshef Mann is a Co-Founder and serves as Chief Technology Officer of Appsflyer Ltd. Mr. Mann worked on various web technologies and distributed systems in Intel, SAP and startup companies like Jajah (acquired by Telefonica) and Xsights for 10 years. He holds a BSc in Information Systems from the Technion.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://youtu.be/Cg79AaEAPwA?t=4410)**
+<br/>Talk Recordings: [[1]](https://youtu.be/Cg79AaEAPwA?t=4410),[[2]](https://www.youtube.com/watch?v=RoFgiIC2Dy0)**
 <hr/>
 
 
@@ -155,7 +156,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 ### [Ethan Pransky](#ethan-pransky) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ethan-round.png" width="100" align="left" padding-right="5"> Ethan is a self-taught developer obsessed with learning as much as possible about handling data at scale and what can be done with it. He currently talks to computers at AppsFlyer. When not talking to machines, Ethan likes being with his dog Taco, running, swimming, and drinking coffee.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=aejjRzjGYOE&t=73s)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=aejjRzjGYOE&t=73s),[[2]](https://www.youtube.com/watch?v=vNDiN74ZNfU)**
 <hr/>
 
 ### [Asy Ronen](#asy-ronen)
@@ -168,7 +169,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 ### [Nir Rubinstein](#nir-rubinstein)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/nir-round.png" width="100" align="left" padding-right="5"> Nir Rubinstein is a multidisciplinary developer who utilizes various programming languages and technology stacks. His main passion is building robust and scalable infrastructure solutions on the Server Side. Good code and new technology are Nir's sweet spot, alongside modeling, designing and implementing concurrent and distributed infrastructure solutions built to handle today's amount of Big Data and extreme traffic. Nir's go-to methodologies are functional programming languages and paradigms, queues, and async communications to power web-scale.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc)
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc),[[7]](https://www.youtube.com/watch?v=vNDiN74ZNfU)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/why-clojure-a52d033769a8), [[2]](https://medium.com/appsflyer/why-clojure-part-2-aace98151ce2)**
 
 <hr/>
@@ -201,7 +202,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yulia-round.png" width="100" align="left" padding-right="5"> Yulia Trakhtenberg is the Data Group Manager at AppsFlyer, with more than 15 years of experience in software development (both backend and frontend), including requirements, architecture, design, coding, testing, quality and customer issues, and nearly a decade of team management and empowerment. Yulia's expertise is around combining deep technical knowledge with understanding of product, business and customer needs.
 Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big data, Java, PHP, NoSQLs, Redis, MySQL, and agile, scrum, automation, management, recruitment, team empowerment.
 **<br/>Languages: English, Hebrew, Russian
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI),[[4]](https://www.youtube.com/watch?v=HKRJZVjYW4Q)**
 <hr/>
 
 ### [Olena Vodzianova](#olena-vodzianova)
@@ -219,18 +220,18 @@ Liza also likes writing, and is an author of the book "One Funny Day" about the 
 ### [Hadas Yaakobovitch](#hadas-yaakobovitch)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/hadas-round.png" width="100" align="left" padding-right="5"> Hadas’s passion is around making design come to life, handling complexities along the way.  Currently she’s a development team lead @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform. In her spare time Hadas likes to scuba dive, read and has a warm spot in her heart for felines of all types.
 **<br/>Languages: English, Hebrew
-<br/> Talk Recordings: [1](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
+<br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
 <hr/>
 
 ### [Gil Zellner](#gil-zellner)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gil-round.png" width="100" align="left" padding-right="5"> Gil Zellner, DevOps enthusiast and professional, experienced tech speaker. Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4), [4](https://youtu.be/xBkQWr1-iqc)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4), [[4]](https://youtu.be/xBkQWr1-iqc)**
 <hr/>
 
 
 ### [Sharone Zitzman](#sharone-zitzman)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/sharone-round.png" width="100" align="left" padding-right="5"> Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love.  Having built both the DevOps Israel and Cloud Native Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. Sharone heads up Developer Relations at AppsFlyer as her day job. You can find her on Twitter or Github as @shar1z. 
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8), [6](https://www.youtube.com/watch?v=f9MG3_DHRSI)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8), [[6]](https://www.youtube.com/watch?v=f9MG3_DHRSI)**
 <hr/>
