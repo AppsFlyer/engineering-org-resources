@@ -590,6 +590,65 @@ Speakers: [Dror Davidi](/speaker-profiles.md#dror-davidi)
 <hr/>
 </details>
 
+<details><summary><strong>JavaScript Module System - What is it?</strong></summary>
+
+### Short Description 
+
+There’s always a lot of noise in JavaScript ecosystem around modules, but despite the hype, it’s not always apparent how to best leverage these. This talk is going to change that.
+
+
+#### Long Description
+JavaScript modules are now supported in all major browsers and soon in NodeJS 13, but are they really?
+
+While they are supported in most of the major browsers, do we actually use them?
+
+Why do we even need them and how were they brought about? And what did we do before modules existed?
+
+In this talk, I’d like to demonstrate through common examples how we’ve seen & used modules before they had a name, best practices for how to use them today, and take a look at where the future will most likely take us.
+
+
+Speakers: [Omer Herera](/speaker-profiles.md#omer-herera)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+
+<details><summary><strong>The JavaScript Time Machine - Past, Present, to Infinity and Beyond</strong></summary>
+
+### Short Description 
+
+JavaScript has come a long way since being introduced in 1995, & so have we as engineers.
+
+Come with me on this journey through time with JS & see how we have moved from using best practices adopted from other langs-to where JS took control all the way through the deployment & build processes today.
+
+#### Long Description
+JavaScript has come a long way since being introduced in 1995, and so have we as engineers. We’ve grown with JavaScript, and in this talk I’d like to demonstrate through common examples how we used to deploy and compile our JS once upon a time, using techniques that now will look weird, incorrect, like bad practices or even just funny.
+
+Come with me on this journey through time with JavaScript, and see how we have moved from using best practices adopted from other languages, and techniques to compile JS to see how NodeJS/JavaScript ultimately took control all the way through the deployment and build processes for JavaScript today, and now we can’t live without these advancements.
+
+Many times we forget that there is plenty to learn from history, and expertise takes decades to cultivate, and how the tools available in the community have evolved, learn why there are so popular, when to use them and when to avoid them, and what you can take from these years of learning with JavaScript to become better engineers in your day to day work.
+
+Speakers: [Omer Herera](/speaker-profiles.md#omer-herera)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
+
+
+<details><summary><strong>The JavaScript Time Machine - Past, Present, to Infinity and Beyond</strong></summary>
+
+### Short Description 
+
+Complex React applications can affect performance and load time significantly. This talk will dive into how to optimize large and complex Javascript payloads and improve performance by orders of magnitude.
+
+#### Long Description
+A complicated React application usually consists of several components, utility methods, and third-party libraries. This can become especially complex, and can affect the user directly in the form of loading time, when shipping a large JavaScript payload (particularly on old devices and with weak network connections). In this talk, I will discuss ways to combat this complexity through a method called code splitting. I will start by explaining what code splitting actually is, and how we can use this method to split our payloads into multiple bundles with excellent tools such as React.Lazy and React.Suspense, and then ultimately only ship this to the user when they need it, improving load time significantly alongside other complexities that may arise from large payloads.
+
+Speakers: [Roei Berkovich](/speaker-profiles.md#roei-berkovich)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
 
 <br/>
 
