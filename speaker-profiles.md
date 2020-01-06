@@ -93,21 +93,19 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 
 ### [Guy Flechter](#guy-flechter)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/guy-round.png" width="100" align="left" padding-right="5"> Guy is a business outcome focused security executive with experience in various fields, including a heavy focus on cloud security, risk, IR and privacy management strategies. Guy has built teams from scratch, and has created and executed long term strategies, along with communicating the importance and strategic nature of product security to executives and board members. He serves at the CISO and DPO at AppsFlyer.
-**<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw),[[3]](https://www.youtube.com/watch?v=VBIlk3GMmNc)
-<br/>Blog Posts: [[1]](https://medium.com/appsflyer/salting-your-spark-to-scale-e6f1c87dd18), [[2]](https://medium.com/appsflyer/can-we-code-without-comments-maybe-2075abfc2ace)**
+**<br/>Languages: English, Hebrew**
 <hr/>
 
 ### [Alon Gavra](#alon-gavra)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/alon-round.png" width="100" align="left" padding-right="5"> Alon has been with AppsFlyer for more than two years. Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon’s main focus is stability and resiliency in building massive data ingestion and storage solutions.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [1](https://www.youtube.com/watch?v=tjjeaCtsw_M)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=tjjeaCtsw_M)**
 <hr/>
 
 ### [Eran Harel](#eran-harel)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/eran-round.png" width="100" align="left" padding-right="5"> Eran Harel is a Software Craftsman, who loves coding, and challenging software projects, as a full stack developer, focusing on building scalable, reactive, distributed systems. Eran's specialties include getting things done. :) In his free time, and sometimes at work, he enjoys building and contributing to open source projects.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Jecwwd_xoiI), [[2]](https://www.youtube.com/watch?v=IPPoyxSwgC4), [[3]](https://www.youtube.com/watch?v=pxDwSHmTRTQ)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Jecwwd_xoiI), [[2]](https://www.youtube.com/watch?v=IPPoyxSwgC4), [[3]](https://www.youtube.com/watch?v=pxDwSHmTRTQ), [[4]](https://www.youtube.com/watch?v=7xYmPEElVS0)**
 <hr/>
 
 
@@ -169,7 +167,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 ### [Ethan Pransky](#ethan-pransky) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ethan-round.png" width="100" align="left" padding-right="5"> Ethan is a self-taught developer obsessed with learning as much as possible about handling data at scale and what can be done with it. He currently talks to computers at AppsFlyer. When not talking to machines, Ethan likes being with his dog Taco, running, swimming, and drinking coffee.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=aejjRzjGYOE&t=73s),[[2]](https://www.youtube.com/watch?v=vNDiN74ZNfU)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=aejjRzjGYOE&t=73s),[[2]](https://www.youtube.com/watch?v=QnfRcvtKdO0)**
 <hr/>
 
 ### [Asy Ronen](#asy-ronen)
@@ -207,7 +205,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 ### [Ran Tavory](#ran-tavory)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ran-round.png" width="100" align="left" padding-right="5"> From bits in the database to bits of PNGs, Ran is a full stack developer with interests ranging from slick and responsive web interfaces, nosql, web infrastructure, scaling, deployment automation, continuous deployment, programming languages, open source enthusiast (a contributor and creator of several projects). Ran also leads the popular [podcast](https://www.reversim.com/) and [conference](https://summit2019.reversim.com/).
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=ADttQndpCEw), [[2]](https://www.youtube.com/watch?v=S-iO0MN0x74), [[3]](https://www.youtube.com/watch?v=LmaGQtwVh8o)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=ADttQndpCEw), [[2]](https://www.youtube.com/watch?v=S-iO0MN0x74), [[3]](https://www.youtube.com/watch?v=LmaGQtwVh8o), [[4]](https://www.youtube.com/watch?v=Wq0i7VD7-ug)**
 <hr/>
 
 
@@ -215,7 +213,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yulia-round.png" width="100" align="left" padding-right="5"> Yulia Trakhtenberg is the Data Group Manager at AppsFlyer, with more than 15 years of experience in software development (both backend and frontend), including requirements, architecture, design, coding, testing, quality and customer issues, and nearly a decade of team management and empowerment. Yulia's expertise is around combining deep technical knowledge with understanding of product, business and customer needs.
 Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big data, Java, PHP, NoSQLs, Redis, MySQL, and agile, scrum, automation, management, recruitment, team empowerment.
 **<br/>Languages: English, Hebrew, Russian
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI),[[4]](https://www.youtube.com/watch?v=HKRJZVjYW4Q)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI),[[4]](https://www.youtube.com/watch?v=HKRJZVjYW4Q), [[5]](https://www.youtube.com/watch?v=HKRJZVjYW4Q)**
 <hr/>
 
 ### [Olena Vodzianova](#olena-vodzianova)
@@ -227,15 +225,14 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liza-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
 Liza also likes writing, and is an author of the book "One Funny Day" about the humor of everyday life.
 **<br/>Languages: English, Hebrew, Russian
-<br/>Talk Recordings: [[]]()
-**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=u6E6VI0bTF4)**
 <hr/>
 
 
 ### [Hadas Yaakobovitch](#hadas-yaakobovitch)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/hadas-round.png" width="100" align="left" padding-right="5"> Hadas’s passion is around making design come to life, handling complexities along the way.  Currently she’s a development team lead @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform. In her spare time Hadas likes to scuba dive, read and has a warm spot in her heart for felines of all types.
 **<br/>Languages: English, Hebrew
-<br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
+<br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=OXU3A7XZcyY), [[2]](https://www.youtube.com/watch?v=vUEKL8zekXc)**
 <hr/>
 
 ### [Gil Zellner](#gil-zellner)
