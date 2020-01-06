@@ -8,7 +8,7 @@
 * [Big Data](/talk-abstracts.md#big-data-talks)
 * [Programming](/talk-abstracts.md#programming-talks)
 * [Culture](/talk-abstracts.md#culture-talks)
-* [Cloud & Platform Engineering](/talk-abstracts.md#cloud-and-platform-engineering-talks)
+* [Cloud & Platform Engineering](/talk-abstracts.md#cloud)
 
 <hr/>
 
