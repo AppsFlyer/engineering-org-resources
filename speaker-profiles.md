@@ -15,7 +15,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <hr/>
 
 ### [Rotem Bar](#rotem-bar)
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/rotem-round.png" width="100" align="left" padding-right="5"> Rotem Bar has over a decade of experience in the security field including penetration testing both application and network, design reviews, code reviews, architecture reviews, tech managementת and of course development. Over the years Rotem has gained experience in a diversity of industries from the financial services, to insurance, through high-tech & the automotive industry, along with other complex environments.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/rotem-round.png" width="100" align="left" padding-right="5"> Rotem Bar has over a decade of experience in the security field including penetration testing both application and network, design reviews, code reviews, architecture reviews, tech management, and of course development. Over the years Rotem has gained experience in a diversity of industries from the financial services, to insurance, through high-tech & the automotive industry, along with other complex environments.
 
 In the last couple of years Rotem has been working in concept design and development, pen testing and working with hardware in CYMOTIVE, which is a company that focuses on end to end cyber security for the automotive industry. Today he is an application security expert at AppsFlyer, the foremost mobile attribution and marketing analytics platform in the world. During his free time, Rotem plays with robotics, bug-bounty and and enjoys traveling with his family.
 **<br/>Languages: English, Hebrew
@@ -105,7 +105,7 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 ### [Eran Harel](#eran-harel)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/eran-round.png" width="100" align="left" padding-right="5"> Eran Harel is a Software Craftsman, who loves coding, and challenging software projects, as a full stack developer, focusing on building scalable, reactive, distributed systems. Eran's specialties include getting things done. :) In his free time, and sometimes at work, he enjoys building and contributing to open source projects.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Jecwwd_xoiI), [[2]](https://www.youtube.com/watch?v=IPPoyxSwgC4), [[3]](https://www.youtube.com/watch?v=pxDwSHmTRTQ), [[4]](https://www.youtube.com/watch?v=7xYmPEElVS0)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Jecwwd_xoiI), [[2]](https://www.youtube.com/watch?v=IPPoyxSwgC4), [[3]](https://www.youtube.com/watch?v=pxDwSHmTRTQ), [[4]](https://www.youtube.com/watch?v=7xYmPEElVS0),[[5]](https://youtu.be/Fg1SJufaHOs)**
 <hr/>
 
 
@@ -132,7 +132,7 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 ### [Elad Leev](#elad-leev)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/elad-round.png" width="100" align="left" padding-right="5"> Elad Leev is a platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.  Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 70B+ events daily.  Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he programs in Python and Go.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=N8pEKNw4nmI)
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=N8pEKNw4nmI),[[2]](https://youtu.be/nlOgFPTwdq0)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/gitlab-the-magic-of-system-hooks-f38c4f7ca8e7), [[2]](https://medium.com/appsflyer/my-journey-from-python-to-go-3859783c6b3c)**
 <hr/>
 
@@ -188,7 +188,13 @@ He loves to search and finds possible code optimizations, making it possible to 
 
 
 ### [Maxim Shoustin](#maxim-shoustin)
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim is a full-stack developer and team leader.  Max has more than 10 years of experience focused mostly on Front-end and mobile development. I'm a StackOverflow contributor, and editor, and likes to share his experiences with the community when the opportunity arises.
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim Shoustin is a Mobile Development Team Leader at AppsFlyer.
+
+Prior to joining AppsFlyer, Maxim worked as a FullStack developer for more than 6 years in startups and big companies. His first foray into mobile development was with Symbian, in 2010 when they still dominated the market, and of course transitioned to more popular OSes with the mobile market evolution. Today, he develops enterprise-grade SDKs across a diversity of mobile operating systems - from Android, to iOS through Cordova, Unity, React-Native among others. 
+
+Maxim leads the  Mobile Team that develops an SDK providing app installation and event recording functionality as part of AppsFlyer's holistic mobile attribution suite of products. The AppsFlyer SDK runs on more than 7 billion devices as a native SDK for Android and iOS and most of the popular plugins.
+
+Maxim makes it a priority to empower people and mentor them, some of which he does through StackOverflow as a top contributor, aiming to help others by sharing from his experience.
 
 **<br/>Languages: English, Hebrew, Russian
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/how-to-succeed-in-a-challenging-development-environment-7b8a9743b355)**
@@ -198,7 +204,8 @@ He loves to search and finds possible code optimizations, making it possible to 
 ### [Zohar Stiro](#zohar-stiro)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/zohar-round.png" width="100" align="left" padding-right="5"> Zohar Stiro is a technology enthusiast, and an experienced engineer that has been in the realms of big data engineering for the past 8 years. He currently is part of the Platform Group at AppsFlyer leading the batch processing infrastructure, alongside the raw data flow on top of it. Zohar's main focus is recovering from years of technical debt and bringing the system to a state of stability while setting the building blocks for the future of big data processing.
 
-**<br/>Languages: English, Hebrew, Russian**
+**<br/>Languages: English, Hebrew, Russian
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8TTFcmG_LpI&list=PLTkWFRcH27jwB0K-I53fD8NmdAl_80AVf&index=10)**
 <hr/>
 
 
