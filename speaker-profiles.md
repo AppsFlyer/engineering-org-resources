@@ -197,6 +197,7 @@ Maxim leads the  Mobile Team that develops an SDK providing app installation and
 Maxim makes it a priority to empower people and mentor them, some of which he does through StackOverflow as a top contributor, aiming to help others by sharing from his experience.
 
 **<br/>Languages: English, Hebrew, Russian
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8TTFcmG_LpI&list=PLTkWFRcH27jwB0K-I53fD8NmdAl_80AVf)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/how-to-succeed-in-a-challenging-development-environment-7b8a9743b355)**
 <hr/>
 
@@ -204,8 +205,7 @@ Maxim makes it a priority to empower people and mentor them, some of which he do
 ### [Zohar Stiro](#zohar-stiro)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/zohar-round.png" width="100" align="left" padding-right="5"> Zohar Stiro is a technology enthusiast, and an experienced engineer that has been in the realms of big data engineering for the past 8 years. He currently is part of the Platform Group at AppsFlyer leading the batch processing infrastructure, alongside the raw data flow on top of it. Zohar's main focus is recovering from years of technical debt and bringing the system to a state of stability while setting the building blocks for the future of big data processing.
 
-**<br/>Languages: English, Hebrew, Russian
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8TTFcmG_LpI&list=PLTkWFRcH27jwB0K-I53fD8NmdAl_80AVf&index=10)**
+**<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
 
