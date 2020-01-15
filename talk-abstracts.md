@@ -652,6 +652,24 @@ Speakers: [Maxim Shoustin](/speaker-profiles.md#maxim-shoustin)
 <hr/>
 </details>
 
+<details><summary><strong>Does Scale Matter?</strong></summary>
+
+#### Talk Description
+
+Today, the AppsFlyer SDK runs on more than 7 billion mobile devices. So what's actually involved with developing software for more than 130,000 apps?!
+
+ This talk will dive into what our day to day work looks like, and how we manage risks. Is it possible to write code without business-critical bugs in production? And for a matter of perspective - would three bugs in three years sound like a lot or a little? Does the system we're trying to build have fault tolerance?
+I’m going to talk about what challenges we face, the tools we use to achieve high-quality software, tips, and tricks.
+
+How do we deal with stressful situations and how we stay cool through it all.
+
+
+
+Speakers: [Maxim Shoustin](/speaker-profiles.md#maxim-shoustin)
+<p>Type: Full-length Presentation</p>
+<hr/>
+</details>
+
 <br/>
 
 ### [Culture Talks](#culture)
@@ -868,7 +886,7 @@ All of these questions actually have a pretty similar answer, however achieving 
 This talk will provide real practical tools for how to do this in a modern engineering organization.
 
 
-Speakers: [Guy-Flechter](/speaker-profiles.md#guy-flechter)
+Speakers: [Guy Flechter](/speaker-profiles.md#guy-flechter)
 <p>Type: Full-length Presentation</p>
 </details>
 
@@ -888,7 +906,7 @@ In order to implement SSL for our customers, a complicated security process was 
 This talk will dive into how we solved this problem with Letsencrypt, Docker, Redis, Nginx, resty-Lua and and autossl module.
 
 
-Speakers: [Dana-Borinski](/speaker-profiles.md#dana-borinski)
+Speakers: [Dana Borinski](/speaker-profiles.md#dana-borinski)
 <p>Type: Full-length Presentation</p>
 </details>
 
@@ -911,7 +929,7 @@ This will be a technical presentation that will provide real life examples of:
 * Cloud credential leakage
 
 
-Speakers: [Rotem-Bar](/speaker-profiles.md#rotem-bar)
+Speakers: [Rotem Bar](/speaker-profiles.md#rotem-bar)
 <p>Type: Full-length Presentation</p>
 </details>
 
