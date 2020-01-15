@@ -513,6 +513,7 @@ Speaker: [Ran Tavory](/speaker-profiles.md#ran-tavory)
 <p>Type: Full-length Presentation</p>
 <hr/>
 </details>
+<br/>
 
 #### Frontend & Fullstack
 <hr/>
