@@ -10,26 +10,25 @@ We are happy to be invited to speak in any forum - conference, meetup, community
 ### [Big Data Talks](#big-data)
 <hr/>
 
-<details><summary><strong>From Theory to Practice: Segmenting Big Data with Probabilistic Data Structures</strong></summary>
+<details><summary><strong>Applying Probabilistic Data Structures to Real Time Systems</strong></summary>
 
 #### Short Description
 Building solutions around large data sets with near real time response time is no easy feat. This requires the practical application of computer science theory to do so with minimal latency and while remaining fresh and precise.
 
-
 #### Long Description
-As software organizations are required to handle increasing volumes of data, probabilistic data structures and algorithms have been put to use more widely in order to find approximative solutions to problems that would be computationally prohibitive otherwise. 
+As software organizations are required to handle increasing volumes of data, probabilistic data structures and algorithms have been put to use more widely in order to find approximative solutions to problems that would be computationally prohibitive otherwise.
 
-At AppsFlyer, we ingest a daily 80+ billion events sent by our users, which come into our system without any schema or predefined structure. When we set out to build a new data segmentation product, which allows our clients to segment their users based on these billions of events - according to any logical criteria they wish to specify - we were tasked with the daunting challenge of offering them near real time interactive estimated unique counts of their segment size. An extremely large computational undertaking at minimal latency.
+At AppsFlyer, we ingest a daily 80+ billion events sent by our users, which come into our system without any schema or predefined structure. When we set out to build a new data segmentation product, which allows our clients to segment their users based on these billions of events – according to any logical criteria they wish to specify – we were tasked with the daunting challenge of offering them a near real time interactive dashboard. An extremely large computational undertaking at minimal latency.
 
-This posed an interesting challenge from both computer science and engineering perspectives, things we needed to consider: 
+This posed an interesting challenge from both computer science and engineering perspectives, things we needed to consider:
 
-- Which data structure is most appropriate? 
-- Which data model would allow us to compose any number of criteria when event schemas are unknown in advance and ever changing? 
-- How do you implement aggregations such as group-by over probabilistic data? 
-- What database should we pick to allow for fast and scalable access to our data structures? 
-- How do you do this reliably, precisely and with high freshness?
- 
-This talk will discuss how we built a system which allowed us to solve this problem over massive data sets with technologies such as Kafka, Spark, HBase and Theta Sketches, and all this with a Clojure backend for improved concurrency and throughput.
+* Which data structure is most appropriate?
+* Which data model would allow us to compose any number of criteria when event schemas are unknown in advance and ever changing?
+* How do you implement aggregations such as group-by over probabilistic data?
+* What database should we pick to allow for fast and scalable access to our data structures?
+* How do you do this reliably, high precision and freshness?
+
+This talk will discuss how we built a system which allowed us to solve this problem over massive data sets with technologies such as Kafka, Spark, HBase and Theta Sketches.
 
 Speakers: [Ronen Cohen](/speaker-profiles.md#ronen-cohen)
 <p>pe: Full-length Presentation</p>
