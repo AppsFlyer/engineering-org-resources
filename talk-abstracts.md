@@ -652,21 +652,22 @@ Speakers: [Maxim Shoustin](/speaker-profiles.md#maxim-shoustin)
 <hr/>
 </details>
 
-<details><summary><strong>Does Scale Matter?</strong></summary>
+<details><summary><strong>Does scale matter?</strong></summary>
 
-#### Talk Description
+#### Short Description
+This talk will dive into how to motivate and inspire our team together with developing high quality software for more than 130,000 apps?! 
 
+
+#### Long Description
 Today, the AppsFlyer SDK runs on more than 7 billion mobile devices. So what's actually involved with developing software for more than 130,000 apps?!
-
- This talk will dive into what our day to day work looks like, and how we manage risks. Is it possible to write code without business-critical bugs in production? And for a matter of perspective - would three bugs in three years sound like a lot or a little? Does the system we're trying to build have fault tolerance?
-I’m going to talk about what challenges we face, the tools we use to achieve high-quality software, tips, and tricks.
-
+This talk will dive into what our day to day work looks like, and how we manage risks. Is it possible to write code without business-critical bugs in production? And for a matter of perspective - would three bugs in three years sound like a lot or a little? Does the system we're trying to build have fault tolerance?
+I’m going to talk about how we motivate and inspire people, what challenges we face, the tools we use to achieve high-quality software, tips, and tricks.
 How do we deal with stressful situations and how we stay cool through it all.
 
 
 
 Speakers: [Maxim Shoustin](/speaker-profiles.md#maxim-shoustin)
-<p>Type: Full-length Presentation</p>
+<p>Type: Full-length Presentation (30-45 min)</p>
 <hr/>
 </details>
 
@@ -933,29 +934,6 @@ Speakers: [Rotem Bar](/speaker-profiles.md#rotem-bar)
 <p>Type: Full-length Presentation</p>
 </details>
 
-
-### [Mobile Talks](#mobile)
-<hr/>
-
-
-<details><summary><strong>Does scale matter?</strong></summary>
-
-#### Short Description
-This talk will dive into how to motivate and inspire our team together with developing high quality software for more than 130,000 apps?! 
-
-
-#### Long Description
-Today, the AppsFlyer SDK runs on more than 7 billion mobile devices. So what's actually involved with developing software for more than 130,000 apps?!
-This talk will dive into what our day to day work looks like, and how we manage risks. Is it possible to write code without business-critical bugs in production? And for a matter of perspective - would three bugs in three years sound like a lot or a little? Does the system we're trying to build have fault tolerance?
-I’m going to talk about how we motivate and inspire people, what challenges we face, the tools we use to achieve high-quality software, tips, and tricks.
-How do we deal with stressful situations and how we stay cool through it all.
-
-
-
-Speakers: [Maxim Shoustin](/speaker-profiles.md#maxim-shoustin)
-<p>Type: Full-length Presentation (30-45 min)</p>
-<hr/>
-</details>
 
 <!--
 <details><summary>...</summary> -->
