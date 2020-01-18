@@ -188,14 +188,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 
 
 ### [Maxim Shoustin](#maxim-shoustin)
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim Shoustin is a Mobile Development Team Leader at AppsFlyer.
-
-Prior to joining AppsFlyer, Maxim worked as a FullStack developer for more than 6 years in startups and big companies. His first foray into mobile development was with Symbian, in 2010 when they still dominated the market, and of course transitioned to more popular OSes with the mobile market evolution. Today, he develops enterprise-grade SDKs across a diversity of mobile operating systems - from Android, to iOS through Cordova, Unity, React-Native among others. 
-
-Maxim leads the  Mobile Team that develops an SDK providing app installation and event recording functionality as part of AppsFlyer's holistic mobile attribution suite of products. The AppsFlyer SDK runs on more than 7 billion devices as a native SDK for Android and iOS and most of the popular plugins.
-
-Maxim makes it a priority to empower people and mentor them, some of which he does through StackOverflow as a top contributor, aiming to help others by sharing from his experience.
-
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim Shoustin is a Mobile Development Team Leader at AppsFlyer. Prior to joining AppsFlyer, Maxim worked as a FullStack developer for more than 6 years in startups and big companies. His first foray into mobile development was with Symbian, in 2010 when they still dominated the market, and of course transitioned to more popular OSes with the mobile market evolution. Today, he develops enterprise-grade SDKs across a diversity of mobile operating systems - from Android, to iOS through Cordova, Unity, React-Native among others. Maxim leads the  Mobile Team that develops an SDK providing app installation and event recording functionality as part of AppsFlyer's holistic mobile attribution suite of products. The AppsFlyer SDK runs on more than 7 billion devices as a native SDK for Android and iOS and most of the popular plugins. Maxim makes it a priority to empower people and mentor them, some of which he does through StackOverflow as a top contributor, aiming to help others by sharing from his experience.
 **<br/>Languages: English, Hebrew, Russian
 <br/>Talk Recordings: [[1]](https://youtu.be/8TTFcmG_LpI), [[2]](https://drive.google.com/file/d/1HvTeAdBReB4IVupAqmbiRqItgjjBAtRK/view?usp=sharing)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/how-to-succeed-in-a-challenging-development-environment-7b8a9743b355)**
