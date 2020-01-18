@@ -197,7 +197,7 @@ Maxim leads the  Mobile Team that develops an SDK providing app installation and
 Maxim makes it a priority to empower people and mentor them, some of which he does through StackOverflow as a top contributor, aiming to help others by sharing from his experience.
 
 **<br/>Languages: English, Hebrew, Russian
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8TTFcmG_LpI&list=PLTkWFRcH27jwB0K-I53fD8NmdAl_80AVf)
+<br/>Talk Recordings: [[1]](https://youtu.be/8TTFcmG_LpI), [[2]](https://drive.google.com/file/d/1HvTeAdBReB4IVupAqmbiRqItgjjBAtRK/view?usp=sharing)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/how-to-succeed-in-a-challenging-development-environment-7b8a9743b355)**
 <hr/>
 
