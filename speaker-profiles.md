@@ -238,7 +238,7 @@ Liza also likes writing, and is an author of the book "One Funny Day" about the 
 ### [Gil Zellner](#gil-zellner)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gil-round.png" width="100" align="left" padding-right="5"> Gil Zellner, DevOps enthusiast and professional, experienced tech speaker. Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4), [[4]](https://youtu.be/xBkQWr1-iqc)**
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=c7egVuNMPl0),[[4]](https://drive.google.com/file/d/1VZsXd3PwZ2vslRq-SUo5fFtHBe03VagL/view?usp=sharing),[[5]](https://www.youtube.com/watch?v=kiPRWllQdt4), [[6]](https://youtu.be/xBkQWr1-iqc)**
 <hr/>
 
 
