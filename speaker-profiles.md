@@ -33,7 +33,8 @@ In the last couple of years Rotem has been working in concept design and develop
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ido-round.png" width="100" align="left" padding-right="5"> Ido is a Software Architect at Appsflyer. His entire career revolves around some type of backend software engineering. He considers himself as a big fan of programming languages in general and a fan of functional programming in particular.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=uDsux18mFSc), [[2]](https://www.youtube.com/watch?v=hC4XNmSx-88)
-<br/>Blog Posts: [[1]](https://medium.com/appsflyer/clojure-and-aerospike-e2b9a9423f57), [[2]](https://medium.com/appsflyer/large-scale-nosql-database-migration-under-fire-bf298c3c2e47)**
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/clojure-and-aerospike-e2b9a9423f57), [[2]](https://medium.com/appsflyer/large-scale-nosql-database-migration-under-fire-bf298c3c2e47)**<br/>
+<a href="https://twitter.com/barkanido" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/idobarkan/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
 <hr/>
 
 
@@ -41,7 +42,7 @@ In the last couple of years Rotem has been working in concept design and develop
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/mey-round.png" width="100" align="left" padding-right="5"> Mey Beisaron is a public speaker, a Node.js, Clojure and Java developer and a software engineer at AppsFlyer. When she is not spending her weekends at hackathons, she experiments with algorithms or learns languages such as russian, french and italian. Mey is also a sworn star wars fan. May the force be with you.
 **<br/>Languages: English, Hebrew
 Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https://youtu.be/ssFIhtAi_fk), [[3]](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [[4]](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [[5]](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [[6]](https://www.youtube.com/watch?v=aSceJNfIARc)**<br/>
-<a href="https://twitter.com/ladymeyy" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a><a href="https://www.linkedin.com/in/ladymey/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
+<a href="https://twitter.com/ladymeyy" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ladymey/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
 <hr/>
 
 
@@ -49,13 +50,15 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/adi-round.png" width="100" align="left" padding-right="5"> Adi Belan is a 15 Year veteran of the industry who started his career in research and prototyping of Telco grade solutions.  After running the real-time back-end operation at AppsFlyer for more than four years, Adi is now focused on architecting a multi-region and datacenter application architecture and design . He loves to figure out a clever solution to difficult problems and prototype new stuff, really enjoys watching high scale systems at play, while he hates seeing them break down.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A), [[2]](https://www.youtube.com/watch?v=kELjS_che_M)
-<br/>Blog Posts: [[1]](https://medium.com/appsflyer/three-tips-for-managing-technical-debt-while-maintaining-developer-velocity-and-sanity-f3d4a080052c)**
+<br/>Blog Posts: [[1]](https://medium.com/appsflyer/three-tips-for-managing-technical-debt-while-maintaining-developer-velocity-and-sanity-f3d4a080052c)**<br/>
+<a href="https://twitter.com/adibelan" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adi-belan-0047b22/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
 <hr/>
 
 ### [Roei Berkovich](#roei-berkovich) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/roei-round.png" width="100" align="left" padding-right="5"> Roei Berkovich is a software developer at AppsFlyer, who for the past 5 years, has focused mostly on React. At AppsFlyer he is working with React & React-Native. He also writes a tech blog @ react-israel.co.il and founded JSsnippets (facebook page)
 **<br/>Languages: English, Hebrew
-<br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=UvhErkIrJgA), [[2]](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
+<br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=UvhErkIrJgA), [[2]](https://www.youtube.com/watch?v=OXU3A7XZcyY)**<br/>
+<a href="https://twitter.com/BerkovichRoei" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/roeiberkovich/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
 <hr/>
 
 
@@ -63,7 +66,8 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik), [[2]](https://www.youtube.com/watch?v=c0uuekooRvU)
-<br/>Blog Posts:[[1]](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33?source=collection_home---4------5-----------------------)**
+<br/>Blog Posts:[[1]](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33?source=collection_home---4------5-----------------------)**<br/>
+<a href="https://twitter.com/_danabor" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dana-borinski-3617b3b9/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
 <hr/>
 
 ### [Liron Cohen](#liron-cohen) 
