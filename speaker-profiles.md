@@ -14,7 +14,7 @@ Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribut
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [[2]](https://www.youtube.com/watch?v=sI_IrFTbWbo&t=1229s), [[3]](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s), [[4]](https://www.youtube.com/watch?v=GXx2Fl2AtzA)**
 <hr/>
 
-### [Rotem Bar](#rotem-bar)
+### [Rotem Bar](#rotem-bar)&nbsp; <a href="https://twitter.com/rotembar" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/r0tem/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/rotem-round.png" width="100" align="left" padding-right="5"> Rotem Bar has over a decade of experience in the security field including penetration testing both application and network, design reviews, code reviews, architecture reviews, tech management, and of course development. Over the years Rotem has gained experience in a diversity of industries from the financial services, to insurance, through high-tech & the automotive industry, along with other complex environments.
 
 In the last couple of years Rotem has been working in concept design and development, pen testing and working with hardware in CYMOTIVE, which is a company that focuses on end to end cyber security for the automotive industry. Today he is an application security expert at AppsFlyer, the foremost mobile attribution and marketing analytics platform in the world. During his free time, Rotem plays with robotics, bug-bounty and and enjoys traveling with his family.
@@ -29,7 +29,7 @@ In the last couple of years Rotem has been working in concept design and develop
 <hr/> -->
 
 
-### [Ido Barkan](#ido-barkan) <a href="https://twitter.com/barkanido" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/idobarkan/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Ido Barkan](#ido-barkan)&nbsp; <a href="https://twitter.com/barkanido" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/idobarkan/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ido-round.png" width="100" align="left" padding-right="5"> Ido is a Software Architect at Appsflyer. His entire career revolves around some type of backend software engineering. He considers himself as a big fan of programming languages in general and a fan of functional programming in particular.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=uDsux18mFSc), [[2]](https://www.youtube.com/watch?v=hC4XNmSx-88)
@@ -37,28 +37,28 @@ In the last couple of years Rotem has been working in concept design and develop
 <hr/>
 
 
-### [Mey Beisaron](#mey-beisaron) <a href="https://twitter.com/ladymeyy" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ladymey/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Mey Beisaron](#mey-beisaron) &nbsp;<a href="https://twitter.com/ladymeyy" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ladymey/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/mey-round.png" width="100" align="left" padding-right="5"> Mey Beisaron is a public speaker, a Node.js, Clojure and Java developer and a software engineer at AppsFlyer. When she is not spending her weekends at hackathons, she experiments with algorithms or learns languages such as russian, french and italian. Mey is also a sworn star wars fan. May the force be with you.
 **<br/>Languages: English, Hebrew
 Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https://youtu.be/ssFIhtAi_fk), [[3]](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [[4]](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [[5]](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [[6]](https://www.youtube.com/watch?v=aSceJNfIARc)**
 <hr/>
 
 
-### [Adi Belan](#adi-belan) <a href="https://twitter.com/adibelan" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adi-belan-0047b22/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Adi Belan](#adi-belan)&nbsp; <a href="https://twitter.com/adibelan" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adi-belan-0047b22/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/adi-round.png" width="100" align="left" padding-right="5"> Adi Belan is a 15 Year veteran of the industry who started his career in research and prototyping of Telco grade solutions.  After running the real-time back-end operation at AppsFlyer for more than four years, Adi is now focused on architecting a multi-region and datacenter application architecture and design . He loves to figure out a clever solution to difficult problems and prototype new stuff, really enjoys watching high scale systems at play, while he hates seeing them break down.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A), [[2]](https://www.youtube.com/watch?v=kELjS_che_M)
 <br/>Blog Posts: [[1]](https://medium.com/appsflyer/three-tips-for-managing-technical-debt-while-maintaining-developer-velocity-and-sanity-f3d4a080052c)**
 <hr/>
 
-### [Roei Berkovich](#roei-berkovich) <a href="https://twitter.com/BerkovichRoei" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/roeiberkovich/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Roei Berkovich](#roei-berkovich)&nbsp; <a href="https://twitter.com/BerkovichRoei" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/roeiberkovich/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/roei-round.png" width="100" align="left" padding-right="5"> Roei Berkovich is a software developer at AppsFlyer, who for the past 5 years, has focused mostly on React. At AppsFlyer he is working with React & React-Native. He also writes a tech blog @ react-israel.co.il and founded JSsnippets (facebook page)
 **<br/>Languages: English, Hebrew
 <br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=UvhErkIrJgA), [[2]](https://www.youtube.com/watch?v=OXU3A7XZcyY)**
 <hr/>
 
 
-### [Dana Borinski](#dana-borinski) <a href="https://twitter.com/_danabor" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dana-borinski-3617b3b9/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Dana Borinski](#dana-borinski)&nbsp; <a href="https://twitter.com/_danabor" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/dana-borinski-3617b3b9/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik), [[2]](https://www.youtube.com/watch?v=c0uuekooRvU)
@@ -72,18 +72,19 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/> -->
 
 
-### [Ronen Cohen](#ronen-cohen) 
+### [Ronen Cohen](#ronen-cohen) &nbsp; <a href="https://twitter.com/nenorbot" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/ronen-cohen-26ba1ab/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ronen-round.png" width="100" align="left" padding-right="5"> Ronen Cohen is a software engineer who enjoys architecting systems for scale. He is passionate about everything software: from OS internals to distributed computing, weird data-structures to functional programming.  Ronen is a tech lead at AppsFlyer, helping build systems to process the influx of petabytes ingested monthly - to help fuel its next phase of growth.  He holds a BSc in Computer Science from the Technion.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://youtu.be/F4TUYdjfvsc)**
 <hr/>
 
-### [Dror Davidi](#dror-davidi) 
+### [Dror Davidi](#dror-davidi) &nbsp; <a href="https://www.linkedin.com/in/drordavidi/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dror-round.png" width="100" align="left" padding-right="5"> Dror leads AppsFlyer's Deep Linking & Engagement development team. He has vast experience and knowledge in both Frontend and Backend development. He loves implementing complex projects in high-scale environment, focusing on resiliency, quality and amazing UX. Most of all he strives for innovation, learning new technologies and implementing great products. 
 **<br/>Languages: English, Hebrew**
 <hr/>
 
-### [Morri Feldman](#morri-feldman)
+### [Morri Feldman](#morri-feldman)&nbsp; <a href="https://www.linkedin.com/in/morrifeldman/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+<img src="https://github.com/A
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/morri-round.png" width="100" align="left" padding-right="5"> Morri Feldman joined AppsFlyer as the first member of our data team about 4 years ago. Before AppsFlyer, he was in academia training as a Biophysicist. Since joining AppsFlyer he has been loving the fast pace of development and exciting technologies that used to handle the enormous scale of AppsFlyer data. Most of his coding at AppsFlyer is in Clojure with some work in Scala for Spark jobs. The functional paradigms in Clojure really help to quickly write correct code that performs well in a multi-threaded environment. Morri holds a PhD in Biophysics from UCSF.
 **<br/>Languages: English
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw),[[3]](https://www.youtube.com/watch?v=VBIlk3GMmNc)
@@ -91,25 +92,25 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/>
 
 
-### [Guy Flechter](#guy-flechter)
+### [Guy Flechter](#guy-flechter) &nbsp; <a href="https://www.linkedin.com/in/guy-flechter-ba475535/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/guy-round.png" width="100" align="left" padding-right="5"> Guy is a business outcome focused security executive with experience in various fields, including a heavy focus on cloud security, risk, IR and privacy management strategies. Guy has built teams from scratch, and has created and executed long term strategies, along with communicating the importance and strategic nature of product security to executives and board members. He serves at the CISO and DPO at AppsFlyer.
 **<br/>Languages: English, Hebrew**
 <hr/>
 
-### [Alon Gavra](#alon-gavra)
+### [Alon Gavra](#alon-gavra)&nbsp; <a href="https://www.linkedin.com/in/alon-gavra-571ab052/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/alon-round.png" width="100" align="left" padding-right="5"> Alon has been with AppsFlyer for more than two years. Originally a backend developer he has transitioned to lead the real time infrastructure team, and took on the role of bringing some of the most heavily used infrastructure in AppsFlyer to the next level. A strong believer in sleep driven design, Alon’s main focus is stability and resiliency in building massive data ingestion and storage solutions.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=tjjeaCtsw_M)**
 <hr/>
 
-### [Eran Harel](#eran-harel)
+### [Eran Harel](#eran-harel)&nbsp; <a href="https://twitter.com/eran_ha" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/eran-harel-2344a34/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/eran-round.png" width="100" align="left" padding-right="5"> Eran Harel is a Software Craftsman, who loves coding, and challenging software projects, as a full stack developer, focusing on building scalable, reactive, distributed systems. Eran's specialties include getting things done. :) In his free time, and sometimes at work, he enjoys building and contributing to open source projects.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Jecwwd_xoiI), [[2]](https://www.youtube.com/watch?v=IPPoyxSwgC4), [[3]](https://www.youtube.com/watch?v=pxDwSHmTRTQ), [[4]](https://www.youtube.com/watch?v=7xYmPEElVS0),[[5]](https://youtu.be/Fg1SJufaHOs)**
 <hr/>
 
 
-### [Omer Herera](#omer-herera)
+### [Omer Herera](#omer-herera)&nbsp; <a href="https://twitter.com/Omer_He" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/omer-herera-15846a6/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/omer-round.png" width="100" align="left" padding-right="5"> Omer Herrera is a hands-on engineer focusing on web technologies, with a diverse background that spans both industry and research. He loves learning new technologies/languages, dealing with all web technologies, and creating things that are useful for others.
 **<br/>Languages: English, Hebrew**
 <hr/>
@@ -129,7 +130,7 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 
 
 
-### [Elad Leev](#elad-leev)
+### [Elad Leev](#elad-leev)&nbsp; <a href="https://twitter.com/eladleev" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/elad-leev/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/elad-round.png" width="100" align="left" padding-right="5"> Elad Leev is a platform engineer with more than 5 years experience managing complex production operations, with expertise in distributed systems and databases.  Elad likes to solve complex problems around delivering real time infrastructure in perpetual growth, and maintains some of the core pieces of large-scale production architecture serving 70B+ events daily.  Some of the technologies Elad works with include Kafka, Aerospike, Redis, Memcache, and he programs in Python and Go.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=N8pEKNw4nmI),[[2]](https://youtu.be/nlOgFPTwdq0),[[3]](https://www.youtube.com/watch?v=z_6tVRCyJxs)
@@ -137,7 +138,7 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/>
 
 
-### [Reshef Mann](#reshef-mann)
+### [Reshef Mann](#reshef-mann)&nbsp; <a href="https://twitter.com/reshefm" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reshefm/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/reshef-round.png" width="100" align="left" padding-right="5"> Mr. Reshef Mann is a Co-Founder and serves as Chief Technology Officer of Appsflyer Ltd. Mr. Mann worked on various web technologies and distributed systems in Intel, SAP and startup companies like Jajah (acquired by Telefonica) and Xsights for 10 years. He holds a BSc in Information Systems from the Technion.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://youtu.be/Cg79AaEAPwA?t=4410),[[2]](https://www.youtube.com/watch?v=RoFgiIC2Dy0)**
@@ -156,12 +157,10 @@ He loves to search and finds possible code optimizations, making it possible to 
 <hr/>
 
 
-### [Ariel Moskovich](#ariel-moskovich)
+<!--### [Ariel Moskovich](#ariel-moskovich)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ariel-round.png" width="100" align="left" padding-right="5">Ariel is a dedicated Operations Engineer with more than 20 years of experience in high scale and live production environments. He is currently the Chief Infrastructure Architect at AppsFlyer, the world's leading mobile attribution & marketing analytics platform. At AppsFlyer, Ariel has built a team that is running high scale multi-cloud operations, which serve over 12 billion events per day. Previously, he worked as a Senior Operations Engineer in some of the most challenging environments - Outbrain and Orbitz. Ariel is married to a wonderful wife, and a survivor of three demanding, yet sweet, kids.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=9z8safOdyFE), [[2]](https://www.youtube.com/watch?v=H5Yo5a8SG6g), [[3]](https://www.youtube.com/watch?v=_FMEmBqFFAM&t=1522s)**
-
-<hr/>
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=9z8safOdyFE), [[2]](https://www.youtube.com/watch?v=H5Yo5a8SG6g), [[3]](https://www.youtube.com/watch?v=_FMEmBqFFAM&t=1522s)** -->
 
 
 ### [Ethan Pransky](#ethan-pransky) 
@@ -177,7 +176,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 <hr/>
 
 
-### [Nir Rubinstein](#nir-rubinstein)
+### [Nir Rubinstein](#nir-rubinstein)&nbsp; <a href="https://www.linkedin.com/in/nir-rubinstein-69172517/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/nir-round.png" width="100" align="left" padding-right="5"> Nir Rubinstein is a multidisciplinary developer who utilizes various programming languages and technology stacks. His main passion is building robust and scalable infrastructure solutions on the Server Side. Good code and new technology are Nir's sweet spot, alongside modeling, designing and implementing concurrent and distributed infrastructure solutions built to handle today's amount of Big Data and extreme traffic. Nir's go-to methodologies are functional programming languages and paradigms, queues, and async communications to power web-scale.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc),[[7]](https://www.youtube.com/watch?v=vNDiN74ZNfU)
