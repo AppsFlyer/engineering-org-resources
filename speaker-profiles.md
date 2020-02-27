@@ -22,11 +22,11 @@ In the last couple of years Rotem has been working in concept design and develop
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=2NUhMuWo9H4)**
 <hr/>
 
-### [Shimi Bar](#shimi-bar)
+<!-- ### [Shimi Bar](#shimi-bar)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/shimi-round.png" width="100" align="left" padding-right="5"> I'm a frontend architect at AppsFlyer with experience in a diversity of frontend and backend languages. In my previous roles I served as a fullstack developer and tech lead, architecting and coding web apps end-to-end. I enjoy building systems for scale, and understanding how a user’s journey through the UI and frontend experience influence business impact. I'm a seasoned speaker and trainer of fullstack technology.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_Q3yUb3yADc), [[2]](https://www.youtube.com/watch?v=pITHg1FAVWc)**
-<hr/>
+<hr/> -->
 
 
 ### [Ido Barkan](#ido-barkan) 
@@ -40,7 +40,8 @@ In the last couple of years Rotem has been working in concept design and develop
 ### [Mey Beisaron](#mey-beisaron)
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/mey-round.png" width="100" align="left" padding-right="5"> Mey Beisaron is a public speaker, a Node.js, Clojure and Java developer and a software engineer at AppsFlyer. When she is not spending her weekends at hackathons, she experiments with algorithms or learns languages such as russian, french and italian. Mey is also a sworn star wars fan. May the force be with you.
 **<br/>Languages: English, Hebrew
-Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https://youtu.be/ssFIhtAi_fk), [[3]](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [[4]](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [[5]](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [[6]](https://www.youtube.com/watch?v=aSceJNfIARc)**
+Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https://youtu.be/ssFIhtAi_fk), [[3]](https://www.youtube.com/watch?v=UilS1ctYUP4&t=1088s), [[4]](https://www.youtube.com/watch?v=FCVWXkSZlNU&t=848s), [[5]](https://www.youtube.com/watch?v=VgROF_J9ypU&t=350s), [[6]](https://www.youtube.com/watch?v=aSceJNfIARc)**<br/>
+<a href="https://twitter.com/ladymeyy" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a><a href="https://www.linkedin.com/in/ladymey/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a>
 <hr/>
 
 
