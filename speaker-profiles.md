@@ -61,7 +61,7 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 ### [Dana Borinski](#dana-borinski) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/dana-round.png" width="100" align="left" padding-right="5"> Dana is a software developer who is passionate about technology, loves to solve problems and make things work. She is a fan of clean code and obsessed with improving performance especially on high scale systems. She fell in love with functional programming when she became an avid Clojurian when she joined AppsFlyer.
 **<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik)
+<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=_p-6SMQTuik), [[2]](https://www.youtube.com/watch?v=c0uuekooRvU)
 <br/>Blog Posts:[[1]](https://medium.com/appsflyer/repl-based-debugging-in-clojure-278fb468a33?source=collection_home---4------5-----------------------)**
 <hr/>
 
