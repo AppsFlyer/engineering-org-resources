@@ -6,7 +6,7 @@ Quick Links: [Home](https://github.com/AppsFlyer/engineering-org-resources), [Ta
 <hr/>
 
 
-### [Michael Arenzon](#michael-arenzon)
+### [Michael Arenzon](#michael-arenzon) &nbsp;<a href="https://www.linkedin.com/in/arenzon/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/michael-round.png" width="100" align="left" padding-right="5"> Michael’s passion is around solving complex engineering problems while maintaining high velocity, with emphasis on building distributed and highly concurrent systems, creating (a real) large-scale infrastructure, and improving operational efficiency.
 
 Currently he’s an architect @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform.
