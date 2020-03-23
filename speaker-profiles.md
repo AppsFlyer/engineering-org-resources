@@ -84,7 +84,6 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/>
 
 ### [Morri Feldman](#morri-feldman)&nbsp; <a href="https://www.linkedin.com/in/morrifeldman/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
-<img src="https://github.com/A
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/morri-round.png" width="100" align="left" padding-right="5"> Morri Feldman joined AppsFlyer as the first member of our data team about 4 years ago. Before AppsFlyer, he was in academia training as a Biophysicist. Since joining AppsFlyer he has been loving the fast pace of development and exciting technologies that used to handle the enormous scale of AppsFlyer data. Most of his coding at AppsFlyer is in Clojure with some work in Scala for Spark jobs. The functional paradigms in Clojure really help to quickly write correct code that performs well in a multi-threaded environment. Morri holds a PhD in Biophysics from UCSF.
 **<br/>Languages: English
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=1vrJNCAeUwc), [[2]](https://www.youtube.com/watch?v=j0h7IPWaCZw),[[3]](https://www.youtube.com/watch?v=VBIlk3GMmNc)
