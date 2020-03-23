@@ -935,6 +935,22 @@ Speakers: [Rotem Bar](/speaker-profiles.md#rotem-bar)
 <p>Type: Full-length Presentation</p>
 </details>
 
+<details><summary><strong>Kafka Lag Monitoring for Human Beings</strong></summary>
+
+#### Talk Description
+One of the key metrics to monitor when working with Apache Kafka, as a data pipeline or a streaming platform, is Consumer Groups Lag.
+
+Lag is the delta between the last produced message and the last committed message of a partition. In other words, lag indicates how far behind your application is in processing up-to-date information.
+For a long time, we used our own service to keep track of these metrics, collect them and visualize them. But this didn’t scale well.
+
+You had to perform many manual operations, redeploy it and to do other tedious manual tasks, but most importantly, the biggest gap for us, was that its out was represented in absolute numbers (e.g - your lag is 30K), which basically tells you nothing as a human being.
+
+We understood that we had to find a more suitable solution that will give us better visibility and will allow us to measure the lag in a time-based format that we all understand.
+In this talk, I’m going to go over the core concepts of Kafka offsets and lags, and explain why lag even matters and is an important KPI to measure.  I’ll also talk about the kind of research we did to find the right tool, what the options in the market were at the time, and eventually why we chose Linkedin’s Burrow as the right tool for us. And finally, I’ll take a closer look at Burrow, its building blocks, how we build and deploy it, how we monitor better with it, and eventually the most important improvement - how we transformed its output from numbers to time-based metrics.
+
+Speakers: [Elad Leev](/speaker-profiles.md#elad-leev)
+<p>Type: Full-length Presentation</p>
+</details>
 
 <!--
 <details><summary>...</summary> -->
