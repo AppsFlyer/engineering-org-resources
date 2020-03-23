@@ -194,33 +194,33 @@ Like to programm, design & build  reliable, scalable and advanced solutions usin
 <hr/>
 
 
-### [Zohar Stiro](#zohar-stiro)
+### [Zohar Stiro](#zohar-stiro) &nbsp;<a href="https://www.linkedin.com/in/zohar-stiro-804591101/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/zohar-round.png" width="100" align="left" padding-right="5"> Zohar Stiro is a technology enthusiast, and an experienced engineer that has been in the realms of big data engineering for the past 8 years. He currently is part of the Platform Group at AppsFlyer leading the batch processing infrastructure, alongside the raw data flow on top of it. Zohar's main focus is recovering from years of technical debt and bringing the system to a state of stability while setting the building blocks for the future of big data processing.
 
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
 
-### [Ran Tavory](#ran-tavory)
+### [Ran Tavory](#ran-tavory)&nbsp; <a href="https://twitter.com/rantav" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rantav/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ran-round.png" width="100" align="left" padding-right="5"> From bits in the database to bits of PNGs, Ran is a full stack developer with interests ranging from slick and responsive web interfaces, nosql, web infrastructure, scaling, deployment automation, continuous deployment, programming languages, open source enthusiast (a contributor and creator of several projects). Ran also leads the popular [podcast](https://www.reversim.com/) and [conference](https://summit2019.reversim.com/).
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=ADttQndpCEw), [[2]](https://www.youtube.com/watch?v=S-iO0MN0x74), [[3]](https://www.youtube.com/watch?v=LmaGQtwVh8o), [[4]](https://www.youtube.com/watch?v=Wq0i7VD7-ug)**
 <hr/>
 
 
-### [Yulia Trakhtenberg](#yulia-trakhtenberg)
+### [Yulia Trakhtenberg](#yulia-trakhtenberg)&nbsp; <a href="https://twitter.com/yuliat79" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yuliatrakhtenberg/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yulia-round.png" width="100" align="left" padding-right="5"> Yulia Trakhtenberg is the Data Group Manager at AppsFlyer, with more than 15 years of experience in software development (both backend and frontend), including requirements, architecture, design, coding, testing, quality and customer issues, and nearly a decade of team management and empowerment. Yulia's expertise is around combining deep technical knowledge with understanding of product, business and customer needs.
 Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big data, Java, PHP, NoSQLs, Redis, MySQL, and agile, scrum, automation, management, recruitment, team empowerment.
 **<br/>Languages: English, Hebrew, Russian
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=kuJ--_yWKYM), [[2]](https://www.youtube.com/watch?v=AexGN16LpSY), [[3]](https://www.youtube.com/watch?v=FUT4r5MOsfI),[[4]](https://www.youtube.com/watch?v=HKRJZVjYW4Q), [[5]](https://www.youtube.com/watch?v=HKRJZVjYW4Q)**
 <hr/>
 
-### [Olena Vodzianova](#olena-vodzianova)
+### [Olena Vodzianova](#olena-vodzianova) &nbsp;<a href="https://www.linkedin.com/in/olena-vodzianova-3a93b54b/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/olena-round.png" width="100" align="left" padding-right="5"> Olena has been a backend developer since 2015 across multiple industries from telecom, to advertising, and automotive. Her specialization is with JVM languages: Java, Scala, Groovy, Clojure. Today she is a Software Engineer at AppsFlyer, in the Data Group. Her main interests include functional programming and Big Data processing. 
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
-### [Liza Wainblat](#liza-wainblat)
+### [Liza Wainblat](#liza-wainblat)&nbsp;<a href="https://www.linkedin.com/in/liza-wainblat-ba161b1/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liza-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
 Liza also likes writing, and is an author of the book "One Funny Day" about the humor of everyday life.
 **<br/>Languages: English, Hebrew, Russian
@@ -228,20 +228,20 @@ Liza also likes writing, and is an author of the book "One Funny Day" about the 
 <hr/>
 
 
-### [Hadas Yaakobovitch](#hadas-yaakobovitch)
+### [Hadas Yaakobovitch](#hadas-yaakobovitch)&nbsp;<a href="https://www.linkedin.com/in/hadas-yaakobovitch-5a5ba684/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/hadas-round.png" width="100" align="left" padding-right="5"> Hadas’s passion is around making design come to life, handling complexities along the way.  Currently she’s a development team lead @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform. In her spare time Hadas likes to scuba dive, read and has a warm spot in her heart for felines of all types.
 **<br/>Languages: English, Hebrew
 <br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=OXU3A7XZcyY), [[2]](https://www.youtube.com/watch?v=vUEKL8zekXc)**
 <hr/>
 
-### [Gil Zellner](#gil-zellner)
+### [Gil Zellner](#gil-zellner) &nbsp; <a href="https://twitter.com/heathenaspargus" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gilzellner/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gil-round.png" width="100" align="left" padding-right="5"> Gil Zellner, DevOps enthusiast and professional, experienced tech speaker. Created by 2 engineers in the 80s and has yet to grow out of it, Gil is obesessed with technical things and how we humans interact with them.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=fl0NJCnkhI0), [[2]](https://www.youtube.com/watch?v=I_XI2hFPuQI), [[3]](https://www.youtube.com/watch?v=kiPRWllQdt4), [[4]](https://youtu.be/xBkQWr1-iqc)**
 <hr/>
 
 
-### [Sharone Zitzman](#sharone-zitzman)
+### [Sharone Zitzman](#sharone-zitzman) 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/sharone-round.png" width="100" align="left" padding-right="5"> Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love.  Having built both the DevOps Israel and Cloud Native Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. Sharone heads up Developer Relations at AppsFlyer as her day job. You can find her on Twitter or Github as @shar1z. 
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8), [[6]](https://www.youtube.com/watch?v=f9MG3_DHRSI)**
