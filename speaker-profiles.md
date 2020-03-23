@@ -156,9 +156,10 @@ He loves to search and finds possible code optimizations, making it possible to 
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
+### [Yigal Pinhasi](#yigal-pinhasi)
+<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yigal-round.png" width="100" align="left" padding-right="5">Yigal Pinhasi is a Big-Data developer with an extensive background as a backend developer on Telecom, VoIP,  IT-Services, Fintech,  AdTech &, Mobile Analytics domains.
+Like to programm, design & build  reliable, scalable and advanced solutions using top-noch technologies & architectures.
 
-<!--### [Ariel Moskovich](#ariel-moskovich)
-<img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ariel-round.png" width="100" align="left" padding-right="5">Ariel is a dedicated Operations Engineer with more than 20 years of experience in high scale and live production environments. He is currently the Chief Infrastructure Architect at AppsFlyer, the world's leading mobile attribution & marketing analytics platform. At AppsFlyer, Ariel has built a team that is running high scale multi-cloud operations, which serve over 12 billion events per day. Previously, he worked as a Senior Operations Engineer in some of the most challenging environments - Outbrain and Orbitz. Ariel is married to a wonderful wife, and a survivor of three demanding, yet sweet, kids.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=9z8safOdyFE), [[2]](https://www.youtube.com/watch?v=H5Yo5a8SG6g), [[3]](https://www.youtube.com/watch?v=_FMEmBqFFAM&t=1522s)** -->
 
