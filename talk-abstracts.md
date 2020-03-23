@@ -169,6 +169,31 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 <p>Type: Full-length Presentation</p>
 
 </details>
+
+<details><summary><strong>Salting Spark for Scale</strong></summary>
+
+#### Abstract
+One of the major issues that Spark batch jobs have to contend with at AppsFlyer is that our data is inherently skewed.  For instance a couple of apps account for the vast majority of our traffic.  Data skew wreaks havoc on naively written data jobs by making them perform and scale very poorly as the amount of data they need to process increases.  Recently one of our central data aggregations -- the process that prepares data for the overview dashboard -- stopped working and we had essentially reached the limit where we could no longer devote more Ram to the process to help it.  Using a technique called "Salting" to overcome the data skew that was killing this job we were able to get the job working again and make the entire process much more scalable.  I'll go over Salting in depth to explain how it works and how we are starting to use it here at AppsFlyer.
+  
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Full-length Presentation</p>
+
+</details>
+
+<details><summary><strong>Load testing Druid with af-http-load-test</strong></summary>
+
+#### Abstract
+AppsFlyer's mobile attribution and analysis platform is used by the biggest and most popular applications on Earth.  One of the backbones enabling our scale of operations is Druid -- we run many clusters processing thousands of diverse queries per minute to serve our client facing dashboards.  Recently we needed to upgrade our Druid clusters because they were running a very old version of Druid.  
+
+Once the new clusters were up and the data was transferred, we had to solve the bigger challenge of ensuring these new clusters would actually withstand our production workloads.  In fact, the lack of a way to easily test a new Druid cluster with our production load was a major reason for us not upgrading our Druid clusters sooner.  These challenges inspired us to write a simple open source tool -- af-http-load-test -- to allow us to load test a Druid cluster using production queries. The general approach we took is to load the production queries onto a Kafka queue and consume the Kafka queue using one or more load testing consumers -- yielding a horizontally scalable load testing solution.  
+
+Using af-http-load-test, queries can be replayed against a test cluster at exactly the original rate or if desired the cluster can be stress tested by replaying the queries at an arbitrarily faster rate.  This talk will dive into the principle and performance characteristics of the query scheduling engine.  In addition to flexible query scheduling, the project allows pluggable filtering and editing of queries to facilitate some common needs like renaming data sources or disabling caching, along with more advanced use cases. Using af-http-load-test allowed us to quickly and safely upgrade our Druid clusters as well as optimize our hardware choices yielding significant cost savings without sacrificing performance. (edited) 
+  
+Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
+<p>Type: Full-length Presentation</p>
+
+</details>
+
 <br/>
     
 ### [Programming Talks](#programming)
