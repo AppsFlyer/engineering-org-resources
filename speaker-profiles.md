@@ -160,8 +160,7 @@ He loves to search and finds possible code optimizations, making it possible to 
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yigal-round.png" width="100" align="left" padding-right="5">Yigal Pinhasi is a Big-Data developer with an extensive background as a backend developer on Telecom, VoIP,  IT-Services, Fintech,  AdTech &, Mobile Analytics domains.
 Like to programm, design & build  reliable, scalable and advanced solutions using top-noch technologies & architectures.
 
-**<br/>Languages: English, Hebrew
-<br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=9z8safOdyFE), [[2]](https://www.youtube.com/watch?v=H5Yo5a8SG6g), [[3]](https://www.youtube.com/watch?v=_FMEmBqFFAM&t=1522s)** -->
+**<br/>Languages: English, Hebrew** 
 
 
 ### [Ethan Pransky](#ethan-pransky) 
