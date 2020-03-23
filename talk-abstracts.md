@@ -795,10 +795,11 @@ Speakers: [Ariel Moskovich](/speaker-profiles.md#ariel-moskovich)
 <details><summary><strong>Googlies, Grubbers, Lollies! How cricket helped us improve our throughput by 200%</strong></summary>
 
 #### Short Description
-Overnight the traffic to our postback sender service suddenly increased by 50% because of one of our client's apps.  This will be a story of how we learned to handle these spikes in real time, and even improved throughput and performance in the long run.
+Queueing Theory is one of the most important mathematical theories in systems design and analysis, yet very few engineers learn it. This talk will explain how queueing theory helped us quickly and cheaply de-bottleneck some of our mission-critical services & touch on some of the first-order principles which are applicable to any developer designing and/or optimizing their services for scale.
 
 #### Long Description
-I never imagined I’d know who Indian cricket star Rohit Sharma is, but then traffic to our real-time HTTP request sender service suddenly increased from 20 to 40 million events per minute. The reason? An app streaming the first game of the Indian cricket season. While growth is a good thing, we found ourselves unprepared for this sudden spike & needed to scramble. Initially we just threw money at the problem, but this wasn't sustainable. My talk will describe how we found low-cost, programmatic and architectural solutions to this problem and how we prepared ourselves to handle massive spikes like these on top of our existing 70 billion events per day. I'll explain our process of profiling, performance enhancement techniques, and some important lessons learned along the way.
+Whenever we're discussing scale we're actually just talking about queueing theory. I learned this lesson first-hand when the start of the Indian Premier League cricket season suddenly caused incoming events to our system to increase from 20-40 million events/minute. In this talk, I'll explain how queueing theory helped us quickly and cheaply de-bottleneck some of our mission-critical services and along the way I'll show some of the first-order principles which are applicable to any developer designing and/or optimizing their services for scale.
+
 
 Speakers: [Ethan Pransky](/speaker-profiles.md#ethan-pransky)
 <p>Type: Full-length Presentation, Post-Mortem</p>
