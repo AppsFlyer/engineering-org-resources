@@ -170,12 +170,32 @@ Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
 
 </details>
 
-<details><summary><strong>Salting Spark for Scale</strong></summary>
+<details><summary><strong>Migrating Third-Party Services in your Production Big Data Pipeline</strong></summary>
 
-#### Abstract
-One of the major issues that Spark batch jobs have to contend with at AppsFlyer is that our data is inherently skewed.  For instance a couple of apps account for the vast majority of our traffic.  Data skew wreaks havoc on naively written data jobs by making them perform and scale very poorly as the amount of data they need to process increases.  Recently one of our central data aggregations -- the process that prepares data for the overview dashboard -- stopped working and we had essentially reached the limit where we could no longer devote more Ram to the process to help it.  Using a technique called "Salting" to overcome the data skew that was killing this job we were able to get the job working again and make the entire process much more scalable.  I'll go over Salting in depth to explain how it works and how we are starting to use it here at AppsFlyer.
+#### Short Description
+Migrating a third party cluster service in your big data production pipeline can be quite a headache.
+
+In this talk, we will show a case study of handling a third party service migration/upgrade by building a testing model capable of verifying your production readiness with the migrated service, improving your product performance, exploring your service limitations and optimizing your production service cluster setup.
+
+#### Long Description
+Congratulations, so after three years you finally decided to upgrade the third party service in your big data production pipeline. 
+
+Now, you just need to figure out the following big *‘Hows’* before you get started: 
+* How can you verify production readiness with the new migration service ? 
+* How can you find your production pipeline limitations ?
+* How can you improve your production performance dramatically ?
+* How can you  save your company millions of dollars ?
+              
+In this session we’ll demonstrate through  a case study of a Druid analytical DB cluster migration (distributed over tens of servers) and  will walk you through these hard questions all the way through to the final successful deployment.
+
+We will discuss which anti-patterns you should avoid, and which best practices you should use in order to create an easy to deploy testing environment, as well as how to load full production traffic on your testing environment.
+
+We will demonstrate how you can use this testing model in order to ensure that you maintain your production SLAs for all of the incoming traffic during the service migration.
+
+
+In addition we will discuss how you  can discover the service limitations, optimize the service cluster setup to improve production performance, while dramatically improving company cost effectiveness.
   
-Speakers: [Morri Feldman](/speaker-profiles.md#morri-feldman)
+Speakers: [Yigal Pinhasi](/speaker-profiles.md#yigal-pinhasi)
 <p>Type: Full-length Presentation</p>
 
 </details>
