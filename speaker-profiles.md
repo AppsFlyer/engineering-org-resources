@@ -116,13 +116,13 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/>
 
 
-### [Yuri Kalinin](#yuri-kalinin) 
+### [Yuri Kalinin](#yuri-kalinin) &nbsp;<a href="https://www.linkedin.com/in/yuri-kalinin-27075ab0/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yuri-round.png" width="100" align="left" padding-right="5"> Yuri Kalinin is a software engineer at AppsFlyer for the last three years with experience as a functional programmer, alongside object-oriented, working with a diversity of clouds, and monitoring stacks.  His core expertise is writing libraries consumed by developers including Go, Clojure, Javascript, Java and Python.  Prior to AppsFlyer, Yuri was an engineer at Mellanox Technologies, has extensive experience with networking, verification, QA, as well as being a Fullstack and DevOps engineer. 
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
 
-### [Gilad Katz](#gilad-katz)
+### [Gilad Katz](#gilad-katz) &nbsp;<a href="https://www.linkedin.com/in/katzgilad/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/gilad-round.png" width="100" align="left" padding-right="5"> Gilad Katz serves as VP R&D at AppsFlyer, bringing 12 years of experience in both technology and product leadership, building teams in both consumer and big data startups. Prior to AppsFlyer Gilad served as CEO of Zone an early stage startup building a unique and tech savvy social network (part of Zone's team joined AppsFlyer and are the core team of the Kiev office). He also served as VP Engineering at Taykey and VP R&D at Everything.Me. Gilad lives in Herzliya with his wife and 2 young kids.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=Zi_lxaWxpxM)**
@@ -145,38 +145,38 @@ Talk Recordings: [[1]](https://www.youtube.com/watch?v=s5Meg6j5J3A),[[2]](https:
 <hr/>
 
 
-### [Igor Masternyi](#igor-masternyi)
+### [Igor Masternyi](#igor-masternyi) &nbsp; <a href="https://www.linkedin.com/in/igor-masternoy-92972665/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/igor-round.png" width="100" align="left" padding-right="5"> Igor is a software engineer at Appsflyer. He especially likes to solve complex problems requiring non-obvious approaches from Stack Overflow.
 He loves to search and finds possible code optimizations, making it possible to squeeze the maximum out of the machine, and improve performance by orders of magnitude. Igor enjoys talking about IoT, Smart House, and Machine Learning. Igor cannot survive the winter without visiting a ski resort.
 **<br/>Languages: English, Russian**
 <hr/>
 
-### [Vladimir Mevzos](#vladimir-mevzos)
+### [Vladimir Mevzos](#vladimir-mevzos) &nbsp; <a href="https://www.linkedin.com/in/mevzosvlad/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/vlad-round.png" width="100" align="left" padding-right="5"> Vladimir Mevzos is an experienced DevOps with about 10 years experience. He pass a long way with metrics and alerting from MRTG,Cacti to Zabbix,Nagios and to more modern Sensu/Graphite stack,fan of  "Measure Everything" concept . He holds Bachelors and Masters Degrees in Math. Before Appsflyer, Vladimir worked with bond-trading systems and financial analysis. On his free time he loves to play Chess and Go, travel and spend time at the nature.           
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
-### [Yigal Pinhasi](#yigal-pinhasi)
+### [Yigal Pinhasi](#yigal-pinhasi) &nbsp; <a href="https://www.linkedin.com/in/yigalpinhasi/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yigal-round.png" width="100" align="left" padding-right="5">Yigal Pinhasi is a Big-Data developer with an extensive background as a backend developer on Telecom, VoIP,  IT-Services, Fintech,  AdTech &, Mobile Analytics domains.
 Like to programm, design & build  reliable, scalable and advanced solutions using top-noch technologies & architectures.
 
 **<br/>Languages: English, Hebrew** 
 
 
-### [Ethan Pransky](#ethan-pransky) 
+### [Ethan Pransky](#ethan-pransky)  &nbsp; <a href="https://www.linkedin.com/in/ethan-pransky-99067941/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ethan-round.png" width="100" align="left" padding-right="5"> Ethan is a self-taught developer obsessed with learning as much as possible about handling data at scale and what can be done with it. He currently talks to computers at AppsFlyer. When not talking to machines, Ethan likes being with his dog Taco, running, swimming, and drinking coffee.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=aejjRzjGYOE&t=73s),[[2]](https://www.youtube.com/watch?v=QnfRcvtKdO0)**
 <hr/>
 
-### [Asy Ronen](#asy-ronen)
+### [Asy Ronen](#asy-ronen) &nbsp; <a href="https://www.linkedin.com/in/asyronen/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/asy-round.png" width="100" align="left" padding-right="5"> Asy Ronen is a seasoned software architect and developer, who specializes in building large-scale distributed and highly concurrent systems.  Over his 15+ year career he has gained expertise in large data storage solutions including NoSQL/NewSQL and analytic solutions.  Aside from architecting for scale and performance, Asy is known to drive ambitious technological roadmaps and lead the development effort towards achieving these goals.  He is a seasoned speaker and blogger.  
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=DcJdWYfKcwQ), [[2]](https://www.youtube.com/watch?v=s5Q2Uz4nt6o&t=665s)**
 <hr/>
 
 
-### [Nir Rubinstein](#nir-rubinstein)&nbsp; <a href="https://www.linkedin.com/in/nir-rubinstein-69172517/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Nir Rubinstein](#nir-rubinstein) &nbsp; <a href="https://www.linkedin.com/in/nir-rubinstein-69172517/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/nir-round.png" width="100" align="left" padding-right="5"> Nir Rubinstein is a multidisciplinary developer who utilizes various programming languages and technology stacks. His main passion is building robust and scalable infrastructure solutions on the Server Side. Good code and new technology are Nir's sweet spot, alongside modeling, designing and implementing concurrent and distributed infrastructure solutions built to handle today's amount of Big Data and extreme traffic. Nir's go-to methodologies are functional programming languages and paradigms, queues, and async communications to power web-scale.
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=mBTv4g7xdgU), [[2]](https://www.youtube.com/watch?v=13ykkP8b4LE), [[3]](https://www.youtube.com/watch?v=LcpbBth7FaQ), [[4]](https://www.youtube.com/watch?v=fLLxGJNb8bY), [[5]](https://www.youtube.com/watch?v=YfdptBIrBuQ), [[6]](https://www.youtube.com/watch?v=NjYpCcMwPoc),[[7]](https://www.youtube.com/watch?v=vNDiN74ZNfU)
@@ -186,7 +186,7 @@ Like to programm, design & build  reliable, scalable and advanced solutions usin
 
 
 
-### [Maxim Shoustin](#maxim-shoustin)
+### [Maxim Shoustin](#maxim-shoustin) &nbsp;<a href="https://www.linkedin.com/in/maxim-shoustin-a31a5018/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/maxim-round.png" width="100" align="left" padding-right="5"> Maxim Shoustin is a Mobile Development Team Leader at AppsFlyer. Prior to joining AppsFlyer, Maxim worked as a FullStack developer for more than 6 years in startups and big companies. His first foray into mobile development was with Symbian, in 2010 when they still dominated the market, and of course transitioned to more popular OSes with the mobile market evolution. Today, he develops enterprise-grade SDKs across a diversity of mobile operating systems - from Android, to iOS through Cordova, Unity, React-Native among others. Maxim leads the  Mobile Team that develops an SDK providing app installation and event recording functionality as part of AppsFlyer's holistic mobile attribution suite of products. The AppsFlyer SDK runs on more than 7 billion devices as a native SDK for Android and iOS and most of the popular plugins. Maxim makes it a priority to empower people and mentor them, some of which he does through StackOverflow as a top contributor, aiming to help others by sharing from his experience.
 **<br/>Languages: English, Hebrew, Russian
 <br/>Talk Recordings: [[1]](https://youtu.be/8TTFcmG_LpI)
@@ -201,14 +201,14 @@ Like to programm, design & build  reliable, scalable and advanced solutions usin
 <hr/>
 
 
-### [Ran Tavory](#ran-tavory)&nbsp; <a href="https://twitter.com/rantav" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rantav/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Ran Tavory](#ran-tavory) &nbsp; <a href="https://twitter.com/rantav" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/rantav/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/ran-round.png" width="100" align="left" padding-right="5"> From bits in the database to bits of PNGs, Ran is a full stack developer with interests ranging from slick and responsive web interfaces, nosql, web infrastructure, scaling, deployment automation, continuous deployment, programming languages, open source enthusiast (a contributor and creator of several projects). Ran also leads the popular [podcast](https://www.reversim.com/) and [conference](https://summit2019.reversim.com/).
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=ADttQndpCEw), [[2]](https://www.youtube.com/watch?v=S-iO0MN0x74), [[3]](https://www.youtube.com/watch?v=LmaGQtwVh8o), [[4]](https://www.youtube.com/watch?v=Wq0i7VD7-ug)**
 <hr/>
 
 
-### [Yulia Trakhtenberg](#yulia-trakhtenberg)&nbsp; <a href="https://twitter.com/yuliat79" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yuliatrakhtenberg/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Yulia Trakhtenberg](#yulia-trakhtenberg) &nbsp; <a href="https://twitter.com/yuliat79" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/yuliatrakhtenberg/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/yulia-round.png" width="100" align="left" padding-right="5"> Yulia Trakhtenberg is the Data Group Manager at AppsFlyer, with more than 15 years of experience in software development (both backend and frontend), including requirements, architecture, design, coding, testing, quality and customer issues, and nearly a decade of team management and empowerment. Yulia's expertise is around combining deep technical knowledge with understanding of product, business and customer needs.
 Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big data, Java, PHP, NoSQLs, Redis, MySQL, and agile, scrum, automation, management, recruitment, team empowerment.
 **<br/>Languages: English, Hebrew, Russian
@@ -220,7 +220,7 @@ Some of the "ologies" she likes to dapple in are:  Clojure, C++, Ruby, Web, Big 
 **<br/>Languages: English, Hebrew, Russian**
 <hr/>
 
-### [Liza Wainblat](#liza-wainblat)&nbsp;<a href="https://www.linkedin.com/in/liza-wainblat-ba161b1/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Liza Wainblat](#liza-wainblat) &nbsp;<a href="https://www.linkedin.com/in/liza-wainblat-ba161b1/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/liza-round.png" width="100" align="left" padding-right="5"> Liza Wainblat is an experienced software manager with over 15 years of experience with specialization in scalable, distributed, performance-oriented systems. Liza has a history of releasing successful solutions in the networking, storage and web areas at companies like F5, Alvarion, CheckPoint, and today at AppsFlyer. During the last years Liza built an infrastructure knowledge base enabling a smooth transition for any product from first release to stable and successful production-grade, all the while enjoying the process.
 Liza also likes writing, and is an author of the book "One Funny Day" about the humor of everyday life.
 **<br/>Languages: English, Hebrew, Russian
@@ -228,7 +228,7 @@ Liza also likes writing, and is an author of the book "One Funny Day" about the 
 <hr/>
 
 
-### [Hadas Yaakobovitch](#hadas-yaakobovitch)&nbsp;<a href="https://www.linkedin.com/in/hadas-yaakobovitch-5a5ba684/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
+### [Hadas Yaakobovitch](#hadas-yaakobovitch) &nbsp;<a href="https://www.linkedin.com/in/hadas-yaakobovitch-5a5ba684/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/hadas-round.png" width="100" align="left" padding-right="5"> Hadas’s passion is around making design come to life, handling complexities along the way.  Currently she’s a development team lead @ AppsFlyer, the world’s leading mobile attribution & marketing analytics platform. In her spare time Hadas likes to scuba dive, read and has a warm spot in her heart for felines of all types.
 **<br/>Languages: English, Hebrew
 <br/> Talk Recordings: [[1]](https://www.youtube.com/watch?v=OXU3A7XZcyY), [[2]](https://www.youtube.com/watch?v=vUEKL8zekXc)**
@@ -241,7 +241,7 @@ Liza also likes writing, and is an author of the book "One Funny Day" about the 
 <hr/>
 
 
-### [Sharone Zitzman](#sharone-zitzman) 
+### [Sharone Zitzman](#sharone-zitzman) &nbsp; <a href="https://twitter.com/shar1z" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_Twitter_1298770.png" width="20" padding-right="5"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/sharonez/" target="_blank"><img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/iconfinder_LinkedIn_1298749.png" width="20" padding-right="5"></a><br/>
 <img src="https://github.com/AppsFlyer/engineering-org-resources/blob/master/img/speaker-img/sharone-round.png" width="100" align="left" padding-right="5"> Sharone Zitzman is a marketing technologist and open source community builder, who likes to work with teams building products that developers love.  Having built both the DevOps Israel and Cloud Native Israel communities from the ground up, she spends her time finding the places where technology and people intersect and ensuring an excellent developer experience, backed by a culture focused on engineering excellence and quality. Sharone heads up Developer Relations at AppsFlyer as her day job. You can find her on Twitter or Github as @shar1z. 
 **<br/>Languages: English, Hebrew
 <br/>Talk Recordings: [[1]](https://www.youtube.com/watch?v=8AURp2imtKQ), [[2]](https://www.youtube.com/watch?v=ZolFwqJ2whw), [[3]](https://www.youtube.com/watch?v=pTNngYk1pgU&t=4s),[[4]](https://www.youtube.com/watch?v=EFI5V-Vqulo), [[5]](https://www.youtube.com/watch?v=kttJ7js7uC8), [[6]](https://www.youtube.com/watch?v=f9MG3_DHRSI)**
